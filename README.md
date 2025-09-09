@@ -156,7 +156,29 @@ Desarrollo de aplicaciones Open Source <br>
 
 ### 1.1.1. Descripción de la Startup
 
-BeCode es una plataforma para ayudar a programadores Freelancers y a equipo de programación pequeños a poder encontrar inversores con ideas para que se les pueda desarrollar funcionando como un estilo de Market Place. Asimismo se añadiran funcionalidades para los programadores o inversores que les permita comunicarse abiertamente, definir sus ideas y trabajar en conjunto.
+OpenMind es una plataforma digital que sirve para ayudar a personas con problemas mentales con el objetivo
+de que tengan una mejorar calidad de vida desde el enfoque psicológico. Además, desde nuestra
+perspectiva estaremos centrados en ayudar arduamente a las personas que más lo necesitan, de tal
+manera que puedan mejorar su estado emocional y mental, viviendo una vida pacífica y tranquila. Para
+alcanzar los objetivos mencionados, hemos creado un software llamado "Place to Dialogue", diseñada
+específicamente para brindar apoyo psicológico personalizado a nuestros usuarios, con un enfoque en
+jóvenes adultos (18-35 años), personas en áreas rurales o de bajos recursos, y aquellos que valoran
+la confidencialidad y la conveniencia digital. Consideramos importante reconocer los desafíos únicos
+que enfrentan estos grupos, desde la falta de acceso a servicios de salud mental en áreas remotas
+hasta la necesidad de privacidad en el proceso de búsqueda de ayuda. La aplicación permite que los
+usuarios se comuniquen con un chatbot a través de mensajes de texto, audio y video en un entorno
+seguro y confidencial. Este sistema garantiza que cada usuario pueda abordar de manera cómoda y
+privada sus problemas emocionales.
+
+Misión:
+Nuestra misión es democratizar el acceso a la salud mental, proporcionando un espacio seguro y
+accesible donde las personas puedan expresar sus pensamientos y emociones libremente,
+conectándose con profesionales que les ofrecen apoyo psicológico personalizado y confidencial.
+
+Visión:
+Ser la plataforma líder en apoyo psicológico digital, reconocida por su capacidad para llegar a
+comunidades desatendidas y ofrecer un entorno donde cualquier persona, independientemente de su
+ubicación o condición socioeconómica, pueda recibir la ayuda emocional que necesita.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
@@ -175,27 +197,197 @@ BeCode es una plataforma para ayudar a programadores Freelancers y a equipo de p
 
 ### 1.2.1 Antecedentes y problemática
 
-#### Antecedentes:
+La problemática de la salud mental en el Perú se ha visto agravada en los últimos años, principalmente
+debido a la pandemia mundial de COVID-19. Según un estudio del Ministerio de Salud, uno de cada
+tres peruanos sufre de algún trastorno mental, y lo más alarmante es que el 80% de ellos no recibe
+tratamiento. La pandemia intensificó esta situación, ya que los factores de aislamiento social, la
+incertidumbre laboral y económica, el miedo al contagio, y la pérdida de seres queridos afectarán
+gravemente la salud mental de la población.
+
+Durante el año 2023, se registraron 280,917 casos de depresión atendida en el país. De este total, el
+75,5% de los casos correspondió a mujeres, mientras que el 16,5% afectó a menores de edad. Estas
+cifras ponen de manifiesto el impacto desproporcionado en ciertos grupos de la población.
+Un problema clave es la escasez de profesionales de la salud mental. De acuerdo con la Organización
+Mundial de la Salud (OMS), en el Perú hay únicamente 3 psiquiatras y 10 psicólogos por cada 100.000
+habitantes, lo que evidencia una enorme brecha en la atención psicológica. 
+
+Esta falta de recursos
+humanos se traduce en largas listas de espera para obtener tratamiento y en una atención limitada a
+Frente a este panorama, es fundamental contar con un plan de acción bien estructurado para mejorar
+el acceso y la calidad de los servicios de salud mental. 
+
+Para ello, utilizaremos el método de las 5W's y
+2H's (Qué, Por qué, Cuándo, Dónde, Quién, Cómo, Cuánto). Este enfoque permitirá analizar de manera
+integral el proceso del proyecto, asegurando que todas las fases, desde la identificación del problema
+hasta la implementación de soluciones, se lleven a cabo con la máxima eficiencia.
+
+- Who (¿Quién?)
+
+¿A quienes va dirigido la aplicación?
+
+Esta dirigido para jóvenes adultos (Entre 18 y 35 años), para personas que viven en áreas rurales o de bajos recursos y personas que prefieren la confidencialidad o la conveniencia digital que se ofrece.
+
+- What (¿Qué?)
+
+¿Qué problema buscamos resolver?
+
+La problemática que buscamos solucionar es la falta de acceso y recursos económicos dirigidos
+hacia la salud mental. Muchas personas no pueden tener acceso a un apoyo emocional,
+haciendo esto que muchos trastornos empeoren.
+
+- Where (¿Dónde?)
+
+¿Dónde lo utilizarian?
+
+Lo usarian en áreas rurales o de bajos recursos donde los profesionales de salud mental son escasos o
+inexistentes, tambien podria ser en entornos laborales o escolares donde las personas pueden experimentar altos niveles de
+estrés y ansiedad sin acceso adecuado a apoyo emocional.
+
+- When (¿Cuándo?)
+
+¿Desde cuándo el problema comenzó a volverse más serio?
+
+Estos problemas se pueden presentar en momentos de crisis emocionales o de estrés agudo,
+como después de pérdidas personales, cambios importantes de vida o problemas financieros,
+también durante las 24 horas del día, ya que las emociones pueden afectar a las personas en
+cualquier momento y durante y después de situaciones de gran impacto, como la pandemia de
+COVID-19.
+
+- Why (¿Por qué?)
+
+¿Por qué ocurre este problema?
+
+Este problema ocurre porque hay una escasez de terapeutas y psicólogos, especialmente en áreas rurales o de bajos
+recursos. Otro punto sería el hecho de que las consultas psicológicas pueden ser costosas y no están siempre cubiertas por seguros
+médicos, muchas  personas temen el juicio o la vergüenza por buscar ayuda, especialmente en culturas
+donde la salud mental sigue siendo tabú. Hay que considerar tambien las listas de espera para acceder a profesionales son largas, lo que puede impedir que se
+reciban tratamientos a tiempo.
+
+- How (¿Cómo?)
+
+¿Cómo lo desarrollaremos?
+
+Lo desarrollaremos utilizando un psicólogo virtual impulsado por IA, ofreciendo ayuda inmediata, detección de
+estado emocional en base a lenguaje corporal, sugerencia de actividades para relajarse y
+despejar la mente y seguimiento continuo del estado del usuario. Los algoritmos
+personalizados que ofrece monitorean las necesidades y patrones de cada usuario para crear
+un acompañamiento único y adecuado a sus necesidades. Esto permite a los usuarios recibir
+apoyo constante, adaptado a sus circunstancias específicas.
+
+- How much (¿Cuánto?)
+
+¿Cúanto llegaria a costar nuestra aplicación?
+
+"Place to Dialogue" se ofrece mediante suscripciones mensuales, con opciones de descuentos
+y promociones cuando la aplicación se vincula a más de un dispositivo móvil. Desarrollo del
+chatbot con NLP y algoritmos de IA: entre $50,000 - $100,000 USD, dependiendo de la
+complejidad. En el caso del desarrollo multiplataforma (web y móvil) el costo sería de: $20,000 - $50,000 USD.
 
 ### 1.2.2 Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
 
+Para nuestra propuesta de solución, hemos investigado sobre el problema de la falta de acceso
+oportuno y adecuado a servicios de apoyo psicológico, especialmente en comunidades con
+limitaciones geográficas, económicas o donde la estigmatización hacia la salud mental es alta. 
+
+A lo
+largo de nuestras investigaciones, hemos identificado que muchas personas, particularmente jóvenes
+adultos entre 18 y 35 años, enfrentan niveles elevados de estrés académico y laboral, pero encuentran
+dificultades para acceder a recursos de apoyo debido a barreras como el costo elevado de las terapias,
+la falta de tiempo, o la preocupación por la confidencialidad en los métodos tradicionales de atención
+psicológica.
+
+Este problema ha afectado significativamente a personas en áreas rurales o con bajos recursos, así
+como a aquellos que prefieren evitar la exposición de sus necesidades emocionales en entornos
+físicos. Además, muchas veces, quienes más necesitan apoyo emocional prefieren medios digitales
+más accesibles y confidenciales, pero se encuentran con soluciones poco personalizadas o con
+tiempos de respuesta limitados.
+
+Con esta información, nos preguntamos: 
+
+**¿Cómo podemos crear una plataforma digital que no solo
+ofrezca apoyo psicológico personalizado y accesible, sino que también fomente una relación continua,
+segura y confidencial, brindando un espacio donde los usuarios se sientan comprendidos y
+acompañados en cualquier momento y lugar?**
+
 #### 1.2.2.2. Lean UX Problem Assumptions
 
 **¿Quién es el usuario?**
 
+- Jóvenes adultos (18-35 años) que buscan apoyo psicológico.
+- Personas en áreas rurales o de bajos recursos con acceso limitado a servicios de salud
+mental.
+- Individuos que prefieren la confidencialidad o la conveniencia digital en la búsqueda de
+ayuda emocional.
+
 **¿Dónde encaja nuestro producto en su vida?**
+
+- La aplicación se integra en la vida diaria de los usuarios, proporcionando apoyo
+emocional en momentos de estrés o crisis.
+- Para usuarios en áreas rurales, la aplicación actúa como un puente hacia recursos de
+salud mental inaccesibles localmente.
+- Ofrece una alternativa conveniente y discreta para aquellos que buscan apoyo sin
+necesidad de sesiones presenciales.
 
 **¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
 
+- Dificultad para acceder a apoyo emocional y psicológico debido a barreras geográficas,
+económicas o sociales.
+- Necesidad de un entorno seguro y confidencial para discutir temas personales.
+- Falta de recursos inmediatos y personalizados para el manejo de crisis emocionales.
+
 **¿Cómo y cuándo es usado nuestro producto?**
+
+- Los usuarios acceden a la aplicación principalmente durante momentos de crisis o
+cuando necesitan soporte emocional inmediato.
+- La aplicación se utiliza tanto durante horas laborales como no laborales, ya que ofrece
+disponibilidad continua.
+- Es usada en dispositivos móviles, permitiendo a los usuarios conectarse en cualquier
+lugar y momento.
 
 **¿Qué características son importantes?**
 
+- Acceso 24/7 a apoyo emocional a través de un chatbot impulsado por IA.
+- Opciones de comunicación flexible (texto, audio, video) con terapeutas licenciados.
+- Funcionalidades de privacidad robustas para proteger los datos de los usuarios
+
 **¿Cómo debe verse nuestro producto y cómo comportarse?**
 
+- La interfaz debe ser intuitiva y accesible, con un diseño centrado en la experiencia del
+usuario.
+- La aplicación debe ser rápida, segura y confiable, con un enfoque en la simplicidad y
+facilidad de uso.
+- La experiencia debe ser personalizable, permitiendo a los usuarios ajustar las
+preferencias de comunicación y notificaciones.
+
 #### 1.2.2.3. Lean UX Problem Hypothesis Statements
+
+- Creemos que el seguimiento personalizado que ofrece nuestra aplicación hará que las personas se
+sientan escuchadas y acompañadas. Sabremos que hemos tenido éxito cuando veamos que las personas brinden comentarios positivos
+acerca de nuestro servicio.
+
+- Creemos que al hacer las actividades de ayuda de IA más interactivas aumentaremos el interés por
+parte de nuestros usuarios.
+Sabremos que hemos tenido éxito cuando veamos que la cantidad de personas que terminan todas
+las actividades sea mayor.
+
+- Creemos que los jóvenes adultos con altos niveles de estrés utilizarán el psicólogo virtual para obtener
+soporte emocional rápido, discreto y accesible, debido a la necesidad de una solución económica y
+conveniente.
+Sabremos que esto es cierto cuando veamos la mejoría en la disminución del estrés en nuestro
+segmento objetivo.
+
+- Creemos que las personas en áreas rurales o de bajos ingresos valorarán el acceso a esta herramienta
+digital para obtener ayuda emocional, lo que mejorará su bienestar psicológico sin importar las barreras
+geográficas o económicas.
+Sabremos que esto es cierto cuando nos pongamos en contacto con las personas de este segmento y
+nos cuenten cómo ha sido su experiencia durante el tiempo que estuvieron usando la aplicación.
+
+- Creemos que las personas preocupadas por la privacidad preferirán usar esta herramienta en lugar de
+buscar ayuda presencial, reduciendo el estigma asociado a buscar apoyo psicológico.
+Sabremos que esto es cierto cuando veamos el incremento en de personas en el último segmento
+objetivo que hemos propuesto.
 
 #### 1.2.2.4. Lean UX Problem Canvas
 
