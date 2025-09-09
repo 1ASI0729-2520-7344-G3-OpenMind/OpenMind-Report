@@ -21,11 +21,11 @@ Desarrollo de aplicaciones Open Source <br>
 
 | **Member**                     | **Code**   |
 | ------------------------------ | ---------- |
-|        | U |
-|             | U |
+| Aarón Santiago Baquerizo Cirilo| U202520156 |
+| Daniel Stalin Palomino Murga   | U20201B253 |
 | Kael Lagos Rivera              | U202210104 |
-|  | U |
-|    | U |
+| Stephano Mayrzon Landauri Preciado  | U202311828 |
+| Carlos Alberto Gonzales Custodio   | U202020230 |
 
 </div>
 
