@@ -318,8 +318,6 @@ acompañados en cualquier momento y lugar?**
 - Jóvenes adultos (18-35 años) que buscan apoyo psicológico.
 - Personas en áreas rurales o de bajos recursos con acceso limitado a servicios de salud
 mental.
-- Individuos que prefieren la confidencialidad o la conveniencia digital en la búsqueda de
-ayuda emocional.
 
 **¿Dónde encaja nuestro producto en su vida?**
 
@@ -384,14 +382,30 @@ geográficas o económicas.
 Sabremos que esto es cierto cuando nos pongamos en contacto con las personas de este segmento y
 nos cuenten cómo ha sido su experiencia durante el tiempo que estuvieron usando la aplicación.
 
-- Creemos que las personas preocupadas por la privacidad preferirán usar esta herramienta en lugar de
-buscar ayuda presencial, reduciendo el estigma asociado a buscar apoyo psicológico.
-Sabremos que esto es cierto cuando veamos el incremento en de personas en el último segmento
-objetivo que hemos propuesto.
-
 #### 1.2.2.4. Lean UX Problem Canvas
 
 ## 1.3. Segmentos objetivo
+
+**Jóvenes adultos (18-35 años) con altos niveles de estrés académico o laboral**
+
+Sustento:
+Al menos el 82% de estudiantes universitarios que estudian y trabajan experimentan altos niveles de
+estrés solo en la ciudad de Lima. Según Seguido (2024), el Ministerio de Salud informó que el 30% en
+general sufre de un alto índice de estrés afectando a jóvenes, adultos y personas que tienen problemas
+económicos. Una investigación realizada por Cassarett, Vilela y Gamarra (2021), indica que al menos
+el 83% de los estudiantes sometidos a estos niveles de estrés optan por abandonar sus estudios.
+
+Link de información: https://puntoseguido.upc.edu.pe/el-estres-universitario-un-desafio-global-para-la-salud-mental-y-el-rendimiento-academico/
+
+**Personas en áreas rurales o de bajos recursos con acceso limitado a servicios de salud mental**
+
+Sustento:
+En el Perú, al menos 8 de cada 10 personas no recibe atención en salud mental, esta alarmante
+cantidad se centra más en las personas que viven en pobreza o pobreza extrema. En un estudio, se
+dio a conocer que el 20% de la población adulta sufre de alguna enfermedad mental como estrés,
+ansiedad y alcoholismo. Asimismo, anualmente se dan entre 900 y 1000 suicidios en nuestro país.
+
+Link de información: https://www.defensoria.gob.pe/ocho-de-cada-10-personas-no-reciben-atencion-en-salud-mental-pese-a-requerirlo/
 
 # Capitulo 2
 
