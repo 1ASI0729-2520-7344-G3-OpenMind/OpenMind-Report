@@ -551,7 +551,7 @@ Link de la entrevista:
 
 ### 2.2.3. Análisis de entrevistas
 
-#### Gestor de proyectos
+#### Jóvenes adultos (18-35 años) que buscan apoyo psicológico
 
 <h5>Análisis de la Entrevista - Nombre del entrevistado</h5>
   <table border="1" cellpadding="6" cellspacing="0">
@@ -610,9 +610,9 @@ Link de la entrevista:
   </table>
 <br>
 
-Conclusión aqui
+Conclusión de las entrevistas aqui
 
-### Freelancer
+### Personas en áreas rurales o de bajos recursos con acceso limitado a servicios de salud mental
 
 <h5>Análisis de la Entrevista - Nombre del entrevistado</h5>
 <table border="1" cellpadding="6" cellspacing="0">
@@ -723,7 +723,7 @@ Conclusión aqui
   </tr>
 </table>
 
-Conclusión aqui.
+Conclusión de las entrevistas aqui.
 
 ## 2.3. Needfinding
 
@@ -1006,7 +1006,7 @@ Formal/Casual, Respetuoso/Irreverente, Entusiasta/Sereno).
 
 1. Elementos visuales:
 
-- Nombre: BeCode
+- Nombre: OpenMind
 - Logotipo: Moderno, detalles minimalistas que reflejen la idea principal del proyecto
 
 Colores principales:
@@ -1131,7 +1131,7 @@ Se utilizaron los siguientes tags en el desarrollo:
 
 3. **Meta title**: Título de la página, ayuda a identificar el nombre de la misma y encontrarla en los navegadores.
 
-4. **Meta tag Author**: Es el autor de la página, en este caso utilizamos el nombre del startup BeCode.
+4. **Meta tag Author**: Es el autor de la página, en este caso utilizamos el nombre del startup OpenMind.
 
 5. **Meta tag Description**: Es una descripción de la página, ayuda a tener una idea general de que trata la página.
 
