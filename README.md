@@ -904,17 +904,17 @@ En esta sección, se definen los términos clave utilizados en el dominio de neg
 
 # Capitulo 3
 
-Este capítulo está dedicado a la especificación de los requisitos de **OpenMind**, tanto funcionales como no funcionales. A través de diferentes herramientas de análisis, se define cómo debe comportarse la plataforma para satisfacer las necesidades de los (Continuar descripción). Este capítulo establece las bases para el desarrollo de un sistema útil, confiable y eficiente, que promueva relaciones laborales justas y proyectos exitosos dentro del ecosistema digital latinoamericano.
+Este capítulo está dedicado a la especificación de los requisitos de **OpenMind**, tanto funcionales como no funcionales. A través de diferentes herramientas de análisis, se define cómo debe comportarse la plataforma para satisfacer las necesidades de los distintos tipos de usuario que hemos identificado. Este capítulo establece las bases para el desarrollo de un sistema útil, confiable y eficiente, que promueva relaciones laborales justas y proyectos exitosos dentro del ecosistema digital latinoamericano.
 
 ## 3.1. To-Be Scenario Mapping
 
-El **To-Be Scenario Mapping** presenta el escenario futuro ideal después de la implementación de **BeCode**. En este escenario, tanto programadores freelance como clientes o inversores podrán interactuar dentro de la plataforma para conectar, definir proyectos y trabajar de forma colaborativa y eficiente. La plataforma facilitará la contratación mediante membresías, asegurará la calidad a través de verificaciones técnicas, y promoverá la transparencia y comunicación directa entre ambas partes. Este mapa muestra cómo BeCode transformará el modelo actual de plataformas freelance, resolviendo las problemáticas previamente identificadas y optimizando la experiencia para todos los involucrados.
+El **To-Be Scenario Mapping** presenta el escenario futuro ideal después de la implementación de **OpenMind**. En este escenario, tanto los jovenes adultos como las personas que viven en zonas rurales podran interactuar dentro de la plataforma con total facilidad al momento de necesitar atención psicológica. Este mapa muestra cómo OpenMind transformará el modelo actual de plataformas dirigidas para salud mental, resolviendo las problemáticas previamente identificadas y optimizando la experiencia para todos los involucrados.
 
-**Nombre del segmento cliente aqui**
+**Jovenes adultos (18 a 35 años)**
 
 Imagen del to be scenario mapping aqui
 
-**Nombre del segmento cliente aqui**
+**Personas que viven en zonas rurales**
 
 Imagen del to be scenario mapping aqui
 
@@ -963,11 +963,11 @@ Las Epics que identificamos son las siguientes:
 
 En la técnica de **Impact Mapping**, conectamos los **objetivos de negocio** con las **soluciones técnicas** de nuestra plataforma OpenMind. Esto nos permite identificar a los **actores clave**, como (mencionar tipos de clientes). De esta forma, aseguramos que las funcionalidades que desarrollamos realmente generan valor para el negocio y están alineadas con los resultados esperados, como proporcionar visibilidad justa para los usuarios y una experiencia segura y eficiente para los clientes.
 
-_Impact Mapping Nombre del tipo de cliente_
+_Impact Mapping Jovenes adultos (18 a 35 años)_
 
 Foto del impact mapping del tipo de cliente aqui
 
-_Impact Mapping Nombre del tipo de cliente_
+_Impact Mapping Personas que viven en zonas rurales_
 
 Foto del impact mapping del tipo de cliente aqui
 
