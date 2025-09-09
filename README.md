@@ -384,6 +384,8 @@ nos cuenten cómo ha sido su experiencia durante el tiempo que estuvieron usando
 
 #### 1.2.2.4. Lean UX Problem Canvas
 
+![Lean_ux_canvas_Imagen](Imagenes/lean_ux_canvas.png)
+
 ## 1.3. Segmentos objetivo
 
 **Jóvenes adultos (18-35 años) con altos niveles de estrés académico o laboral**
