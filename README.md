@@ -912,11 +912,11 @@ El **To-Be Scenario Mapping** presenta el escenario futuro ideal después de la 
 
 **Jovenes adultos (18 a 35 años)**
 
-Imagen del to be scenario mapping aqui
+![To_be_scenario_Imagen](Imagenes/To_be%20_scenario_%20mapping_%20Jóvenes.jpeg)
 
 **Personas que viven en zonas rurales**
 
-Imagen del to be scenario mapping aqui
+![To_be_scenario2_Imagen](Imagenes/To_be_scenario_%20mapping_%20Personas_en%20zonas_rurales.jpeg)
 
 ## 3.2. User Stories
 
