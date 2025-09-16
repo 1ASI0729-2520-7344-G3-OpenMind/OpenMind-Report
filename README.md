@@ -969,23 +969,22 @@ Foto del impact mapping del tipo de cliente aqui
 
 Product Backlog es una herramienta fundamental en el marco de trabajo ágil, particularmente en metodologías como **Scrum**. El backlog actúa como una fuente de verdad que define lo que el equipo de desarrollo necesita trabajar en el producto para entregar valor a los usuarios o clientes.
 
-| **# Orden** | **User Story ID** | **Título**                 | **Descripción**                                                                                                                       | **Story Points (1/2/3/5/8)** |
+| **# Orden** | **User Story ID** | **Título**                 | **Descripción**                                                                                                                       | **Story Points (1/2/3/4/5)** |
 | ----------- | ----------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| 1           | US-01             | Titulo del user stories           | Descripción aqui                    | Puntos aqui                            |
-| 2           | US-02             | Titulo del user stories         | Descripción aqui      | Puntos aqui                            |
-| 3           | US-03             | Titulo del user stories  | Descripción aqui               | Puntos aqui                            |
-| 4           | US-04             | Titulo del user stories        | Descripción aqui | Puntos aqui                            |
-| 5           | US-05             | Titulo del user stories     | Descripción aqui                                    | Puntos aqui                            |
-| 6           | US-06             | Titulo del user stories | Descripción aqui                                        | Puntos aqui                            |
-| 7           | US-07             | Titulo del user stories    | Descripción aqui                                            | Puntos aqui                            |
-| 8           | US-08             | Titulo del user stories      | Descripción aqui                                     | Puntos aqui                            |
-| 9           | US-09             | Titulo del user stories        | Descripción aqui                              | Puntos aqui                            |
-| 10          | US-10             | Titulo del user stories | Descripción aqui                                                   | Puntos aqui                            |
-| 11          | US-11             | Titulo del user stories    | Descripción aqui                              | Puntos aqui                            |
-| 12          | US-12             | Titulo del user stories   | Descripción aqui                                   | Puntos aqui                            |
-| 13          | US-13             | Titulo del user stories  | Descripción aqui                                                   | Puntos aqui                            |
-| 14          | US-14             | Titulo del user stories               | Descripción aqui                       | Puntos aqui                           |
-| 15          | US-15             | Titulo del user stories       | Descripción aqui                                      | Puntos aqui                           |
+| 1           | US-01             | Sección About Us           | Como joven entre 18 a 35 años, quisiera conocer más sobre la plataforma OpenMind para entender cual es su funcionamiento.                    | 5                            |
+| 2           | US-02             | Sección Beneficios         | Como persona que viven en zonas rurales, quisiera ver cuales son los beneficios por usar está aplicación para evaluar si es conveniente utilizarlo.      | 3                            |
+| 3           | US-03             | Comparación de Membresías  | Como joven entre 18 a 35 años, quisiera ver un plan de membresías que me ofrezca diversas alternativas de servicio según mis preferencias.               | 4                            |
+| 4           | US-04             | Sección de Contacto        | Como persona que vive en zonas rurales, quiero poder contactar a OpenMind desde la landing page para resolver las dudas que tenga con respecto a la aplicación. | 2                            |
+| 5           | US-05             | Sección de Testimonios     | Como joven entre 18 a 35 años, quiero leer testimonios de otros usuarios para conocer sus experiencias usando la aplicación.                                    | 2                            |
+| 6           | US-06             | Preguntas Frecuentes (FAQ) | Como persona que vive en zonas rurales, quiero resolver dudas accediendo a la sección de FAQ.                                        | 2                            |
+| 7           | US-07             | Registro de usuario    | Como joven entre 18 a 35 años, quisiera regristrarme en la aplicación para recibir sus servicios.                                            | 4                            |
+| 8           | US-08             | Uso del chatbot      | Como persona que vive en zonas rurales, quisiera contar con una herramienta que me permita identificar el tipo de servicio que busco utilizando una IA para que me sea más facil navegar por la aplicación o para recibir apoyo automático.                                    | 5                            |
+| 9           | US-09             | Visualizar conversaciones pasadas        | Como joven entre 18 a 35 años, quiero que mis conversaciones con el chatbot queden registradas para ser consultadas en cualquier momento.                              | 3                            |
+| 10          | US-10             | Recomendaciones de ayuda profesional | Como persona que vive en zonas rurales, quisiera que el chatbot me pueda recomendar el tipo de ayuda psicológica que necesito al preguntarme si deseo ayuda de un profesional.                                                   | 5                            |
+| 11          | US-11             | Sistema de Mensajería    | Como joven entre 18 a 35 años, quiero comunicarme directamente con un profesional que pueda atender mi caso.                              | 4                            |
+| 12          | US-12             | Sistema de Reputación   | Como persona que vive en zonas rurales, quiero ver valoraciones y reseñas en los perfiles de los profesionales para evaluar la experiencia que tuvieron otros usuarios con esa misma persona.                                   | 3                            |
+| 13          | US-13             | Privacidad de datos personales  | Como joven entre 18 a 35 años, quisiera que mis datos personales antes registrados cuenten con seguridad y privacidad en la aplicación para sentir confianza al momento de compartirlos con un profesional.                                                   | 4                            |
+| 14          | US-14             | Modicar información del perfil               | Como persona que vive en zonas rurales, quiero contar con la capacidad para modificar los datos de mi perfil para actualizarlo con la información más reciente.                       | 3                          |                          |
 
 # Capitulo 4
 
