@@ -1380,6 +1380,88 @@ Captura de pantalla de frequency en Git aqui
 
 # Conclusiones
 
+"Place To Dialogue" tiene el potencial de fomentar una comunidad de apoyo entre sus usuarios,
+ya que proporciona un espacio seguro donde las personas pueden sentirse escuchadas y
+comprendidas. Al ofrecer sesiones y actividades personalizadas, la plataforma promueve el
+desarrollo de conexiones emocionales y un sentido de pertenencia, lo que puede ser crucial
+para aquellos que se sienten aislados o desconectados de redes de apoyo tradicionales.
+
+El uso de prototipos de alta fidelidad y el enfoque en el diseño centrado en el usuario nos han
+permitido asegurar que la plataforma no solo sea accesible, sino también intuitiva y funcional.
+Cada decisión en el diseño ha sido tomada pensando en la experiencia del usuario final,
+asegurando que puedan encontrar apoyo de manera cómoda y efectiva.
+
+A través de este proyecto, también hemos logrado integrar nuestros valores éticos,
+especialmente en términos de responsabilidad y respeto hacia los usuarios. La privacidad, la
+seguridad y el respeto por sus emociones son fundamentales en la plataforma, alineando así
+mi trabajo con mis principios personales.
+
+La posibilidad de que los usuarios den feedback sobre sus experiencias y el impacto de las
+sesiones permite un ciclo de mejora continua. Esta retroalimentación puede informar futuras
+actualizaciones y mejoras en la plataforma, asegurando que se mantiene alineada con las
+necesidades cambiantes de sus usuarios.
+
+Al estar diseñado con un enfoque escalable, "Place To Dialogue" tiene la capacidad de crecer
+y adaptarse a un número creciente de usuarios. Esto, combinado con un modelo de negocio
+sostenible, puede garantizar la continuidad de la plataforma y su capacidad para ofrecer apoyo
+a largo plazo.
+
+La personalización de actividades y sesiones no solo responde a problemas existentes, sino
+que también puede contribuir a la prevención de crisis emocionales. Al fomentar la
+autoconciencia y proporcionar herramientas adecuadas, "Place To Dialogue" puede ayudar a
+los usuarios a gestionar sus emociones de manera proactiva, reduciendo la necesidad de
+intervenciones más severas en el futuro.
+
+Como recomendaciones de nuestro trabajo, recomendamos que:
+
+- Mantendremos una comunicación constante y clara entre nosotros, de manera que cualquier
+duda o malentendido se pueda resolver rápidamente. Así evitamos tener que revisar o rehacer
+el trabajo varias veces.
+
+- Es importante que establezcamos revisiones periódicas de los avances, así podemos corregir
+errores o desvíos a tiempo y evitar problemas de última hora con la entrega del proyecto.
+
+- Además de organizar la distribución de tareas, es crucial definir claramente los roles de cada
+miembro del equipo. Esto no incluye solo quién se encarga de qué, sino también qué
+habilidades y recursos están disponibles para cada función. Esto fomenta un sentido de
+responsabilidad y compromiso con el trabajo de cada uno.
+
+- Establecer un ambiente donde la retroalimentación sea bien recibida y promovida puede
+mejorar la calidad del trabajo. Anima a los miembros del equipo a dar y recibir críticas
+constructivas, lo que puede resultar en un producto final más sólido
+
 # Bibliografia
+
+- Actualízatec. (2023, 8 mayo). COMPARATIVA A FONDO Google Play vs App Store. Actualízatec: Mobile &
+App Marketing. https://actualizatec.com/blog/google-play-vs-apple-store-comparativa/
+
+- Cueva, L., Cortez, M. A. C., & Daniela, A. (2021). Repercusión del aislamiento social por COVID-19 en la salud
+mental en la población de Perú: síntomas en el discurso del ciberespacio. Discurso & Sociedad, (1),
+215-243. https://www.american.edu/centers/latin-american-latino-studies/upload/repercusi%C3%B3ndel-aislamiento-social-por-covid-19-en-la-salud-mental-en-la-poblaci%C3%B3n-de-per%C3%BAs%C3%ADntomas-en-el-discurso-del-ciberespacio.pdf
+  
+- Delawalla, C. N., & Lorenzo-Luaces, L. (2024). “Better” Help? Ethical Considerations for Therapists Using
+Telehealth Matching Platforms. https://osf.io/preprints/psyarxiv/5sbvp
+
+- Delawalla, C. N., & Lorenzo-Luaces, L. (2024). “Better” Help? Ethical Considerations for Therapists Using
+Telehealth Matching Platforms. https://osf.io/preprints/psyarxiv/5sbvp
+
+- Dinesh, D. N., Rao, M. N., & Sinha, C. (2024). Language adaptations of mental health interventions: User
+interaction comparisons with an AI-enabled conversational agent (Wysa) in English and Spanish. Digital
+Health, 10, 20552076241255616. https://pubmed.ncbi.nlm.nih.gov/38798884/
+
+- Estándares y guías para la digitalización. (s. f.). https://guias.servicios.gob.pe/creacion-serviciosdigitales/investigacion/proteccion
+
+- Infantas Serpa, M. F., & Vega Hudson, M. F. (2024). Desarrollo del prototipo de la aplicación positivo para
+adultos entre 18 a 35 años del NSE byc de Lima Metropolitana.
+https://repositorio.ulima.edu.pe/handle/20.500.12724/20683?locale-attribute=en
+
+- Ocho de cada 10 personas no reciben atención en salud mental pese a requerirlo. (s. f.). Defensoria del Pueblo
+Perú. https://www.defensoria.gob.pe/ocho-de-cada-10-personas-no-reciben-atencion-en-saludmental-pese-a-requerirlo/
+
+- Seguido, P. (2024, 11 junio). El estrés universitario: Un desafío global para la salud mental y el rendimiento
+académico. Punto Seguido - UPC. https://puntoseguido.upc.edu.pe/el-estres-universitario-un-desafioglobal-para-la-salud-mental-y-el-rendimiento-academico/
+
+- Uno de cada tres peruanos sufre un trastorno mental. (2024, 9 mayo). Blog USIL.
+https://blogs.usil.edu.pe/novedades/uno-de-cada-tres-peruanos-sufre-un-trastorno-mental
 
 # Anexos
