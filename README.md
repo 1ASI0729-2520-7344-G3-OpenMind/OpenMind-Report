@@ -440,35 +440,33 @@ Link de información: https://www.defensoria.gob.pe/ocho-de-cada-10-personas-no-
 
 ### 2.2.1. Diseño de entrevistas
 
-#### Nombre del sector aqui
+### Segmento 01: Jóvenes adultos (18-35 años)
 
-1. Nombre completo
-2. Edad
-3. Distrito de residencia
-4. Profesión
-5. Pregunta aqui
-6. Pregunta aqui
-7. Pregunta aqui
-8. Pregunta aqui
-9. Pregunta aqui
-10. Pregunta aqui
-11. Pregunta aqui
-12. Pregunta aqui
+- **¿Cuánto valoras la confidencialidad en la búsqueda de apoyo psicológico?**  
+- **¿Qué tan probable es que utilices una aplicación móvil para comunicarte con un terapeuta en lugar de acudir a sesiones presenciales?**  
+- **¿Qué tipo de comunicación prefieres para hablar sobre tus problemas emocionales: texto, audio, o video? ¿Por qué?**  
+- **¿Con qué frecuencia utilizas aplicaciones móviles para temas de salud o bienestar?**  
+- **¿Cómo influye la accesibilidad de la plataforma en tu decisión de buscar ayuda emocional?**  
+- **¿Qué te motiva a buscar apoyo emocional o psicológico?**  
+- **¿Qué tan importante es para ti que una aplicación de apoyo emocional ofrezca flexibilidad en los horarios de las sesiones?**  
+- **¿Te sentirías más cómodo/a al hablar con un terapeuta si la comunicación es anónima?**  
+- **¿Qué tan relevante es para ti que una aplicación de salud mental esté respaldada por profesionales licenciados?**  
+- **¿Qué barreras o desafíos has encontrado al buscar apoyo psicológico en línea?**
 
-#### Nombre del sector aqui
 
-1. Nombre completo
-2. Edad
-3. Distrito de residencia
-4. Profesión
-5. Pregunta aqui
-6. Pregunta aqui
-7. Pregunta aqui
-8. Pregunta aqui
-9. Pregunta aqui
-10. Pregunta aqui
-11. Pregunta aqui
-12. Pregunta aqui
+### Segmento 02: Personas en áreas rurales o de bajos recursos
+
+- **¿Qué tan difícil es para ti acceder a servicios de salud mental en tu localidad?**  
+- **¿Cómo crees que una aplicación móvil podría ayudarte a superar las limitaciones geográficas o económicas para acceder a un terapeuta?**  
+- **¿Qué tan accesible es para ti contar con un dispositivo móvil y una conexión a internet estable?**  
+- **¿Cómo te sentirías al recibir apoyo emocional a través de una aplicación en lugar de hacerlo en persona?**  
+- **¿Cuánto valoras la posibilidad de recibir ayuda emocional sin costo a través de una aplicación?**  
+- **¿Qué tipo de apoyo adicional, como orientación sobre el uso de la aplicación, te gustaría recibir para aprovechar mejor esta herramienta?**  
+- **¿Qué tan importante es para ti la privacidad de tus datos al usar una aplicación de salud mental?**  
+- **¿Qué características o funcionalidades crees que debería tener una aplicación para ser útil en tu contexto?**  
+- **¿Cómo podríamos mejorar la accesibilidad de la aplicación para personas en situaciones económicas desfavorables?**  
+- **¿Qué impacto crees que tendría en tu vida el poder acceder a apoyo emocional o psicológico en cualquier momento y lugar?**
+
 
 ### 2.2.2. Registro de entrevistas
 
