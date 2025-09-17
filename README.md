@@ -23,7 +23,7 @@ Desarrollo de aplicaciones Open Source <br>
 | ------------------------------ | ---------- |
 | Aarón Santiago Baquerizo Cirilo| U202520156 |
 | Daniel Stalin Palomino Murga   | U20201B253 |
-| Kael Lagos Rivera              | U202210104 |
+| Kael Lagos Rivera Valentino             | U202210104 |
 | Stephano Mayrzon Landauri Preciado  | U202311828 |
 | Carlos Alberto Gonzales Custodio   | U202020230 |
 
@@ -185,14 +185,10 @@ ubicación o condición socioeconómica, pueda recibir la ayuda emocional que ne
 | Foto                                       | Alumno                         | Descripción                                                                                                                                                                                                                                                                                                                                                                  |
 | ------------------------------------------ | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |    <img width="1179" height="1075" alt="image" src="https://github.com/user-attachments/assets/a0892dfd-a9ae-452d-be38-6a6a72b2a48d" />    | Stephano Mayrzon Landauri Preciado   | Actual mente estoy cursando el sexto ciclo de la carrera ing de software, siempre me gusta ayudar, soy una persona que me gusta trabajar en equipo y siempre sacar lo mejor de mis compañeros. |
-|                Foto aqui                            |         Nombre aqui                       |                    Contenido aqui                                                                                                                                                                                                                                                                                                                                                          |
-| ![Kael_Foto](Imagenes/Kael_Foto.jpg)       | Kael Lagos Rivera              | Me llamo Kael Lagos, estudio en la UPC de Monterrico. Tengo muchas ganas de aprender, me considero una persona responsable que busca aprender de sus errores cada vez que puede y tambien me considero alguien que se centra en los detalles. Me comprometo a ayudar a mis compañeros para la elaboración de nuestro trabajo que nos pueda asegurar una buena nota al final. |
-|      Foto aqui      | Nombre aqui |               Contenido aqui                                                |
-|           Foto aqui                                 |          Nombre aqui                      |                      Contenido aqui                                                                                                                                                                                                                                                                                                                                                        |
-| Foto aqui |    Nombre aqui       |                    Contenido aqui                                                                                                                                                                                                           | 
-|   Foto aqui                                         |        Nombre aqui                        |             Contenido aqui                                                                                                                                                                                                                                                                                                                                                                 |
-|           |           |                                                                            |
-
+|  Foto aqui   |  Nombre completo aqui  |  Contenido aqui |
+| ![Kael_Foto](Imagenes/Kael_Foto.jpg)  | Kael Lagos Rivera Valentino   | Me llamo Kael Lagos, estudio en la UPC de Monterrico. Tengo muchas ganas de aprender, me considero una persona responsable que busca aprender de sus errores cada vez que puede y tambien me considero alguien que se centra en los detalles. Me comprometo a ayudar a mis compañeros para la elaboración de nuestro trabajo que nos pueda asegurar una buena nota al final. |
+|      Foto aqui      | Nombre completo aqui |  Contenido aqui |
+| Foto aqui |  Nombre completo aqui  | Contenido aqui |
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
@@ -1253,12 +1249,137 @@ Imagen de diagrama aqui
 
 # Capítulo 5
 
-## 5.1 Software Configuration Management
+## 5.1. Software Configuration Management
 
 En la sigueiente seccion se presenta la configuracion de nuestro software, que se dividira en las 4 secciones, el desarrollo de ambiente, las pautas que se tomaron para el codigo, estilos y la configuracion que se llevo a cabo en el GitHub.
 
-### 5.1.1 Software Development Environment Configuration
+### 5.1.1. Software Development Environment Configuration
 
+En esta seccion hablaremos sobre las herramientas utilizadas en el desarrollo de nuestro software, las cuales son:
 
+**Figma**
+Plataforma de diseño colaborativo en la nube, perfecta para idear y pulir la interfaz de usuario (UI). Con Figma creamos los mock-ups, wireframes y el prototipo final, permitiendo que todo el equipo comentara y sugiriera ajustes en tiempo real.
 
-### 5.1.2. Source Code Management.
+**UXPressia**
+Herramienta especializada en mapas de experiencia: definimos user personas, trazamos customer journey maps y diseñamos impact maps. Gracias a UXPressia entendimos mejor las motivaciones y puntos de dolor de nuestros usuarios.
+
+**Visual Studio Code**
+Editor de código ligero, extensible y multiplataforma. Lo usamos para editar el fichero README.md y para cualquier ajuste rápido de texto o fragmentos de código, aprovechando su integración con Git y sus extensiones de Markdown.
+
+**Git**
+Sistema de control de versiones distribuido que registra cada cambio en el código. Con Git llevamos un histórico preciso de nuestro README.md y de todas las iteraciones del proyecto, facilitando la colaboración entre desarrolladores.
+
+**GitHub**
+Plataforma online construida sobre Git, que alojó nuestro repositorio central. En GitHub organizamos issues, revisiones de código (pull requests) y la propia documentación en Markdown, lo que agilizó la coordinación del equipo.
+
+**Visual Paradigm Online**
+Herramienta de modelado visual en la web. Con ella dibujamos diagramas de contexto, contenedores y componentes para entender la arquitectura de la aplicación antes de empezar a programar.
+
+**MySQL**
+Sistema de gestión de bases de datos relacional. Diseñamos y creamos la base de datos del proyecto—junto con su diagrama entidad-relación—para estructurar y garantizar la integridad de los datos.
+
+**StarUML**
+Software de modelado UML de escritorio. Lo empleamos para generar el diagrama de clases y los casos de uso, estableciendo con claridad las entidades, atributos y relaciones de nuestro dominio.
+
+**WhatsApp**
+Aplicación de mensajería instantánea para la comunicación ágil del equipo. Sirvió para resolver dudas al vuelo, compartir enlaces y coordinar reuniones express.
+
+**Markdown**
+Lenguaje de marcado ligero utilizado en toda la documentación técnica. Creamos el README.md y otros documentos de proyecto en Markdown para garantizar legibilidad y portabilidad en GitHub.
+
+### 5.1.2 Source Code Management
+
+### 5.1.3. Source Code Style Guide & Conventions
+
+Para este punto explicaremos las pautas y convenciones que se tomaron en cuenta para la creacion del codigo.
+
+### 5.1.4. Software Deployment Configuration
+
+## 5.2. Landing Page, Services & Applications Implementation
+
+### 5.2.1. Sprint 1
+
+#### 5.2.1.1. Sprint Planning 1
+
+| Sprint #                           | Sprint 1                                                                                                                                                                                      |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Date**                           | 2025-09-13                                                                                                                                                                                    |
+| Time                               | 3:00 PM                                                                                                                                                                                       |
+| Location                           | Virtual - Meet                                                                                                                                                                                |
+| Prepared By                        | Stephano Mayrzon Landauri Preciado                                                                                                                                                                             |
+| Attendees (to planning meeting)    | Stephano Mayrzon Landauri Preciado, Daniel Stalin Palomino Murga, Aarón Santiago Baquerizo Cirilo, Kael Lagos Rivera, Carlos Alberto Gonzales Custodio                                                               |
+| Sprint n - 1 Review Summary        | Este es el primer Sprint, por lo que este campo no aplica.                                                                                                                                    |
+| Sprint n - 1 Retrospective Summary | Este es el primer Sprint, por lo que este campo no aplica.                                                                                                                                    |
+| Sprint 1 Goal                      | La principal prioridad para este sprint fue la creacion de la landing page de una forma exitosa y desplegarla. Esto se logro gracias al trabajo conjunto de todos los integrantes del equipo. |
+| Sprint 1 Velocity                  | Nuestro equipo puede aceptar hasta 5 Story Points.                                                                                                                                            |
+| Sum of Story Points                | La suma de Story Points atendidos es de (Colocar la suma de storie points dependiendo de los user stories seleccionados en este sprint).                                                                                                                                                    |
+
+#### 5.2.1.2. Aspect Leaders and Collaborators
+
+En esta seccion especificamos los roles de cada uno de los integrantes del equipo, en este caso se utilizo el rol de L (Leader) y C (Collaborator) para cada integrante.
+
+| Team Member (Last Name, First Name) | GitHub Username | Aspect Name 1 (L/C) |
+| ----------------------------------- | --------------- | ------------------- |
+| Stephano Mayrzon Landauri Preciado            | Mayrzon02        | L                   |
+| Daniel Stalin Palomino Murga    | DanielPM23     | C                   |
+| Aarón Santiago Baquerizo Cirilo                 | Nombre de usuario Git       | C                   |
+| Kael Lagos Rivera Valentino  | Kaellagos       | C                   |
+| Carlos Alberto Gonzales Custodio        | Nombre de usuario Git        | C                   |
+
+#### 5.2.1.3. Sprint Backlog 1
+
+| **Sprint #**   |                           |                                                                                                  |                      |                  |            |
+| -------------- | ------------------------- | ------------------------------------------------------------------------------------------------ | -------------------- | ---------------- | ---------- |
+| **User Story** | **Work-Item/task**        |                                                                                                  |                      |                  |            |
+| **ID**         | **Título**                | **Descripción**                                                                                  | **Estimación (hrs)** | **Assigned to**  | **Status** |
+| ID del user stories         | Título del user stories        | Descripción del user stories | 1                    | Nombre del integrante | Done       |
+| ID del user stories            | Título del user stories | Descripción del user stories                          | 1.5                  | Nombre del integrante     | Done       |
+| ID del user stories            | Título del user stories | Descripción del user stories       | 2                    | Nombre del integrante     | Done       |
+
+#### 5.2.1.4. Development Evidence for Sprint Review
+
+En esta sección se presentan las evidencias del desarrollo de la Landing Page de OpenMind durante el primer sprint de desarrollo.
+
+A continuación se muestra una recopilación de los commits realizados en el repositorio de GitHub que demuestran el progreso en la implementación de la interfaz inicial:
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|------------------------|----------------------|-----------|------------------------------------|-------------------------------------------------------|---------------------|
+| Nombre del repositorio | feature/main | ID del commit | feat:added index. | fecha del commit |
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+En este punto se presenta la ejecucion de la landing page para esta entrega.
+
+Colocar capturas de pantalla de la landing page aqui
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+En este sprint se realizo el despliege de la landing page del project OpenMind, marcando el primer paso de la publicacion progresiva en los siguientes sprints se realizara el resto de la landing page y la aplicacion web del proyecto.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+Para el desarrollo de este primer avance se dividieron las tareas entre los integrantes, se cumplieron con las tareas asignadas y se subia el trabajo en el repositorio ni bien está terminada el punto. A continuación se presentan capturas de toda la actividad registrada.
+
+### Contributors:
+
+Captura de pantalla de contributors en Git aqui
+
+### Traffic:
+
+Captura de pantalla de Traffic en Git aqui
+
+### Commits:
+
+Captura de pantalla de Commits en Git aqui
+
+### Code frequency:
+
+Captura de pantalla de frequency en Git aqui
+
+# Conclusiones
+
+# Bibliografia
+
+# Anexos
