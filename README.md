@@ -412,7 +412,7 @@ El análisis competitivo permite identificar a los principales actores en el ám
 
 ### 2.1.1. Análisis Competitivo
 
-| **Sección**                | ****                     | **OpenMind**                                                                                                                | **Competidor 1**                       | **Competidor 2**                       | **Competidor 3**                       |
+| **Sección**                |                      | **OpenMind**                                                                                                                | **Competidor 1**                       | **Competidor 2**                       | **Competidor 3**                       |
 |-----------------------------|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
 | **Logo**                   |                                       | Logo aquí                                                                                                                   | Logo aquí                               | Logo aquí                               | Logo aquí                               |
 | **Perfil**                 | **Overview**                         | Descripción de la aplicación aquí                                                                                           | Descripción de la aplicación aquí        | Descripción de la aplicación aquí        | Descripción de la aplicación aquí        |
