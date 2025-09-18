@@ -726,15 +726,13 @@ Conclusión de las entrevistas aqui.
 
 ## 2.3. Needfinding
 
-En la sección de Needfinding, se emplean diversas herramientas como UXPressia, LucidChart y Miro para identificar y comprender las necesidades, comportamientos y emociones de los usuarios potenciales mediante la creación de User Personas, User Task Matrix, User Journey Maps, Empathy Maps y As-Is Scenario Maps. Estos artefactos ayudan a capturar una visión detallada de los usuarios, sus objetivos, tareas y experiencias actuales sin la solución propuesta, lo que permite diseñar un producto alineado con sus expectativas reales. Además, se incluye un glosario de términos del dominio de negocio, garantizando una comunicación clara y coherente entre todos los miembros del equipo.
-
 ### 2.3.1. User Personas
 
-Descripción de esta sección aqui
+Se presentan los perfiles de los usuarios que buscan apoyo psicológico y de los profesionales de la salud mental que interactuarán con nuestra plataforma mediante el chatbot. Estos perfiles son fundamentales para comprender sus necesidades, motivaciones y desafíos específicos, permitiéndonos diseñar una solución accesible, segura y efectiva que mejore la experiencia de los usuarios y facilite el acompañamiento digital en su bienestar emocional.
 
-Segmento 1: Nombre del sector aqui
+Segmento 1: Persona que busca apoyo psicológico
 
-Imagen aqui
+<img width="1050" height="1570" alt="Valeria Torres" src="https://github.com/user-attachments/assets/92a77585-c600-4032-8283-58651201220a" />
 
 Segmento 2: Nombre del sector aqui
 
