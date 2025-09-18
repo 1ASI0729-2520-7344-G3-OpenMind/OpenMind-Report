@@ -23,7 +23,7 @@ Desarrollo de aplicaciones Open Source <br>
 | ------------------------------ | ---------- |
 | Aarón Santiago Baquerizo Cirilo| U202520156 |
 | Daniel Stalin Palomino Murga   | U20201B253 |
-| Kael Lagos Rivera Valentino             | U202210104 |
+| Kael Lagos Rivera Valentino    | U202210104 |
 | Stephano Mayrzon Landauri Preciado  | U202311828 |
 | Carlos Alberto Gonzales Custodio   | U202020230 |
 
@@ -37,7 +37,7 @@ Desarrollo de aplicaciones Open Source <br>
  
 | Versión | Fecha       | Autor(es)                                                                                                  | Descripción de la modificación                                                                                                                                                       |
 |---------|-------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| TB1     | 10/08/2025  | |                                                                                     |
+| TB1     | 10/08/2025  |Aarón Santiago Baquerizo Cirilo, Daniel Stalin Palomino Murga, Kael Lagos Rivera Valentino, Stephano Mayrzon Landauri Preciado, Carlos Alberto Gonzales Custodio | Se agregaron los capítulos pertenecientes a la TB1, desde el capítulo 1 hasta el capítulo 5 junto a un avance de las conclusiones y la bibliografía                                                                                    |
 | TP     |  | |                                                                                     |
 | TB2     |   |  |  |
 | TF     |  |  | 
