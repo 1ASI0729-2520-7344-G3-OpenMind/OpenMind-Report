@@ -439,7 +439,7 @@ El análisis competitivo permite identificar a los principales actores en el ám
 
 ### 2.2.1. Diseño de entrevistas
 
-#### Nombre del sector aqui
+#### Jóvenes entre 18 a 35 años
 
 1. Nombre completo
 2. Edad
@@ -454,7 +454,7 @@ El análisis competitivo permite identificar a los principales actores en el ám
 11. Pregunta aqui
 12. Pregunta aqui
 
-#### Nombre del sector aqui
+#### Personas que viven en zonas rurales
 
 1. Nombre completo
 2. Edad
@@ -471,7 +471,7 @@ El análisis competitivo permite identificar a los principales actores en el ám
 
 ### 2.2.2. Registro de entrevistas
 
-### **Nombre de sector aqui**
+### **Jóvenes entre 18 a 35 años**
 
 ## Entrevista 1:
 
@@ -509,7 +509,7 @@ Link de la entrevista:
 
 ---
 
-### **Nombre del sector aqui**
+### **Personas que viven en zonas rurales**
 
 ## Entrevista 1:
 
