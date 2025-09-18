@@ -956,11 +956,11 @@ En la técnica de **Impact Mapping**, conectamos los **objetivos de negocio** co
 
 _Impact Mapping Jovenes adultos (18 a 35 años)_
 
-Foto del impact mapping del tipo de cliente aqui
+![Impact_Mapping1_Imagen](Imagenes/Impact_Mapping1.jpeg)
 
 _Impact Mapping Personas que viven en zonas rurales_
 
-Foto del impact mapping del tipo de cliente aqui
+![Impact_Mapping2_Imagen](Imagenes/Impact_Mapping2.png)
 
 ## 3.4. Product Backlog
 
