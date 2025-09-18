@@ -734,9 +734,9 @@ Segmento 1: Persona que busca apoyo psicológico
 
 <img width="1050" height="1570" alt="Valeria Torres" src="https://github.com/user-attachments/assets/92a77585-c600-4032-8283-58651201220a" />
 
-Segmento 2: Nombre del sector aqui
+Segmento 2: Profesional de la salud mental
 
-Imagen aqui
+<img width="1050" height="1570" alt="Ricardo Salinas" src="https://github.com/user-attachments/assets/12119dd7-8ef4-49b9-8108-56f3354c968c" />
 
 ### 2.3.2. User Task Matrix
 
