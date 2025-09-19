@@ -870,7 +870,7 @@ Segmento 2: Personas que viven en zonas rurales
 
 ## 2.4. Ubiquitous Language
 
-En esta sección, se definen los términos clave utilizados en el dominio de negocio de la plataforma que conecta freelancers con inversores, siguiendo el enfoque de Ubiquitous Language propuesto por Eric Evans en Domain-Driven Design. Estas definiciones tienen como objetivo garantizar una comunicación clara, coherente y compartida entre los miembros del equipo de desarrollo, stakeholders y usuarios, alineando el lenguaje técnico con las necesidades reales del negocio y facilitando la comprensión mutua durante el proyecto.
+En esta sección, se definen los términos clave utilizados en el dominio de negocio de la plataforma que conecta tanto a los jóvenes entre 18 a 35 años y a las personas que viven en zonas rurales, siguiendo el enfoque de Ubiquitous Language propuesto por Eric Evans en Domain-Driven Design. Estas definiciones tienen como objetivo garantizar una comunicación clara, coherente y compartida entre los miembros del equipo de desarrollo, stakeholders y usuarios, alineando el lenguaje técnico con las necesidades reales del negocio y facilitando la comprensión mutua durante el proyecto.
 
 | **Término**                     | **Definición en el proyecto**                                                                                       |
 |---------------------------------|---------------------------------------------------------------------------------------------------------------------|
