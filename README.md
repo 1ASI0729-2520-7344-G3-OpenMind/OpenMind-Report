@@ -1069,7 +1069,7 @@ interacción para responsive web interfaces.
 
 ### 4.2.1. Organization Systems
 
-En la plataforma OpenMind, se han implementado sistemas de organización que optimizan la interacción entre (Continuar explicación). La estructura visual del contenido ha sido organizada bajo los siguientes principios:
+En la plataforma OpenMind, se han implementado sistemas de organización que optimizan la interacción tanto para jóvenes entre 18 a 35 años y personas que viven en zonas rurales. La estructura visual del contenido ha sido organizada bajo los siguientes principios:
 
 **1- Jerarquía visual:**
 Se ha utilizado una jerarquía visual clara para destacar los elementos más importantes de la plataforma. Por ejemplo, el título principal “Conecta tus emociones” ocupa una posición central con tipografía destacada. Esta estructura permite a los usuarios identificar de inmediato las funcionalidades principales del sitio.
