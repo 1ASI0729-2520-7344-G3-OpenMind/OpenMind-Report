@@ -741,14 +741,14 @@ Segmento 2: Personas que viven en zonas rurales
 
 ### 2.3.2. User Task Matrix
 
-En esta sección se presenta el User Task Matrix para la plataforma OpenMind, considerando dos segmentos objetivos (Nombre de los segmentos de cliente). Las tareas están ordenadas de manera que cada segmento pueda entender sus prioridades y necesidades.
+En esta sección se presenta el User Task Matrix para la plataforma OpenMind, considerando dos segmentos objetivos : personas que buscan apoyo psicológico en contextos urbanos y aquellas que viven en zonas rurales o con recursos limitados. Las tareas están ordenadas de manera que cada segmento pueda entender sus prioridades y necesidades.
 
 <table>
   <thead>
     <tr>
       <th>Tareas</th>
-      <th colspan="2">Nombre de los segmentos de cliente aqui </th>
-      <th colspan="2">Nombre de los segmentos de cliente aqui </th>
+      <th colspan="2">Usuario que requiere apoyo psicológico</th>
+      <th colspan="2">Usuario rural</th>
     </tr>
     <tr>
       <th></th>
@@ -760,101 +760,90 @@ En esta sección se presenta el User Task Matrix para la plataforma OpenMind, co
   </thead>
   <tbody>
     <tr>
-      <td>Nombre de la tarea</td>
+      <td>Iniciar conversación con el chatbot</td>
       <td>Siempre</td>
       <td>Alta</td>
-      <td>Nunca</td>
-      <td>Sin importancia</td>
+      <td>Siempre</td>
+      <td>Alta</td>
     </tr>
     <tr>
-      <td>Nombre de la tarea</td>
-      <td>A veces</td>
-      <td>Media</td>
-      <td>Nunca</td>
-      <td>Sin importancia</td>
+      <td>Expresar emociones y pensamientos</td>
+      <td>Siempre</td>
+      <td>Alta</td>
+      <td>Siempre</td>
+      <td>Alta</td>
     </tr>
     <tr>
-      <td>Nombre de la tarea</td>
+      <td>Recibir recursos de apoyo (ejercicios, consejos, etc.)</td>
       <td>Casi siempre</td>
       <td>Alta</td>
       <td>Casi siempre</td>
       <td>Alta</td>
     </tr>
     <tr>
-      <td>Nombre de la tarea</td>
-      <td>Siempre</td>
-      <td>Alta</td>
-      <td>Siempre</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Nombre de la tarea</td>
+      <td>Acceder a sesiones en audio/video</td>
       <td>A veces</td>
-      <td>Media</td>
-      <td>A veces</td>
-      <td>Media</td>
-    </tr>
-    <tr>
-      <td>Nombre de la tarea</td>
-      <td>Nunca</td>
-      <td>Sin importancia</td>
-      <td>Casi siempre</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Nombre de la tarea</td>
-      <td>Nunca</td>
-      <td>Sin importancia</td>
-      <td>Siempre</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Nombre de la tarea</td>
-      <td>Nunca</td>
-      <td>Sin importancia</td>
-      <td>A veces</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Nombre de la tarea</td>
-      <td>A veces</td>
-      <td>Media</td>
-      <td>A veces</td>
-      <td>Media</td>
-    </tr>
-    <tr>
-      <td>Nombre de la tarea</td>
-      <td>Casi nunca</td>
       <td>Media</td>
       <td>Casi nunca</td>
+      <td>Baja</td>
+    </tr>
+    <tr>
+      <td>Revisar historial de conversaciones</td>
+      <td>Casi siempre</td>
       <td>Media</td>
+      <td>A veces</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Reportar un problema o pedir ayuda urgente</td>
+      <td>A veces</td>
+      <td>Alta</td>
+      <td>A veces</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Configurar perfil básico (anonimato, privacidad)</td>
+      <td>Casi siempre</td>
+      <td>Alta</td>
+      <td>A veces</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Consultar con un profesional humano (derivación)</td>
+      <td>A veces</td>
+      <td>Alta</td>
+      <td>Casi nunca</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Compartir avances con familiares o pares</td>
+      <td>A veces</td>
+      <td>Media</td>
+      <td>Casi nunca</td>
+      <td>Baja</td>
     </tr>
   </tbody>
 </table>
 
-**Tareas con mayor frecuencia e importancia para los (Nombre del segmento de cliente aqui):**
+**Tareas con mayor frecuencia e importancia para los usuarios que requieren apoyo psicológico:**
 
-- Tarea junto a su descripción aqui
+- Iniciar conversación con el chatbot y expresar emociones son actividades realizadas siempre y con alta importancia, siendo la base del uso de la plataforma.  
+- Recibir recursos de apoyo y configurar privacidad también son muy relevantes, pues fortalecen la utilidad y confianza en el sistema.  
 
-- Tarea junto a su descripción aqui
+**Tareas con mayor frecuencia e importancia para los usuarios rurales:**
 
-**Tareas con mayor frecuencia e importancia para los (Nombre del segmento de cliente aqui):**
-
-- Tarea junto a su descripción aqui
-
-- Tarea junto a su descripción aqui
+- Iniciar conversación con el chatbot y expresar emociones tienen alta frecuencia e importancia, ya que representan el acceso principal al apoyo emocional.  
+- Recibir recursos simples (ejercicios prácticos, consejos) también es prioritario, considerando las limitaciones tecnológicas y de conectividad.  
 
 **Principales Diferencias:**
 
-- Diferencia con los detalles del segmento cliente aqui
-
-- Diferencia con los detalles del segmento cliente aqui
+- Los usuarios urbanos valoran más funciones multimedia (audio/video, historial detallado, derivación a profesionales).  
+- Los usuarios rurales priorizan la simplicidad, bajo consumo de datos y anonimato.  
 
 **Coincidencias:**
 
-- Coincidencias con los detalles del segmento cliente aqui
-
-- Coincidencias con los detalles del segmento cliente aqui
+- Ambos segmentos consideran crucial poder iniciar conversaciones inmediatas.  
+- Expresar emociones y recibir apoyo práctico son necesidades compartidas y prioritarias.  
 
 ### 2.3.3. User Journey Mapping
 
