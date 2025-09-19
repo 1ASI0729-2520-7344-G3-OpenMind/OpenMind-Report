@@ -1213,15 +1213,134 @@ En este sector del trabajo presentar el diagrama de contexto que muestra de una 
 
 ### 4.7.2. Class Dictionary
 
-**Usuario**
 
-| Attribute  | Type      | Description                     | Constraints      |
-| :--------- | :-------- | :------------------------------ | :--------------- |
-| id         | int       | Identificador único del usuario | PRIMARY KEY      |
-| nombre     | String    | Nombre completo del usuario     | NOT NULL         |
-| correo     | String    | Correo electrónico del usuario  | UNIQUE, NOT NULL |
-| contraseña | String    | Contraseña de acceso            | NOT NULL         |
-| membresía  | Membresía | Membresía asignada al usuario   |                  |
+## USUARIO
+| **Attribute**  | **Type**     | **Description**                          | **Constraints**         |
+|----------------|--------------|------------------------------------------|--------------------------|
+| `id_usuario`   | `INT`        | Identificador único del usuario          | `PRIMARY KEY`            |
+| `nombre`       | `VARCHAR`    | Nombre completo del usuario              | `NOT NULL`               |
+| `email`        | `VARCHAR`    | Correo electrónico del usuario           | `UNIQUE`, `NOT NULL`     |
+| `contraseña`   | `VARCHAR`    | Contraseña encriptada de acceso          | `NOT NULL`               |
+| `rol`          | `VARCHAR`    | Rol del usuario (ESTUDIANTE/ESPECIALISTA/ADMIN) | `NOT NULL`       |
+
+---
+
+## ESPECIALISTA
+| **Attribute**     | **Type**   | **Description**                    | **Constraints**         |
+|-------------------|------------|------------------------------------|--------------------------|
+| `id_especialista` | `INT`      | Identificador del especialista     | `PRIMARY KEY`            |
+| `especialidad`    | `VARCHAR`  | Área de especialización            | `NOT NULL`               |
+| `licencia`        | `VARCHAR`  | Número/licencia profesional        |                          |
+| `id_usuario`      | `INT`      | Usuario asociado                   | `FOREIGN KEY → USUARIO`  |
+
+---
+
+## SESION_PSICOLOGICA
+| **Attribute**   | **Type**   | **Description**                         | **Constraints**               |
+|-----------------|------------|-----------------------------------------|--------------------------------|
+| `id_sesion`     | `INT`      | Identificador de la sesión              | `PRIMARY KEY`                  |
+| `fecha`         | `DATETIME` | Fecha y hora de la sesión               | `NOT NULL`                     |
+| `estado`        | `VARCHAR`  | Estado de la sesión (PENDIENTE, CONFIRMADA, CANCELADA, FINALIZADA) | `NOT NULL` |
+| `notas`         | `TEXT`     | Notas y observaciones                  |                                |
+| `id_usuario`    | `INT`      | Usuario participante                   | `FOREIGN KEY → USUARIO`        |
+| `id_especialista` | `INT`    | Especialista a cargo                   | `FOREIGN KEY → ESPECIALISTA`   |
+
+---
+
+## CHATBOT
+| **Attribute**  | **Type**   | **Description**                 | **Constraints**         |
+|----------------|------------|---------------------------------|--------------------------|
+| `id_chatbot`   | `INT`      | Identificador del chatbot       | `PRIMARY KEY`            |
+| `modeloNLP`    | `VARCHAR`  | Modelo o versión de NLP usado   |                          |
+
+---
+
+## CURSO
+| **Attribute**  | **Type**   | **Description**               | **Constraints**         |
+|----------------|------------|-------------------------------|--------------------------|
+| `id_curso`     | `INT`      | Identificador del curso       | `PRIMARY KEY`            |
+| `titulo`       | `VARCHAR`  | Título del curso              | `NOT NULL`               |
+| `descripcion`  | `TEXT`     | Descripción del curso         |                          |
+| `nivel`        | `VARCHAR`  | Nivel del curso (básico, intermedio, avanzado) | |
+
+---
+
+## MODULO
+| **Attribute**  | **Type**   | **Description**               | **Constraints**         |
+|----------------|------------|-------------------------------|--------------------------|
+| `id_modulo`    | `INT`      | Identificador del módulo      | `PRIMARY KEY`            |
+| `nombre`       | `VARCHAR`  | Nombre del módulo             | `NOT NULL`               |
+| `contenido`    | `TEXT`     | Contenido del módulo          |                          |
+| `id_curso`     | `INT`      | Curso al que pertenece        | `FOREIGN KEY → CURSO`    |
+
+---
+
+## PROGRESO
+| **Attribute**  | **Type**   | **Description**                   | **Constraints**             |
+|----------------|------------|-----------------------------------|------------------------------|
+| `id_progreso`  | `INT`      | Identificador del progreso        | `PRIMARY KEY`                |
+| `porcentaje`   | `DECIMAL`  | Avance del usuario en el módulo   | `NOT NULL`                   |
+| `fecha`        | `DATETIME` | Fecha de actualización del progreso | `NOT NULL`                 |
+| `id_modulo`    | `INT`      | Módulo relacionado                | `FOREIGN KEY → MODULO`       |
+| `id_usuario`   | `INT`      | Usuario relacionado               | `FOREIGN KEY → USUARIO`      |
+
+---
+
+## EVALUACION
+| **Attribute**  | **Type**   | **Description**                | **Constraints**         |
+|----------------|------------|--------------------------------|--------------------------|
+| `id_eval`      | `INT`      | Identificador de la evaluación | `PRIMARY KEY`            |
+| `tipo`         | `VARCHAR`  | Tipo de evaluación (quiz, test, etc.) | `NOT NULL`     |
+| `fecha`        | `DATETIME` | Fecha de la evaluación         | `NOT NULL`               |
+| `puntajeMax`   | `DECIMAL`  | Puntaje máximo posible         |                          |
+| `id_curso`     | `INT`      | Curso al que pertenece         | `FOREIGN KEY → CURSO`    |
+
+---
+
+## PREGUNTA
+| **Attribute**  | **Type**   | **Description**               | **Constraints**            |
+|----------------|------------|-------------------------------|-----------------------------|
+| `id_pregunta`  | `INT`      | Identificador de la pregunta  | `PRIMARY KEY`               |
+| `enunciado`    | `TEXT`     | Texto de la pregunta          | `NOT NULL`                  |
+| `opciones`     | `TEXT`     | Opciones posibles             |                             |
+| `respuestaCorrecta` | `VARCHAR` | Respuesta válida/correcta |                             |
+| `id_eval`      | `INT`      | Evaluación relacionada        | `FOREIGN KEY → EVALUACION`  |
+
+---
+
+## RESPUESTA
+| **Attribute**  | **Type**   | **Description**              | **Constraints**             |
+|----------------|------------|------------------------------|------------------------------|
+| `id_respuesta` | `INT`      | Identificador de la respuesta| `PRIMARY KEY`                |
+| `valor`        | `VARCHAR`  | Respuesta del usuario        | `NOT NULL`                   |
+| `esCorrecta`   | `BOOLEAN`  | Si la respuesta fue correcta |                              |
+| `id_pregunta`  | `INT`      | Pregunta contestada          | `FOREIGN KEY → PREGUNTA`     |
+| `id_usuario`   | `INT`      | Usuario que respondió        | `FOREIGN KEY → USUARIO`      |
+
+---
+
+## RESULTADO
+| **Attribute**  | **Type**   | **Description**                | **Constraints**             |
+|----------------|------------|--------------------------------|------------------------------|
+| `id_resultado` | `INT`      | Identificador del resultado    | `PRIMARY KEY`                |
+| `puntaje`      | `DECIMAL`  | Puntaje obtenido               | `NOT NULL`                   |
+| `fecha`        | `DATETIME` | Fecha del resultado            | `NOT NULL`                   |
+| `id_eval`      | `INT`      | Evaluación relacionada         | `FOREIGN KEY → EVALUACION`   |
+| `id_usuario`   | `INT`      | Usuario relacionado            | `FOREIGN KEY → USUARIO`      |
+
+---
+
+## NOTIFICACION
+| **Attribute**  | **Type**   | **Description**             | **Constraints**             |
+|----------------|------------|-----------------------------|------------------------------|
+| `id_notif`     | `INT`      | Identificador de la notificación | `PRIMARY KEY`           |
+| `tipo`         | `VARCHAR`  | Tipo de notificación (sistema, recordatorio, alerta) | |
+| `mensaje`      | `TEXT`     | Contenido del mensaje        | `NOT NULL`                   |
+| `fecha`        | `DATETIME` | Fecha de emisión             | `NOT NULL`                   |
+| `estado`       | `VARCHAR`  | Estado (ENVIADA, LEÍDA, PENDIENTE) |                          |
+| `canal`        | `VARCHAR`  | Medio de envío (EMAIL, PUSH, SMS) |                          |
+| `id_usuario`   | `INT`      | Usuario destinatario         | `FOREIGN KEY → USUARIO`      |
+
 
 Lo de arriba es un modelo que se debe repetir para cada clase identificada
 
