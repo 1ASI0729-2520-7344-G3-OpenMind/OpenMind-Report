@@ -1022,7 +1022,7 @@ Colores secundarios:
 
 5. Imágenes:
 
-- Usar imágenes que representen colaboración remota, trabajo freelance, diversidad profesional y programación en el entorno.
+- Usar imágenes que representen atención remota, uso del chatbot, diversidad profesional y programación en el entorno.
 - Ilustraciones vectoriales limpias o imágenes realistas que tengan un buen contraste.
 
 ### 4.1.2. Web Style Guidelines
@@ -1039,7 +1039,7 @@ interacción para responsive web interfaces.
 
 - Header fijo: Logo a la izquierda, navegación centrada/derecha, botón de login destacado.
 - Dashboard: Sidebar con navegación vertical, contenido modular.
-- Cards para perfiles de freelancers: avatar, skills destacados, precio/hora, botón “contactar”.
+- Cards para perfiles de psicólogos profesionales: avatar, skills destacados, precio/hora, botón “contactar”.
 - Filtros de búsqueda: Por tecnologías, nivel de experiencia, tarifa, zona horaria.
 
 3. Botones:
@@ -1072,18 +1072,18 @@ interacción para responsive web interfaces.
 En la plataforma OpenMind, se han implementado sistemas de organización que optimizan la interacción entre (Continuar explicación). La estructura visual del contenido ha sido organizada bajo los siguientes principios:
 
 **1- Jerarquía visual:**
-Se ha utilizado una jerarquía visual clara para destacar los elementos más importantes de la plataforma. Por ejemplo, el título principal “Conecta talento con ideas” ocupa una posición central con tipografía destacada, seguido por botones como “Explora Freelancers” y “Publica una Idea”. Esta estructura permite a los usuarios identificar de inmediato las funcionalidades principales del sitio.
+Se ha utilizado una jerarquía visual clara para destacar los elementos más importantes de la plataforma. Por ejemplo, el título principal “Conecta tus emociones” ocupa una posición central con tipografía destacada. Esta estructura permite a los usuarios identificar de inmediato las funcionalidades principales del sitio.
 
-**2-Jerarquía de Tipografía:**
+**2- Jerarquía de Tipografía:**
 En nuestra plataforma, la información se presenta siguiendo un orden visual que responde a las necesidades y comportamientos de nuestros usuarios. Por ello, se ha definido una jerarquía tipográfica clara que distingue títulos, subtítulos, párrafos y otros elementos textuales, asegurando una lectura fluida y facilitando la identificación rápida del contenido más relevante.
 
 **3- Organización secuencial:**
-Se ha implementado una estructura de almacenamiento basada en una organización secuencial, permitiendo que los registros utilizados por el usuario final se gestionen de forma ordenada y eficiente. Este enfoque mejora tanto la simplicidad como la velocidad de acceso a la información. En el contexto de nuestro proyecto, esta organización se aplica en la visualización estructurada de listas de freelancers e inversores, guiando al usuario paso a paso a través del contenido.
+Se ha implementado una estructura de almacenamiento basada en una organización secuencial, permitiendo que los registros utilizados por el usuario final se gestionen de forma ordenada y eficiente. Este enfoque mejora tanto la simplicidad como la velocidad de acceso a la información. En el contexto de nuestro proyecto, esta organización se aplica en la visualización estructurada de jóvenes entre 18 a 35 años y personas que viven en zonas rurales, guiando al usuario paso a paso a través del contenido.
 
 **4- Alineación:**
 En nuestra plataforma, nuestras imágenes y botones se encuentran alineados siempre de manera vertical y horizontal. Permitiendo así agrupar varios objetos de diversos tipos con la misma información.
 
-**5-Color:**
+**5- Color:**
 A la vista de nuestros segmentos objetivos, el color cumple un rol muy importante en nuestra aplicación, promueve las correctas composiciones del color, para dirigir diversas emociones.
 
 ### 4.2.2. Labeling Systems
