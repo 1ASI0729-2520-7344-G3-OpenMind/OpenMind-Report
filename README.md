@@ -1193,21 +1193,17 @@ Link del video:
 
 ### 4.6.1. Software Architecture Context Diagram
 
-En este sector del trabajo presentar el diagrama de contexto que muestra de una forma sencilla como estara estructurado el sistema y sus funcionalidades. Para este modelo DDD se utilizo el framework: 
+En este sector del trabajo presentar el diagrama de contexto que muestra de una forma sencilla como estara estructurado el sistema y sus funcionalidades. Para este modelo DDD se utilizo el framework: https://structurizr.com/
+
+<img src="Imagenes/img-context.png" alt="Context" width="600"/>
+
 ### 4.6.2. Software Architecture Container Diagrams
 
-Imagen aqui
+<img src="Imagenes/img-container.png" alt="Container" width="600"/>
 
 ### 4.6.3. Software Architecture Components Diagrams
 
-Contexto de usuarios
-Imagen aqui
-
-Contexto de compañia
-Imagen aqui
-
-Contexto de projectos y contratación
-Imagen aqui
+<img src="Imagenes/img-component.png" alt="Component" width="600"/>
 
 ## 4.7. Software Object-Oriented Design
 
