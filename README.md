@@ -23,7 +23,7 @@ Desarrollo de aplicaciones Open Source <br>
 | ------------------------------ | ---------- |
 | Aarón Santiago Baquerizo Cirilo| U202520156 |
 | Daniel Stalin Palomino Murga   | U20201B253 |
-| Kael Lagos Rivera              | U202210104 |
+| Kael Lagos Rivera Valentino    | U202210104 |
 | Stephano Mayrzon Landauri Preciado  | U202311828 |
 | Carlos Alberto Gonzales Custodio   | U202020230 |
 
@@ -37,7 +37,7 @@ Desarrollo de aplicaciones Open Source <br>
  
 | Versión | Fecha       | Autor(es)                                                                                                  | Descripción de la modificación                                                                                                                                                       |
 |---------|-------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| TB1     | 10/08/2025  | |                                                                                     |
+| TB1     | 10/08/2025  |Aarón Santiago Baquerizo Cirilo, Daniel Stalin Palomino Murga, Kael Lagos Rivera Valentino, Stephano Mayrzon Landauri Preciado, Carlos Alberto Gonzales Custodio | Se agregaron los capítulos pertenecientes a la TB1, desde el capítulo 1 hasta el capítulo 5 junto a un avance de las conclusiones y la bibliografía                                                                                    |
 | TP     |  | |                                                                                     |
 | TB2     |   |  |  |
 | TF     |  |  | 
@@ -182,17 +182,13 @@ ubicación o condición socioeconómica, pueda recibir la ayuda emocional que ne
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Foto                                       | Alumno                         | Descripción                                                                                                                                                                                                                                                                                                                                                                  |
-| ------------------------------------------ | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|    Foto aqui       |    Nombre aqui    |          Contenido aqui                                                                                             |
-|                Foto aqui                            |         Nombre aqui                       |                    Contenido aqui                                                                                                                                                                                                                                                                                                                                                          |
-| ![Kael_Foto](Imagenes/Kael_Foto.jpg)       | Kael Lagos Rivera              | Me llamo Kael Lagos, estudio en la UPC de Monterrico. Tengo muchas ganas de aprender, me considero una persona responsable que busca aprender de sus errores cada vez que puede y tambien me considero alguien que se centra en los detalles. Me comprometo a ayudar a mis compañeros para la elaboración de nuestro trabajo que nos pueda asegurar una buena nota al final. |
-|      Foto aqui      | Nombre aqui |               Contenido aqui                                                |
-|           Foto aqui                                 |          Nombre aqui                      |                      Contenido aqui                                                                                                                                                                                                                                                                                                                                                        |
-| Foto aqui |    Nombre aqui       |                    Contenido aqui                                                                                                                                                                                                           | 
-|   Foto aqui                                         |        Nombre aqui                        |             Contenido aqui                                                                                                                                                                                                                                                                                                                                                                 |
-|           |           |                                                                            |
-
+| Foto                                                                                                                             | Alumno                             | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|----------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img width="1179" height="1075" alt="image" src="https://github.com/user-attachments/assets/a0892dfd-a9ae-452d-be38-6a6a72b2a48d" /> | Stephano Mayrzon Landauri Preciado | Actual mente estoy cursando el sexto ciclo de la carrera ing de software, siempre me gusta ayudar, soy una persona que me gusta trabajar en equipo y siempre sacar lo mejor de mis compañeros.                                                                                                                                                                                                                                                                                                                                                |
+| <img src="Imagenes/img-daniel-palomino.png" alt="Perfil" width="600"/>                                                           | Daniel Stalin Palomino Murga       | Soy estudiante de Ingeniería de Software en la UPC, actualmente cursando el 5to ciclo de mi carrera y tengo 21 años. Me considero una persona amable, tranquila y perseverante, cualidades que me ayudan tanto en el ámbito académico como en el trabajo en equipo. Me gusta desarrollar proyectos de manera organizada, prestando atención a los detalles para lograr resultados de calidad. En el trabajo colaborativo, me esfuerzo por aportar ideas y respetar las ideas de mis compañeros, apoyarlos y alcanzar los objetivos en conjunto |
+| ![Kael_Foto](Imagenes/Kael_Foto.jpg)                                                                                             | Kael Lagos Rivera Valentino        | Me llamo Kael Lagos, estudio en la UPC de Monterrico. Tengo muchas ganas de aprender, me considero una persona responsable que busca aprender de sus errores cada vez que puede y tambien me considero alguien que se centra en los detalles. Me comprometo a ayudar a mis compañeros para la elaboración de nuestro trabajo que nos pueda asegurar una buena nota al final.                                                                                                                                                                  |
+| <img src="Imagenes/img_aaron.jpg" width="600px">                                                                                   | Aaron Santiago Baquerizo Cirilo    | Mi nombre es Aaron, estudio Ingeniria de Software en la UPC de Monterrico. Me considero alguien responsable que bisca aprender mas sobre cosas nuevas, decidido a apoyar a cada miembro del equipo para lograr el mejor resultado. Asimismo, espero que mis habilidades puedan ser de utilidad para completar el trabajo de la forma mas efectiva.                                                                                                                                                                                            |
+| <img src="Imagenes/img-Carlos-Gonzalez.jpg" width="600px"> | Carlos Alberto Gonzalez Custodio     | Soy estudiante de Ingeniería de Software, me encuentro actualmente cursando el 6to ciclo. Me encanta enriquecer mis conocimientos con nuevos desafíos y tengo un gran interés por el desarrollo web.                                                                                                                                                                                                                                                                                                                 |
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
@@ -412,35 +408,38 @@ Link de información: https://www.defensoria.gob.pe/ocho-de-cada-10-personas-no-
 # Capitulo 2
 
 ## 2.1. Competidores
+El análisis competitivo permite identificar a los principales actores en el ámbito de la salud mental digital, reconociendo sus fortalezas y debilidades. Actualmente existen plataformas que ofrecen **chatbots de apoyo emocional**, **terapias en línea** o **aplicaciones de meditación**. Sin embargo, la mayoría se orienta a mercados con mayor poder adquisitivo o a servicios generalizados.
 
-### 2.1.1. Análisis competitivo
-| **_Competidor_**          |                                                             | OpenMind                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Nombre aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Nombre aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Nombre aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |     |
-| ------------------------- | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| **_Logo_**                |                                                             | Logo aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Logo aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Logo aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Logo aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |     |
-| **_Perfil_**              | Overview                                                    | Descripción de la aplicación aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Descripción de la aplicación aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Descripción de la aplicación aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Descripción de la aplicación aqui                                                                                                                                                                                                                                                                                                                                                                                                                                     |     |
-|                           | **_Ventaja competitiva ¿Qué valor ofrece a los clientes?_** | Contenido aqui | Contenido aqui | Contenido aqui | Contenido aqui |     |
-| **_Perfil de Marketing_** | **_Mercado objetivo_**                                      | Contenido aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Contenido aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Contenido aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Contenido aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |     |
-|                           | **_Estrategias de marketing_**                              | Contenido aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Contenido aqui                                                                                                                                                                                                                                                                                                                                                                                                                                         | Contenido aqui<br><br>                                                                                                                                                                                                                                                                                                                                                       | Contenido aqui                                                                                                                                                                                                                                                                                                          |     |
-| **_Perfil de Producto_**  | **_Productos & Servicios_**                                 | Contenido aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Contenido aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Contenido aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Contenido aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |     |
-|                           | **_Precios & Costos_**                                      | Contenido aqui                                                                                                                                                                                                                                                                                                                                                                                                                 | Contenido aqui                                                                                                                                                                                                                                                                                                                             | Contenido aqui<br>                                                                                                                                                                                                                                                                                                                                                            | Contenido aqui                                                                                                                                                                                                                                                                                                                                        |     |
-|                           | **_Canales de distribución (Web y/o Móvil)_**               | Aplicaciones web.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Contenido aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Contenido aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Contenido aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |     |
-| **_Análisis SWOT_**       | **_Fortalezas_**                                            | Startup innovadora, precios flexibles, diseño innovador y gran escalabilidad a futuro.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Contenido aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Contenido aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Contenido aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |     |
-|                           | **_Debilidades_**                                           | Poco conocimiento en el ambito, fuerte competencia con mas experiencia a nivel mundial y sin alianzas que brinden una ventaja competitiva.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Contenido aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Contenido aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Contenido aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |     |
-|                           | **_Oportunidades_**                                         | Expansion a nuevos ambitos a parte del desarrollo de software, integracion de nuevas herramientas como la IA y la poca competencia a nivel de latinoamerica.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Contenido aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Contenido aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Contenido aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |     |
-|                           | **_Amenazas_**                                              | Contenido aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Contenido aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Contenido aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Contenido aqui                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |     |
+### 2.1.1. Análisis Competitivo
+
+| **Sección**           | **Subcategoría**                                     | **OpenMind**                                                                                                    | **Wysa**                                                                                  | **Youper**                                                                        | **TalkLife**                                                                    |
+|-----------------------|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| Logo                  |                                                  | ![OpenMind_Logo](Imagenes/OpenMind_Logo.jpg) | <img src="https://directrecruiters.com/wp-content/uploads/2022/08/Wysa-logo.original.jpg" width="100"> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm5uhsEhvvKF2dDM1eqhN6lRZiIPmzlIyylA&s" width="100"> | <img src="https://static.wixstatic.com/media/00e705_c6ac9033f660499b96fa5ad7d0616e77~mv2.png/v1/fill/w_374,h_371,al_c,q_80,usm_0.66_1.00_0.01/talklife-dark%201024x1024.webp" width="100"> |
+| Perfil                | Overview                                             | Plataforma digital de apoyo psicológico personalizado (chatbot + conexión con profesionales).                   | App de IA con chatbot para apoyo emocional, usada por millones de personas.              | Aplicación de salud mental con IA para seguimiento emocional y apoyo psicológico. | Red social de apoyo entre pares para salud mental, con enfoque en comunidad.    |
+|    | Ventaja competitiva ¿Qué valor ofrece a los clientes?                    | Enfoque en jóvenes (18–35), comunidades rurales y personas de bajos recursos; confidencialidad y accesibilidad. | IA muy desarrollada, multilingüe y gran base de usuarios.                                 | IA para conversaciones personalizadas y recomendaciones terapéuticas.            | Comunidad global activa para compartir experiencias y apoyo entre usuarios.     |
+| Perfil de Marketing   | Mercado objetivo                                     | Jóvenes (18–35), zonas rurales y sectores con menor acceso a servicios de salud mental.                        | Personas con smartphones interesadas en bienestar emocional.                             | Adultos jóvenes interesados en autoayuda y seguimiento psicológico.              | Adolescentes y jóvenes que buscan expresar y recibir apoyo.                    |
+|   | Estrategias de marketing                             | Campañas digitales, alianzas con ONGs y difusión en comunidades vulnerables.                                    | Presencia en tiendas de apps y medios de salud digital.                                   | Publicidad digital y alianzas con clínicas/terapeutas.                           | Campañas en redes sociales; posicionamiento como comunidad segura.             |
+| Perfil de Producto    | Productos & Servicios                                | Chatbot (texto, audio, video) y conexión con psicólogos profesionales.                                           | Chatbot IA + ejercicios y técnicas de TCC.                                                | Chatbot IA + monitoreo de estado de ánimo y técnicas psicológicas.               | Comunidad tipo red social + recursos de autoayuda.                              |
+|     | Precios & Costos                                     | Modelo freemium con planes accesibles y soporte gratuito básico.                                                 | Freemium con opción premium.                                                              | Freemium con suscripción mensual.                                                 | Gratis con opción de donaciones/patrocinios.                                    |
+|    | Canales de distribución (Web/Móvil)                  | Aplicación web y móvil.                                                                                          | App móvil (iOS y Android).                                                                 | App móvil (iOS y Android).                                                        | App móvil (iOS y Android).                                                      |
+| Análisis SWOT         | Fortalezas                                           | Innovación social, precios accesibles, enfoque en poblaciones vulnerables de LATAM.                             | IA avanzada, respaldo científico y alto número de usuarios.                               | IA personalizada e integración con psicología clínica.                           | Comunidad grande e interacción en tiempo real.                                   |
+|         | Debilidades                                          | Bajo reconocimiento de marca, falta de alianzas y experiencia internacional limitada.                            | Puede carecer de conexión directa con psicólogos humanos; barreras de idioma.             | Dependencia en IA y menor componente comunitario.                                 | Riesgo de falta de supervisión profesional y moderación.                         |
+|          | Oportunidades                                        | Expansión en LATAM, alianzas con universidades/ONGs e integración de IA inclusiva.                               | Expansión a mercados emergentes; alianzas institucionales.                                | Crecimiento en terapias digitales personalizadas y seguimiento.                   | Mayor interés en redes de apoyo entre jóvenes.                                   |
+|          | Amenazas                                             | Competencia global consolidada y riesgos regulatorios en salud digital.                                          | Nuevas apps de IA y regulaciones de datos.                                                | Regulaciones sobre el uso de IA en salud.                                         | Contenido dañino sin moderación adecuada; riesgos legales.                       |
+               |
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
 | **_MATRIZ FODA y C.A.M.E_**                                    | **Oportunidades:** Expansion en nuevos ambitos.                                                                                                                                                                  | **Amenazas:** competencia muy agresiva con cambios en las tarifas y comisiones                                                                                                                      |
 | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Fortalezas:** Precios flexibles                              | Contenido aqui | Contenido aqui |
-| **Debilidades:** Sin alianzas poderosas como los competidores. | Contenido aqui                                                       | Contenido aqui                                                                       |
+| **Fortalezas:** Innovación social, precios accesibles y enfoque en poblaciones vulnerables                              | Gracias a nuestro enfoque accesible y social, podemos penetrar en mercados desatendidos de LATAM, generando una ventaja en inclusión digital y social. | Nuestra propuesta social y de bajo costo nos permitirá mantenernos competitivos frente a grandes players que podrían ajustar precios; si reaccionan, eso validará nuestra propuesta como disruptiva. |
+| **Debilidades:** Bajo reconocimiento de marca, falta de alianzas y experiencia internacional limitada | La expansión en LATAM abre la posibilidad de alianzas con ONGs, universidades y ministerios de salud, que podrían reforzar nuestro prestigio y confianza en el mercado.                                                       | Si la competencia reacciona con cambios regulatorios o campañas más agresivas, deberemos fortalecer rápidamente alianzas locales y credibilidad institucional para evitar quedar relegados.                                                                     |
 
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
 
-#### Nombre del sector aqui
+#### Jóvenes entre 18 a 35 años
 
 1. Nombre completo
 2. Edad
@@ -455,7 +454,7 @@ Link de información: https://www.defensoria.gob.pe/ocho-de-cada-10-personas-no-
 11. Pregunta aqui
 12. Pregunta aqui
 
-#### Nombre del sector aqui
+#### Personas que viven en zonas rurales
 
 1. Nombre completo
 2. Edad
@@ -472,7 +471,7 @@ Link de información: https://www.defensoria.gob.pe/ocho-de-cada-10-personas-no-
 
 ### 2.2.2. Registro de entrevistas
 
-### **Jóvenes adultos (18-35 años)**
+
 
 ## Entrevista 1:
 
@@ -507,7 +506,6 @@ Geanfranco Jared Durand Vega, de 22 años, resaltó la gran importancia de la co
 Valeria Benítez valoró bastante la confidencialidad en la búsqueda de apoyo psicológico, indicando que es fundamental para generar confianza, y aunque considera muy probable usar una aplicación móvil, sigue prefiriendo la atención presencial; en cuanto a la forma de comunicación, opta por el texto cuando se siente mal y por la videollamada si está en condiciones de hablar; actualmente no utiliza apps de salud o bienestar, pero considera importante que sean accesibles desde distintos dispositivos y con precios razonables; sus principales motivaciones para buscar apoyo son problemas personales, y destacó la relevancia de la flexibilidad de horarios para compatibilizar con sus actividades; sobre el anonimato, lo ve útil cuando las sesiones son con distintos terapeutas, pero prefiere identificarse si es con uno fijo; además, considera muy importante que las aplicaciones estén respaldadas por profesionales licenciados, ya que le brindan seguridad, y aunque nunca ha buscado apoyo en línea, estaría interesada en hacerlo.
 ---
 
-### **Personas en áreas rurales o de bajos recursos**
 
 ## Entrevista 1:
 
@@ -718,30 +716,29 @@ Conclusión de las entrevistas aqui.
 
 ## 2.3. Needfinding
 
-En la sección de Needfinding, se emplean diversas herramientas como UXPressia, LucidChart y Miro para identificar y comprender las necesidades, comportamientos y emociones de los usuarios potenciales mediante la creación de User Personas, User Task Matrix, User Journey Maps, Empathy Maps y As-Is Scenario Maps. Estos artefactos ayudan a capturar una visión detallada de los usuarios, sus objetivos, tareas y experiencias actuales sin la solución propuesta, lo que permite diseñar un producto alineado con sus expectativas reales. Además, se incluye un glosario de términos del dominio de negocio, garantizando una comunicación clara y coherente entre todos los miembros del equipo.
-
 ### 2.3.1. User Personas
 
-Descripción de esta sección aqui
+Se presentan los perfiles de los usuarios que buscan apoyo psicológico en contextos urbanos y aquellos que viven en zonas rurales o de bajos recursos. Estos perfiles son fundamentales para comprender sus necesidades, motivaciones y desafíos específicos, permitiéndonos diseñar una solución accesible, segura y efectiva que se adapte tanto a entornos con buena conectividad como a aquellos con recursos más limitados, mejorando así la experiencia de los usuarios y facilitando su bienestar emocional.
 
-Segmento 1: Nombre del sector aqui
+Segmento 1: Jóvenes entre 18 a 35 años
 
-Imagen aqui
+<img width="1050" height="1570" alt="Valeria Torres" src="https://github.com/user-attachments/assets/92a77585-c600-4032-8283-58651201220a" />
 
-Segmento 2: Nombre del sector aqui
+Segmento 2: Personas que viven en zonas rurales
 
-Imagen aqui
+<img width="1050" height="1420" alt="Ricardo Salinas (1)" src="https://github.com/user-attachments/assets/319ea6ee-80d8-4860-835d-889e5a01d77c" />
+
 
 ### 2.3.2. User Task Matrix
 
-En esta sección se presenta el User Task Matrix para la plataforma OpenMind, considerando dos segmentos objetivos (Nombre de los segmentos de cliente). Las tareas están ordenadas de manera que cada segmento pueda entender sus prioridades y necesidades.
+En esta sección se presenta el User Task Matrix para la plataforma OpenMind, considerando dos segmentos objetivos : personas que buscan apoyo psicológico en contextos urbanos y aquellas que viven en zonas rurales o con recursos limitados. Las tareas están ordenadas de manera que cada segmento pueda entender sus prioridades y necesidades.
 
 <table>
   <thead>
     <tr>
       <th>Tareas</th>
-      <th colspan="2">Nombre de los segmentos de cliente aqui </th>
-      <th colspan="2">Nombre de los segmentos de cliente aqui </th>
+      <th colspan="2">Usuario que requiere apoyo psicológico</th>
+      <th colspan="2">Usuario rural</th>
     </tr>
     <tr>
       <th></th>
@@ -753,107 +750,89 @@ En esta sección se presenta el User Task Matrix para la plataforma OpenMind, co
   </thead>
   <tbody>
     <tr>
-      <td>Nombre de la tarea</td>
+      <td>Iniciar conversación con el chatbot</td>
       <td>Siempre</td>
       <td>Alta</td>
-      <td>Nunca</td>
-      <td>Sin importancia</td>
+      <td>Siempre</td>
+      <td>Alta</td>
     </tr>
     <tr>
-      <td>Nombre de la tarea</td>
-      <td>A veces</td>
-      <td>Media</td>
-      <td>Nunca</td>
-      <td>Sin importancia</td>
+      <td>Expresar emociones y pensamientos</td>
+      <td>Siempre</td>
+      <td>Alta</td>
+      <td>Siempre</td>
+      <td>Alta</td>
     </tr>
     <tr>
-      <td>Nombre de la tarea</td>
+      <td>Recibir recursos de apoyo</td>
       <td>Casi siempre</td>
       <td>Alta</td>
       <td>Casi siempre</td>
       <td>Alta</td>
     </tr>
     <tr>
-      <td>Nombre de la tarea</td>
-      <td>Siempre</td>
-      <td>Alta</td>
-      <td>Siempre</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Nombre de la tarea</td>
+      <td>Acceder a sesiones</td>
       <td>A veces</td>
-      <td>Media</td>
-      <td>A veces</td>
-      <td>Media</td>
-    </tr>
-    <tr>
-      <td>Nombre de la tarea</td>
-      <td>Nunca</td>
-      <td>Sin importancia</td>
-      <td>Casi siempre</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Nombre de la tarea</td>
-      <td>Nunca</td>
-      <td>Sin importancia</td>
-      <td>Siempre</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Nombre de la tarea</td>
-      <td>Nunca</td>
-      <td>Sin importancia</td>
-      <td>A veces</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Nombre de la tarea</td>
-      <td>A veces</td>
-      <td>Media</td>
-      <td>A veces</td>
-      <td>Media</td>
-    </tr>
-    <tr>
-      <td>Nombre de la tarea</td>
-      <td>Casi nunca</td>
       <td>Media</td>
       <td>Casi nunca</td>
+      <td>Baja</td>
+    </tr>
+    <tr>
+      <td>Revisar historial de conversaciones</td>
+      <td>Casi siempre</td>
       <td>Media</td>
+      <td>A veces</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Reportar un problema o pedir ayuda urgente</td>
+      <td>A veces</td>
+      <td>Alta</td>
+      <td>A veces</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Configurar perfil básico (anonimato, privacidad)</td>
+      <td>Casi siempre</td>
+      <td>Alta</td>
+      <td>A veces</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Compartir avances con familiares o pares</td>
+      <td>A veces</td>
+      <td>Media</td>
+      <td>Casi nunca</td>
+      <td>Baja</td>
     </tr>
   </tbody>
 </table>
 
-**Tareas con mayor frecuencia e importancia para los (Nombre del segmento de cliente aqui):**
+**Tareas con mayor frecuencia e importancia para los usuarios que requieren apoyo psicológico:**
 
-- Tarea junto a su descripción aqui
+- Iniciar conversación con el chatbot y expresar emociones son actividades realizadas siempre y con alta importancia, siendo la base del uso de la plataforma.  
+- Recibir recursos de apoyo y configurar privacidad también son muy relevantes, pues fortalecen la utilidad y confianza en el sistema.  
 
-- Tarea junto a su descripción aqui
+**Tareas con mayor frecuencia e importancia para los usuarios rurales:**
 
-**Tareas con mayor frecuencia e importancia para los (Nombre del segmento de cliente aqui):**
-
-- Tarea junto a su descripción aqui
-
-- Tarea junto a su descripción aqui
+- Iniciar conversación con el chatbot y expresar emociones tienen alta frecuencia e importancia, ya que representan el acceso principal al apoyo emocional.  
+- Recibir recursos simples (ejercicios prácticos, consejos) también es prioritario, considerando las limitaciones tecnológicas y de conectividad.  
 
 **Principales Diferencias:**
 
-- Diferencia con los detalles del segmento cliente aqui
-
-- Diferencia con los detalles del segmento cliente aqui
+- Los usuarios urbanos valoran más funciones multimedia (audio/video, historial detallado, derivación a profesionales).  
+- Los usuarios rurales priorizan la simplicidad, bajo consumo de datos y anonimato.  
 
 **Coincidencias:**
 
-- Coincidencias con los detalles del segmento cliente aqui
-
-- Coincidencias con los detalles del segmento cliente aqui
+- Ambos segmentos consideran crucial poder iniciar conversaciones inmediatas.  
+- Expresar emociones y recibir apoyo práctico son necesidades compartidas y prioritarias.  
 
 ### 2.3.3. User Journey Mapping
 
 Este gráfico ilustra como los usuarios interactúan con nuestra solución a lo largo del tiempo, resaltando tanto las experiencias clave como las oportunidades de mejora. Este análisis detallado permite asegurar que la solución esté perfectamente alineada con los flujos de trabajo de los usuarios y responda de manera efectiva a sus necesidades, mejorando así su experiencia general.
 
-Imagen del journey mapping aqui
+<img width="2043" height="851" alt="CJM for retail (auto_other goods)" src="https://github.com/user-attachments/assets/1a90678c-87a3-4313-9b72-5866d56b6fb5" />
 
 ### 2.3.4. Empathy Mapping
 
@@ -871,27 +850,31 @@ Imagen del empathy mapping aqui
 
 Se describen los procesos actuales de los freelancers e inversores antes de la implementación de nuestra solución. Esto nos permite identificar ineficiencias en la comunicación, desconfianza en la gestión de proyectos y dificultades en la contratación, lo que abre oportunidades para mejorar la experiencia de colaboración y facilitar conexiones más seguras, claras y eficientes mediante nuestra tecnología.
 
-Segmento 1: Nombre del segmento cliente aqui
+Segmento 1: Jovenes adultos (18 a 35 años)
 
-Imagen del scenario mapping aqui
+<img src="Imagenes/img-as-is-mapping-seg1.png" alt="As_is_scenario_mapping1_Imagen" width="600"/>
 
-Segmento 2: Nombre del segmento cliente aqui
+Segmento 2: Personas que viven en zonas rurales
 
-Imagen del scenario mapping aqui
+<img src="Imagenes/img-as-is-mapping-seg2.png" alt="As_is_scenario_mapping1_Imagen" width="600"/>
 
 ## 2.4. Ubiquitous Language
 
-En esta sección, se definen los términos clave utilizados en el dominio de negocio de la plataforma que conecta freelancers con inversores, siguiendo el enfoque de Ubiquitous Language propuesto por Eric Evans en Domain-Driven Design. Estas definiciones tienen como objetivo garantizar una comunicación clara, coherente y compartida entre los miembros del equipo de desarrollo, stakeholders y usuarios, alineando el lenguaje técnico con las necesidades reales del negocio y facilitando la comprensión mutua durante el proyecto.
+En esta sección, se definen los términos clave utilizados en el dominio de negocio de la plataforma que conecta tanto a los jóvenes entre 18 a 35 años y a las personas que viven en zonas rurales, siguiendo el enfoque de Ubiquitous Language propuesto por Eric Evans en Domain-Driven Design. Estas definiciones tienen como objetivo garantizar una comunicación clara, coherente y compartida entre los miembros del equipo de desarrollo, stakeholders y usuarios, alineando el lenguaje técnico con las necesidades reales del negocio y facilitando la comprensión mutua durante el proyecto.
 
-1. **Termino clave:** Descripción aqui
-2. **Termino clave:** Descripción aqui
-3. **Termino clave:** Descripción aqui
-4. **Termino clave:** Descripción aqui
-5. **Termino clave:** Descripción aqui
-6. **Termino clave:** Descripción aqui
-7. **Termino clave:** Descripción aqui
-8. **Termino clave:** Descripción aqui
-9. **Termino clave:** Descripción aqui
+| **Término**                     | **Definición en el proyecto**                                                                                       |
+|---------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| **Usuario**                     | Persona que descarga y utiliza la aplicación en busca de apoyo emocional o psicológico.                             |
+| **Segmento objetivo**           | Grupo específico de usuarios (jóvenes adultos con estrés académico/laboral, personas rurales de bajos recursos).    |
+| **Chatbot / Psicólogo Virtual** | Asistente digital basado en IA que interactúa con el usuario, detecta estados emocionales y sugiere actividades.    |
+| **Sesión**                      | Interacción entre el usuario y la app (ya sea con el chatbot o con recursos de autoayuda).                          |
+| **Detección emocional**         | Proceso mediante el cual la IA analiza lenguaje escrito/voz para identificar el estado anímico del usuario.         |
+| **Actividad de apoyo**          | Ejercicio sugerido (respiración, relajación, journaling, etc.) para mejorar el bienestar del usuario.               |
+| **Seguimiento continuo**        | Registro del estado emocional del usuario a lo largo del tiempo para identificar patrones.                          |
+| **Confidencialidad**            | Garantía de que toda la información personal y emocional del usuario se mantiene segura y privada.                  |
+| **Suscripción**                 | Modelo de pago mensual o anual que da acceso a las funcionalidades premium de la aplicación.                        |
+| **Crisis emocional**            | Estado crítico del usuario que requiere atención inmediata y prioritaria.                                           |
+| **Derivación profesional**      | Proceso en el cual la app recomienda contactar con un psicólogo humano o línea de ayuda, cuando el caso lo amerite. |
 
 # Capitulo 3
 
@@ -903,38 +886,32 @@ El **To-Be Scenario Mapping** presenta el escenario futuro ideal después de la 
 
 **Jovenes adultos (18 a 35 años)**
 
-Imagen del to be scenario mapping aqui
+![To_be_scenario_Imagen](Imagenes/To_be%20_scenario_%20mapping_%20Jóvenes.jpeg)
 
 **Personas que viven en zonas rurales**
 
-Imagen del to be scenario mapping aqui
+![To_be_scenario2_Imagen](Imagenes/To_be_scenario_%20mapping_%20Personas_en%20zonas_rurales.jpeg)
 
 ## 3.2. User Stories
 
-Las **User Stories** representan los **requisitos funcionales** de **OpenMind** desde la perspectiva de los **nombre del segmento cliente aqui** y los **nombre del segmento cliente aqui**. Cada historia de usuario describe una interacción específica que los usuarios necesitan realizar, como _"describir acciones aqui"_ o _"describir acciones aqui"_. Estas historias se desglosan en tareas concretas que guiarán el desarrollo de la plataforma, asegurando que se cumplan las **necesidades reales y expectativas de los usuarios finales**, y que OpenMind brinde una experiencia eficiente, justa y centrada en el valor de las conexiones profesionales.
+Las **User Stories** representan los **requisitos funcionales** de **OpenMind** desde la perspectiva de los **jóvenes entre 18 a 35 años** y las **personas que viven en zonas rurales**. Cada historia de usuario describe una interacción específica que los usuarios necesitan realizar, como _"entrar a la aplicación"_ o _"usar el chatbot para sus busquedas"_. Estas historias se desglosan en tareas concretas que guiarán el desarrollo de la plataforma, asegurando que se cumplan las **necesidades reales y expectativas de los usuarios finales**, y que OpenMind brinde una experiencia eficiente, justa y centrada en el valor de las conexiones profesionales.
 
 | **User Story ID** | **Título**                              | **Descripción**                                                                                                                   | **Criterios de Aceptación**                                                                                                                                                                                                                                                                    | **Epic ID** |
 | ----------------- | --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| US-01             | Sección About Us                        | Como visitante, quiero conocer más sobre la plataforma BeCode para entender cómo conecta personas.                                | **Escenario 1: Visualizar información**Dado que el visitante accede a "About Us", entonces se muestra información clara sobre misión, visión y funcionamiento.**Escenario 2: Call to Action**Se muestra un botón para registrarse en BeCode.                                                   | EP-01       |
-| US-02             | Sección Beneficios                      | Como visitante, quiero ver los beneficios de usar BeCode para evaluar si es conveniente para mí.                                  | **Escenario 1: Ver beneficios**Dado que el visitante accede a la sección, entonces se muestran puntos clave como validación de talento, seguridad y flexibilidad.**Escenario 2: CTA contextual**Se muestra un botón “Únete ahora” que redirige al registro con tipo de usuario predeterminado. | EP-01       |
-| US-03             | Comparación de Membresías               | Como visitante, quiero comparar membresías para elegir la más adecuada.                                                           | **Escenario 1: Ver tabla comparativa**Se muestra tabla con precios y beneficios.**Escenario 2: Selección de plan**Al hacer clic en “Seleccionar”, el usuario es dirigido al formulario de registro con el plan ya marcado.                                                                     | EP-01       |
-| US-04             | Sección de Contacto                     | Como visitante, quiero poder contactar a BeCode desde la landing page para resolver dudas.                                        | **Escenario 1: Enviar formulario de contacto**Al enviar, se muestra mensaje de confirmación.**Escenario 2: Medios alternativos**Se muestran otras vías de contacto como email o redes sociales.                                                                                                | EP-01       |
-| US-05             | Sección de Testimonios                  | Como visitante, quiero leer testimonios de usuarios para conocer su experiencia.                                                  | **Escenario 1: Visualizar testimonios**Se muestran experiencias reales.**Escenario 2: Filtrar testimonios**Se puede filtrar por tipo de usuario (cliente o desarrollador).                                                                                                                     | EP-01       |
-| US-06             | Preguntas Frecuentes (FAQ)              | Como visitante, quiero resolver dudas accediendo a la sección de FAQ.                                                             | **Escenario 1: Acceso a FAQs**Se muestran preguntas frecuentes.**Escenario 2: Derivación a contacto**Si el visitante hace clic en “¿No encontraste tu respuesta?”, es redirigido al formulario con la pregunta preseleccionada.                                                                | EP-01       |
-| US-07             | Registro de Freelancers                 | Como desarrollador, quiero registrarme para ofrecer mis servicios.                                                                | **Escenario 1: Registro exitoso**Al completar los datos, se crea la cuenta.**Escenario 2: Validación de habilidades**Puede completar su perfil técnico y portafolio.                                                                                                                           | EP-02       |
-| US-08             | Registro de Clientes                    | Como cliente, quiero registrarme para publicar necesidades de proyectos.                                                          | **Escenario 1: Completar registro**Se crea cuenta y accede al dashboard.**Escenario 2: Publicar primer proyecto**Se ofrece asistente para publicación inicial.                                                                                                                                 | EP-02       |
-| US-09             | Filtrar Freelancers                     | Como cliente, quiero filtrar programadores por habilidades o experiencia.                                                         | **Escenario 1: Usar filtros avanzados**Puede filtrar por lenguaje, experiencia y país.**Escenario 2: Guardar favoritos**Puede guardar perfiles para futuras contrataciones.                                                                                                                    | EP-03       |
-| US-10             | Visualización de Proyectos              | Como desarrollador, quiero ver proyectos adecuados a mis habilidades.                                                             | **Escenario 1: Ver proyectos compatibles**Se muestran proyectos según el perfil.**Escenario 2: Postulación sencilla**Puede postularse directamente desde el proyecto con una propuesta personalizada.                                                                                          | EP-03       |
-| US-11             | Sistema de Mensajería                   | Como usuario, quiero comunicarme directamente con otros usuarios desde la plataforma para discutir detalles del proyecto.         | **Escenario 1: Enviar mensaje**Dado que el usuario está en el perfil de otro, puede iniciar una conversación y enviar mensajes.**Escenario 2: Notificación de nuevos mensajes**El usuario ve un ícono en la sección "Mensajes" del dashboard y un mensaje emergente con el remitente.          | EP-04       |
-| US-12             | Sistema de Reputación                   | Como usuario, quiero ver valoraciones y reseñas en los perfiles para evaluar la experiencia de otros usuarios.                    | **Escenario 1: Visualizar calificaciones**Al entrar en el perfil, se muestran estrellas y comentarios de experiencias anteriores.**Escenario 2: Enviar valoración**Al finalizar un proyecto, el usuario puede dejar una reseña y calificación al otro usuario.                                 | EP-05       |
-| US-13             | Gestión de Portafolio                   | Como freelancer, quiero subir proyectos a mi perfil para mostrar mi experiencia previa.                                           | **Escenario 1: Subir portafolio**El freelancer puede agregar proyectos con descripción, imágenes y tecnologías usadas.**Escenario 2: Editar o eliminar**Puede modificar o eliminar proyectos existentes desde su perfil.                                                                       | EP-02       |
-| US-14             | Solicitar Reunión                       | Como cliente, quiero solicitar reuniones con programadores para discutir detalles antes de contratarlos.                          | **Escenario 1: Enviar solicitud**El cliente puede agendar una reunión con fechas sugeridas desde el perfil del freelancer.**Escenario 2: Confirmación automática**Se envía un correo de confirmación con detalles y se crea un evento con enlace en el dashboard.                              | EP-04       |
-| US-15             | Métricas de Desempeño                   | Como freelancer, quiero ver métricas sobre mi rendimiento (respuestas, postulaciones, reputación) para mejorar mis oportunidades. | **Escenario 1: Visualizar métricas**Desde su perfil, el usuario puede ver datos como tasa de respuesta, postulaciones realizadas, y puntuación media.**Escenario 2: Comparativa con promedio**Se muestra un gráfico comparativo respecto al promedio de la plataforma.                         | EP-05       |
-| US-16             | Registro de usuario y compañía          | Como nuevo usuario, quiero registrarme y asociar mi cuenta a una compañía para poder acceder a los servicios de la plataforma     | **Escenario 1**: Registro exitoso <br><br> Dado que un usuario completa el formulario <br><br> Cuando envía sus datos y los de su compañía <br><br> Entonces se crea la cuenta asociada a una compañía                                                                                         | EP-02       |
-| US-17             | Publicación y gestión de proyectos      | Como compañía, quiero publicar y gestionar proyectos para contratar freelancers que se ajusten a mis necesidades                  | **Escenario 1**: Crear proyecto <br><br> Dado que una compañía accede al panel <br><br> Cuando publica un nuevo proyecto <br><br> Entonces el proyecto queda visible y editable                                                                                                                | EP-03       |
-| US-18             | Comunicación entre usuarios             | Como usuario, quiero enviar mensajes a otros usuarios para coordinar detalles sobre proyectos o contrataciones                    | **Escenario 1**: Enviar mensaje <br><br> Dado que un usuario inicia una conversación <br><br> Cuando redacta y envía un mensaje <br><br> Entonces el mensaje aparece en la bandeja del receptor                                                                                                | EP-04       |
-| US-19             | Gestión de suscripciones                | Como compañía, quiero suscribirme a planes que me permitan acceder a funcionalidades adicionales de la plataforma                 | **Escenario 1**: Suscripción activa <br><br> Dado que una compañía elige un plan <br><br> Cuando confirma el pago <br><br> Entonces se activa el plan correspondiente con sus beneficios                                                                                                       | EP-03       |
-| US-20             | Búsqueda de freelancers por habilidades | Como compañía, quiero buscar freelancers según sus habilidades y experiencia para encontrar el candidato ideal para mi proyecto   | **Escenario 1**: Filtrar freelancers <br><br> Dado que una compañía usa el buscador <br><br> Cuando aplica filtros por habilidad y experiencia <br><br> Entonces se muestran los freelancers que coinciden                                                                                     | EP-03       |
+| US-01             | Sección About Us                        | Como joven entre 18 a 35 años, quisiera conocer más sobre la plataforma OpenMind para entender cual es su funcionamiento.                                | **Escenario 1: Visualizar información** Dado que el joven accede a "About Us", entonces se muestra información clara sobre misión, visión y funcionamiento.**Escenario 2: Call to Action** Se muestra un botón para registrarse en OpenMind.                                                   | EP-01       |
+| US-02             | Sección Beneficios                      | Como persona que viven en zonas rurales, quisiera ver cuales son los beneficios por usar está aplicación para evaluar si es conveniente utilizarlo.                                  | **Escenario 1: Ver beneficios** Dado que la persona que vive en zonas rurales accede a la sección, entonces se muestran puntos clave como validación de talento, seguridad y flexibilidad.**Escenario 2: CTA contextual** Se muestra un botón “Únete ahora” que redirige al registro con tipo de usuario predeterminado. | EP-01       |
+| US-03             | Comparación de Membresías               | Como joven entre 18 a 35 años, quisiera ver un plan de membresías que me ofrezca diversas alternativas de servicio según mis preferencias.                                                           | **Escenario 1: Ver tabla comparativa** Se muestra tabla con precios y beneficios.**Escenario 2: Selección de plan** Al hacer clic en “Seleccionar”, el usuario es dirigido al formulario de registro con el plan ya marcado.                                                                     | EP-01       |
+| US-04             | Sección de Contacto                     | Como persona que vive en zonas rurales, quiero poder contactar a OpenMind desde la landing page para resolver las dudas que tenga con respecto a la aplicación.                                        | **Escenario 1: Enviar formulario de contacto** Al enviar, se muestra mensaje de confirmación.**Escenario 2: Medios alternativos** Se muestran otras vías de contacto como email o redes sociales.                                                                                                | EP-01       |
+| US-05             | Sección de Testimonios                  | Como joven entre 18 a 35 años, quiero leer testimonios de otros usuarios para conocer sus experiencias usando la aplicación.                                                  | **Escenario 1: Visualizar testimonios** Se muestran experiencias reales.**Escenario 2: Filtrar testimonios** Se puede visualizar el nombre del usuario que dejo el comentario al hacer click en él.                                                                                                                     | EP-01       |
+| US-06             | Preguntas Frecuentes (FAQ)              | Como persona que vive en zonas rurales, quiero resolver dudas accediendo a la sección de FAQ.                                                             | **Escenario 1: Acceso a FAQs** Se muestran preguntas frecuentes.**Escenario 2: Derivación a contacto** Si el usuario hace clic en “¿No encontraste tu respuesta?”, es redirigido al formulario con la pregunta preseleccionada.                                                                | EP-01       |
+| US-07             | Registro de usuario                | Como joven entre 18 a 35 años, quisiera regristrarme en la aplicación para recibir sus servicios.                                                                | **Escenario 1: Registro exitoso** Al completar los datos, se crea la cuenta.**Escenario 2: Validación de datos** Puede validar sus datos en el perfíl que creo.                                                                                                                           | EP-02       |
+| US-08             | Uso del chatbot                    | Como persona que vive en zonas rurales, quisiera contar con una herramienta que me permita identificar el tipo de servicio que busco utilizando una IA para que me sea más facil navegar por la aplicación o para recibir apoyo automático.                                                          | **Escenario 1: Ubicar la opción** Se accede al dashboard y se selecciona la opción correspondiente.**Escenario 2: Utilizar el chatbot** Se inicia con el uso del chatbot.                                                                                                                                 | EP-03       |
+| US-09             | Visualizar conversaciones pasadas                     | Como joven entre 18 a 35 años, quiero que mis conversaciones con el chatbot queden registradas para ser consultadas en cualquier momento.                                                         | **Escenario 1: Guardar conversación** Puedo guardar la conversación con el chatbot presionando el botón "Guardar".**Escenario 2: Consultar conversación pasada** Puede ver mis anteriores conversaciones revisando el historial del chatbot.                                                                                                                    | EP-03       |
+| US-10             | Recomendaciones de ayuda profesional              | Como persona que vive en zonas rurales, quisiera que el chatbot me pueda recomendar el tipo de ayuda psicológica que necesito al preguntarme si deseo ayuda de un profesional.                                                             | **Escenario 1: Opción de profesionales** Al terminar de usar el chatbot, puede preguntarte si deseas contar con el apoyo de un profesional que pueda ayudarlo de mejor forma según lo que necesite.**Escenario 2: Elección de alternativa** Puedes negarte al unicamente requerir asistencia básica o puedes aceptar para que el chatbot te recomiende a un profesional que pueda ayudarte adecuandose al tipo de caso que tienes.                                                                                          | EP-03       |
+| US-11             | Sistema de Mensajería                   | Como joven entre 18 a 35 años, quiero comunicarme directamente con un profesional que pueda atender mi caso.         | **Escenario 1: Enviar mensaje** Dado que el usuario está en el perfil del profesional, puede iniciar una conversación y enviar mensajes.**Escenario 2: Notificación de nuevos mensajes** El usuario ve un ícono en la sección "Mensajes" del dashboard y un mensaje emergente con el remitente al cual pertenece.          | EP-04       |
+| US-12             | Sistema de Reputación                   | Como persona que vive en zonas rurales, quiero ver valoraciones y reseñas en los perfiles de los profesionales para evaluar la experiencia que tuvieron otros usuarios con esa misma persona.                    | **Escenario 1: Visualizar calificaciones**Al entrar en el perfil del profesional, se muestran estrellas y comentarios de experiencias anteriores.**Escenario 2: Enviar valoración**Al finalizar el servicio con el profesional, el usuario puede dejar una reseña y calificación de forma pública para que otras personas puedan ver su opinión ante el tipo de servicio que dio el profesional escogído.                                 | EP-05       |
+| US-13             | Privacidad de datos personales                   | Como joven entre 18 a 35 años, quisiera que mis datos personales antes registrados cuenten con seguridad y privacidad en la aplicación para sentir confianza al momento de compartirlos con un profesional.                                           | **Escenario 1: Censura de datos** El usuario tiene la opción de censurar diversos datos de su perfi tachando un pequeño recuadro que dice "Censurar datos".**Escenario 2: Habilitar la visualización de datos personales** Puede mostar y compartir sus datos con el profesional al ya estar en confianza.                                                                       | EP-02       |
+| US-14             | Modicar información del perfil                       | Como persona que vive en zonas rurales, quiero contar con la capacidad para modificar los datos de mi perfil para actualizarlo con la información más reciente.                          | **Escenario 1: Modificar información** El usuario puede modificar la información que registro anteriormente en su perfil seleccionando el botón de "Editar".**Escenario 2: Guardar los cambios** Una vez terminado de modificar tus datos personales, se selecciona la opción de "Guardar cambios" para que la información sea actualizada reemplazando los anteriores datos.                              | EP-02       |
 
 **EPICS**
 
@@ -944,11 +921,11 @@ Las Epics que identificamos son las siguientes:
 
 | **Epic ID** | **Título**                     | **Descripción Corregida**                                                                                                                                                                                                                       |
 | ----------- | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| EP-01       | Desarrollo del Landing Page    | Abarca la creación y optimización de la landing page de BeCode, incluyendo secciones informativas sobre la plataforma, beneficios, membresías, testimonios, preguntas frecuentes y medios de contacto orientados a la conversión de visitantes. |
-| EP-02       | Creación y Gestión de Perfiles | Se enfoca en el registro y configuración de perfiles para freelancers y clientes, así como en la gestión de portafolios y capacidades que permitan mostrar experiencia y necesidades de contratación dentro del marketplace.                    |
-| EP-03       | Descubrimiento y Matching      | Abarca funcionalidades de descubrimiento de oportunidades laborales y profesionales, incluyendo publicación de proyectos, filtros de búsqueda, postulaciones y visualización de proyectos relevantes.                                           |
-| EP-04       | Comunicación entre Usuarios    | Reúne las herramientas de interacción directa entre usuarios, como mensajería interna, solicitud de reuniones, notificaciones y confirmaciones que faciliten el cierre de acuerdos.                                                             |
-| EP-05       | Reputación y Métricas          | Cubre el sistema de calificaciones, comentarios, visualización de métricas de rendimiento y comparativas que permiten evaluar la confiabilidad y desempeño de usuarios dentro de la plataforma.                                                 |
+| EP-01       | Desarrollo del Landing Page    | Abarca la creación y optimización de la landing page de OpenMind, incluyendo secciones informativas sobre la plataforma, beneficios, membresías, testimonios, preguntas frecuentes y medios de contacto orientados a la conversión con el chatbot o con un profesional. |
+| EP-02       | Creación y Gestión de Perfiles | Se enfoca en el registro y configuración de perfiles para jóvenes entre 18 a 35 años y personas que viven en zonas rurales, así como en la gestión de datos personales decidiendo si compartirlos o dejarlos en privado además de modificarlos en cualquier momento.                    |
+| EP-03       | Matchmaking y uso del chatbot      | Abarca funcionalidades referentes al uso del chatbot integrado en la aplicación asi como el emparejamiento con profesionales que ayuden al usuario según su caso.                                           |
+| EP-04       | Comunicación en la aplicación    | Reúne las herramientas de interacción directa en la aplicación al contar con un sistema de mensajeria que permita redactar, enviar y recibir mensajes en el mismo sitio.                                                          |
+| EP-05       | Reputación y Métricas          | Cubre el sistema de calificaciones, comentarios, visualización de métricas de rendimiento y comparativas que permiten evaluar la confiabilidad y desempeño de profesionales dentro de la plataforma.                                                 |
 
 ## 3.3. Impact Mapping
 
@@ -956,33 +933,32 @@ En la técnica de **Impact Mapping**, conectamos los **objetivos de negocio** co
 
 _Impact Mapping Jovenes adultos (18 a 35 años)_
 
-Foto del impact mapping del tipo de cliente aqui
+![Impact_Mapping1_Imagen](Imagenes/Impact_Mapping1.jpeg)
 
 _Impact Mapping Personas que viven en zonas rurales_
 
-Foto del impact mapping del tipo de cliente aqui
+![Impact_Mapping2_Imagen](Imagenes/Impact_Mapping2.png)
 
 ## 3.4. Product Backlog
 
 Product Backlog es una herramienta fundamental en el marco de trabajo ágil, particularmente en metodologías como **Scrum**. El backlog actúa como una fuente de verdad que define lo que el equipo de desarrollo necesita trabajar en el producto para entregar valor a los usuarios o clientes.
 
-| **# Orden** | **User Story ID** | **Título**                 | **Descripción**                                                                                                                       | **Story Points (1/2/3/5/8)** |
+| **# Orden** | **User Story ID** | **Título**                 | **Descripción**                                                                                                                       | **Story Points (1/2/3/4/5)** |
 | ----------- | ----------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| 1           | US-01             | Titulo del user stories           | Descripción aqui                    | Puntos aqui                            |
-| 2           | US-02             | Titulo del user stories         | Descripción aqui      | Puntos aqui                            |
-| 3           | US-03             | Titulo del user stories  | Descripción aqui               | Puntos aqui                            |
-| 4           | US-04             | Titulo del user stories        | Descripción aqui | Puntos aqui                            |
-| 5           | US-05             | Titulo del user stories     | Descripción aqui                                    | Puntos aqui                            |
-| 6           | US-06             | Titulo del user stories | Descripción aqui                                        | Puntos aqui                            |
-| 7           | US-07             | Titulo del user stories    | Descripción aqui                                            | Puntos aqui                            |
-| 8           | US-08             | Titulo del user stories      | Descripción aqui                                     | Puntos aqui                            |
-| 9           | US-09             | Titulo del user stories        | Descripción aqui                              | Puntos aqui                            |
-| 10          | US-10             | Titulo del user stories | Descripción aqui                                                   | Puntos aqui                            |
-| 11          | US-11             | Titulo del user stories    | Descripción aqui                              | Puntos aqui                            |
-| 12          | US-12             | Titulo del user stories   | Descripción aqui                                   | Puntos aqui                            |
-| 13          | US-13             | Titulo del user stories  | Descripción aqui                                                   | Puntos aqui                            |
-| 14          | US-14             | Titulo del user stories               | Descripción aqui                       | Puntos aqui                           |
-| 15          | US-15             | Titulo del user stories       | Descripción aqui                                      | Puntos aqui                           |
+| 1           | US-01             | Sección About Us           | Como joven entre 18 a 35 años, quisiera conocer más sobre la plataforma OpenMind para entender cual es su funcionamiento.                    | 1                            |
+| 2           | US-02             | Sección Beneficios         | Como persona que viven en zonas rurales, quisiera ver cuales son los beneficios por usar está aplicación para evaluar si es conveniente utilizarlo.      | 3                            |
+| 3           | US-03             | Comparación de Membresías  | Como joven entre 18 a 35 años, quisiera ver un plan de membresías que me ofrezca diversas alternativas de servicio según mis preferencias.               | 4                            |
+| 4           | US-04             | Sección de Contacto        | Como persona que vive en zonas rurales, quiero poder contactar a OpenMind desde la landing page para resolver las dudas que tenga con respecto a la aplicación. | 2                            |
+| 5           | US-05             | Sección de Testimonios     | Como joven entre 18 a 35 años, quiero leer testimonios de otros usuarios para conocer sus experiencias usando la aplicación.                                    | 1                            |
+| 6           | US-06             | Preguntas Frecuentes (FAQ) | Como persona que vive en zonas rurales, quiero resolver dudas accediendo a la sección de FAQ.                                        | 2                            |
+| 7           | US-07             | Registro de usuario    | Como joven entre 18 a 35 años, quisiera regristrarme en la aplicación para recibir sus servicios.                                            | 4                            |
+| 8           | US-08             | Uso del chatbot      | Como persona que vive en zonas rurales, quisiera contar con una herramienta que me permita identificar el tipo de servicio que busco utilizando una IA para que me sea más facil navegar por la aplicación o para recibir apoyo automático.                                    | 5                            |
+| 9           | US-09             | Visualizar conversaciones pasadas        | Como joven entre 18 a 35 años, quiero que mis conversaciones con el chatbot queden registradas para ser consultadas en cualquier momento.                              | 1                            |
+| 10          | US-10             | Recomendaciones de ayuda profesional | Como persona que vive en zonas rurales, quisiera que el chatbot me pueda recomendar el tipo de ayuda psicológica que necesito al preguntarme si deseo ayuda de un profesional.                                                   | 5                            |
+| 11          | US-11             | Sistema de Mensajería    | Como joven entre 18 a 35 años, quiero comunicarme directamente con un profesional que pueda atender mi caso.                              | 4                            |
+| 12          | US-12             | Sistema de Reputación   | Como persona que vive en zonas rurales, quiero ver valoraciones y reseñas en los perfiles de los profesionales para evaluar la experiencia que tuvieron otros usuarios con esa misma persona.                                   | 3                            |
+| 13          | US-13             | Privacidad de datos personales  | Como joven entre 18 a 35 años, quisiera que mis datos personales antes registrados cuenten con seguridad y privacidad en la aplicación para sentir confianza al momento de compartirlos con un profesional.                                                   | 4                            |
+| 14          | US-14             | Modicar información del perfil               | Como persona que vive en zonas rurales, quiero contar con la capacidad para modificar los datos de mi perfil para actualizarlo con la información más reciente.                       | 3                          |                          |
 
 # Capitulo 4
 
@@ -1036,7 +1012,7 @@ Colores secundarios:
 
 5. Imágenes:
 
-- Usar imágenes que representen colaboración remota, trabajo freelance, diversidad profesional y programación en el entorno.
+- Usar imágenes que representen atención remota, uso del chatbot, diversidad profesional y programación en el entorno.
 - Ilustraciones vectoriales limpias o imágenes realistas que tengan un buen contraste.
 
 ### 4.1.2. Web Style Guidelines
@@ -1053,7 +1029,7 @@ interacción para responsive web interfaces.
 
 - Header fijo: Logo a la izquierda, navegación centrada/derecha, botón de login destacado.
 - Dashboard: Sidebar con navegación vertical, contenido modular.
-- Cards para perfiles de freelancers: avatar, skills destacados, precio/hora, botón “contactar”.
+- Cards para perfiles de psicólogos profesionales: avatar, skills destacados, precio/hora, botón “contactar”.
 - Filtros de búsqueda: Por tecnologías, nivel de experiencia, tarifa, zona horaria.
 
 3. Botones:
@@ -1083,21 +1059,21 @@ interacción para responsive web interfaces.
 
 ### 4.2.1. Organization Systems
 
-En la plataforma OpenMind, se han implementado sistemas de organización que optimizan la interacción entre (Continuar explicación). La estructura visual del contenido ha sido organizada bajo los siguientes principios:
+En la plataforma OpenMind, se han implementado sistemas de organización que optimizan la interacción tanto para jóvenes entre 18 a 35 años y personas que viven en zonas rurales. La estructura visual del contenido ha sido organizada bajo los siguientes principios:
 
 **1- Jerarquía visual:**
-Se ha utilizado una jerarquía visual clara para destacar los elementos más importantes de la plataforma. Por ejemplo, el título principal “Conecta talento con ideas” ocupa una posición central con tipografía destacada, seguido por botones como “Explora Freelancers” y “Publica una Idea”. Esta estructura permite a los usuarios identificar de inmediato las funcionalidades principales del sitio.
+Se ha utilizado una jerarquía visual clara para destacar los elementos más importantes de la plataforma. Por ejemplo, el título principal “Conecta tus emociones” ocupa una posición central con tipografía destacada. Esta estructura permite a los usuarios identificar de inmediato las funcionalidades principales del sitio.
 
-**2-Jerarquía de Tipografía:**
+**2- Jerarquía de Tipografía:**
 En nuestra plataforma, la información se presenta siguiendo un orden visual que responde a las necesidades y comportamientos de nuestros usuarios. Por ello, se ha definido una jerarquía tipográfica clara que distingue títulos, subtítulos, párrafos y otros elementos textuales, asegurando una lectura fluida y facilitando la identificación rápida del contenido más relevante.
 
 **3- Organización secuencial:**
-Se ha implementado una estructura de almacenamiento basada en una organización secuencial, permitiendo que los registros utilizados por el usuario final se gestionen de forma ordenada y eficiente. Este enfoque mejora tanto la simplicidad como la velocidad de acceso a la información. En el contexto de nuestro proyecto, esta organización se aplica en la visualización estructurada de listas de freelancers e inversores, guiando al usuario paso a paso a través del contenido.
+Se ha implementado una estructura de almacenamiento basada en una organización secuencial, permitiendo que los registros utilizados por el usuario final se gestionen de forma ordenada y eficiente. Este enfoque mejora tanto la simplicidad como la velocidad de acceso a la información. En el contexto de nuestro proyecto, esta organización se aplica en la visualización estructurada de jóvenes entre 18 a 35 años y personas que viven en zonas rurales, guiando al usuario paso a paso a través del contenido.
 
 **4- Alineación:**
 En nuestra plataforma, nuestras imágenes y botones se encuentran alineados siempre de manera vertical y horizontal. Permitiendo así agrupar varios objetos de diversos tipos con la misma información.
 
-**5-Color:**
+**5- Color:**
 A la vista de nuestros segmentos objetivos, el color cumple un rol muy importante en nuestra aplicación, promueve las correctas composiciones del color, para dirigir diversas emociones.
 
 ### 4.2.2. Labeling Systems
@@ -1144,14 +1120,79 @@ Esta parte de la aplicación se enfoca en guiar a los usuarios de manera efectiv
 - Nombre de la sección: Descripción aqui
 
 ## 4.3. Landing Page UI Design
+Esta sección se enfoca en el diseño de la interfaz de usuario (UI) de la Landing Page, que es esencial para captar la atención de los usuarios y comunicar de manera efectiva la propuesta de valor del sistema. A continuación, se presentan los wireframes y los mock-ups, dos etapas clave en el proceso de diseño que permiten visualizar y refinar la estructura y apariencia de la página.
 
 ### 4.3.1. Landing Page Wireframe
+Con respecto a la arquitectura de la Landing Page, para versiones web hemos decidido adoptar un diseño estándar, como lo sería tener en la parte superior la barra de opciones como “Inicio”, “Sobre Nosotros”, “Beneficios”, "Membresiar", " Iniciar sesión", "Testimonios"  y "Contacanos". Mientras que la posición de las estructuras de texto e imágenes es bastante amplia separadas lo suficiente una de la otra en su mayoría, aprovechando al máximo la cantidad de espacio que ofrece la visualización desde un monitor, lo que nos permite tener un gran espacio disponible que podemos rellenar con información pero sin llegar a exagerar y hacer ver como si estuviera sobrecargado.
 
-Imagen del wireframe perteneciente al landing page aqui
+Para su mejor visualización se adjunta el enlace del figma:
+[https://www.figma.com/design/p65gaKLoCnMuTCvewWL3hR/Landing-Page---OpenMind?node-id=0-1&t=2ux1CM6Pg6h5z2oR-1](https://www.figma.com/design/p65gaKLoCnMuTCvewWL3hR/Landing-Page---OpenMind?node-id=0-1&t=2ux1CM6Pg6h5z2oR-1)
+
+- Ventana de Inicio
+  
+<img src="Imagenes/inicio.jpeg" width="60%">
+
+- Ventana de Inicio de Sesion
+  
+<img src="Imagenes/inicio_sesion.jpeg" width="60%">
+
+- Ventana de Registro
+  
+<img src="Imagenes/registro.jpeg" width="60%">
+
+- Ventana de Inicio con Sesion Iniciada
+  
+<img src="Imagenes/imagen_logged.jpeg" width="60%">
+
+- Ventana Sobre Nosotros
+  
+<img src="Imagenes/sobre_nosotros.jpeg" width="60%">
+
+- Ventana de Beneficios
+  
+<img src="Imagenes/beneficios.jpeg" width="60%">
+
+- Ventana de Membresia
+  
+<img src="Imagenes/membresias.jpeg" width="60%">
+
+- Ventana de Testimonios
+  
+<img src="Imagenes/testimonios.jpeg" width="60%">
 
 ### 4.3.2. Landing Page Mock-up
 
-Imagen del mock up perteneciente al landing page aqui
+- Ventana de Inicio
+  
+<img src="Imagenes/landing-mockup1.jpeg" width="60%">
+
+- Ventana de Inicio de Sesion
+  
+<img src="Imagenes/landing-mockup2.jpeg" width="60%">
+
+- Ventana de Registro
+  
+<img src="Imagenes/landing-mockup3.jpeg" width="60%">
+
+- Ventana de Inicio con Sesion Iniciada
+  
+<img src="Imagenes/landing-mockup4.jpeg" width="60%">
+
+- Ventana Sobre Nosotros
+  
+<img src="Imagenes/landing-mockup5.jpeg" width="60%">
+
+- Ventana de Beneficios
+  
+<img src="Imagenes/landing-mockup6.jpeg" width="60%">
+
+- Ventana de Membresias
+  
+<img src="Imagenes/landing-mockup7.jpeg" width="60%">
+
+- Ventana de Testimonios
+  
+<img src="Imagenes/landing-mockup8.jpeg" width="60%">
 
 ## 4.4. Web Applications UX/UI Design
 
@@ -1207,56 +1248,377 @@ Link del video:
 
 ### 4.6.1. Software Architecture Context Diagram
 
-En este sector del trabajo presentar el diagrama de contexto que muestra de una forma sencilla como estara estructurado el sistema y sus funcionalidades. Para este modelo DDD se utilizo el framework: 
+En este sector del trabajo presentar el diagrama de contexto que muestra de una forma sencilla como estara estructurado el sistema y sus funcionalidades. Para este modelo DDD se utilizo el framework: https://structurizr.com/
+
+<img src="Imagenes/img-context.png" alt="Context" width="600"/>
+
 ### 4.6.2. Software Architecture Container Diagrams
 
-Imagen aqui
+<img src="Imagenes/img-container.png" alt="Container" width="600"/>
 
 ### 4.6.3. Software Architecture Components Diagrams
 
-Contexto de usuarios
-Imagen aqui
-
-Contexto de compañia
-Imagen aqui
-
-Contexto de projectos y contratación
-Imagen aqui
+<img src="Imagenes/img-component.png" alt="Component" width="600"/>
 
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
 
-Imagen de diagrama de clases aqui
+<img src="Imagenes/img-diagram-class.png" alt="Diagram class" width="600"/>
 
 ### 4.7.2. Class Dictionary
 
-**Usuario**
 
-| Attribute  | Type      | Description                     | Constraints      |
-| :--------- | :-------- | :------------------------------ | :--------------- |
-| id         | int       | Identificador único del usuario | PRIMARY KEY      |
-| nombre     | String    | Nombre completo del usuario     | NOT NULL         |
-| correo     | String    | Correo electrónico del usuario  | UNIQUE, NOT NULL |
-| contraseña | String    | Contraseña de acceso            | NOT NULL         |
-| membresía  | Membresía | Membresía asignada al usuario   |                  |
+## USUARIO
+| **Attribute**  | **Type**     | **Description**                          | **Constraints**         |
+|----------------|--------------|------------------------------------------|--------------------------|
+| `id_usuario`   | `INT`        | Identificador único del usuario          | `PRIMARY KEY`            |
+| `nombre`       | `VARCHAR`    | Nombre completo del usuario              | `NOT NULL`               |
+| `email`        | `VARCHAR`    | Correo electrónico del usuario           | `UNIQUE`, `NOT NULL`     |
+| `contraseña`   | `VARCHAR`    | Contraseña encriptada de acceso          | `NOT NULL`               |
+| `rol`          | `VARCHAR`    | Rol del usuario (ESTUDIANTE/ESPECIALISTA/ADMIN) | `NOT NULL`       |
 
-Lo de arriba es un modelo que se debe repetir para cada clase identificada
+---
+
+## ESPECIALISTA
+| **Attribute**     | **Type**   | **Description**                    | **Constraints**         |
+|-------------------|------------|------------------------------------|--------------------------|
+| `id_especialista` | `INT`      | Identificador del especialista     | `PRIMARY KEY`            |
+| `especialidad`    | `VARCHAR`  | Área de especialización            | `NOT NULL`               |
+| `licencia`        | `VARCHAR`  | Número/licencia profesional        |                          |
+| `id_usuario`      | `INT`      | Usuario asociado                   | `FOREIGN KEY → USUARIO`  |
+
+---
+
+## SESION_PSICOLOGICA
+| **Attribute**   | **Type**   | **Description**                         | **Constraints**               |
+|-----------------|------------|-----------------------------------------|--------------------------------|
+| `id_sesion`     | `INT`      | Identificador de la sesión              | `PRIMARY KEY`                  |
+| `fecha`         | `DATETIME` | Fecha y hora de la sesión               | `NOT NULL`                     |
+| `estado`        | `VARCHAR`  | Estado de la sesión (PENDIENTE, CONFIRMADA, CANCELADA, FINALIZADA) | `NOT NULL` |
+| `notas`         | `TEXT`     | Notas y observaciones                  |                                |
+| `id_usuario`    | `INT`      | Usuario participante                   | `FOREIGN KEY → USUARIO`        |
+| `id_especialista` | `INT`    | Especialista a cargo                   | `FOREIGN KEY → ESPECIALISTA`   |
+
+---
+
+## CHATBOT
+| **Attribute**  | **Type**   | **Description**                 | **Constraints**         |
+|----------------|------------|---------------------------------|--------------------------|
+| `id_chatbot`   | `INT`      | Identificador del chatbot       | `PRIMARY KEY`            |
+| `modeloNLP`    | `VARCHAR`  | Modelo o versión de NLP usado   |                          |
+
+---
+
+## CURSO
+| **Attribute**  | **Type**   | **Description**               | **Constraints**         |
+|----------------|------------|-------------------------------|--------------------------|
+| `id_curso`     | `INT`      | Identificador del curso       | `PRIMARY KEY`            |
+| `titulo`       | `VARCHAR`  | Título del curso              | `NOT NULL`               |
+| `descripcion`  | `TEXT`     | Descripción del curso         |                          |
+| `nivel`        | `VARCHAR`  | Nivel del curso (básico, intermedio, avanzado) | |
+
+---
+
+## MODULO
+| **Attribute**  | **Type**   | **Description**               | **Constraints**         |
+|----------------|------------|-------------------------------|--------------------------|
+| `id_modulo`    | `INT`      | Identificador del módulo      | `PRIMARY KEY`            |
+| `nombre`       | `VARCHAR`  | Nombre del módulo             | `NOT NULL`               |
+| `contenido`    | `TEXT`     | Contenido del módulo          |                          |
+| `id_curso`     | `INT`      | Curso al que pertenece        | `FOREIGN KEY → CURSO`    |
+
+---
+
+## PROGRESO
+| **Attribute**  | **Type**   | **Description**                   | **Constraints**             |
+|----------------|------------|-----------------------------------|------------------------------|
+| `id_progreso`  | `INT`      | Identificador del progreso        | `PRIMARY KEY`                |
+| `porcentaje`   | `DECIMAL`  | Avance del usuario en el módulo   | `NOT NULL`                   |
+| `fecha`        | `DATETIME` | Fecha de actualización del progreso | `NOT NULL`                 |
+| `id_modulo`    | `INT`      | Módulo relacionado                | `FOREIGN KEY → MODULO`       |
+| `id_usuario`   | `INT`      | Usuario relacionado               | `FOREIGN KEY → USUARIO`      |
+
+---
+
+## EVALUACION
+| **Attribute**  | **Type**   | **Description**                | **Constraints**         |
+|----------------|------------|--------------------------------|--------------------------|
+| `id_eval`      | `INT`      | Identificador de la evaluación | `PRIMARY KEY`            |
+| `tipo`         | `VARCHAR`  | Tipo de evaluación (quiz, test, etc.) | `NOT NULL`     |
+| `fecha`        | `DATETIME` | Fecha de la evaluación         | `NOT NULL`               |
+| `puntajeMax`   | `DECIMAL`  | Puntaje máximo posible         |                          |
+| `id_curso`     | `INT`      | Curso al que pertenece         | `FOREIGN KEY → CURSO`    |
+
+---
+
+## PREGUNTA
+| **Attribute**  | **Type**   | **Description**               | **Constraints**            |
+|----------------|------------|-------------------------------|-----------------------------|
+| `id_pregunta`  | `INT`      | Identificador de la pregunta  | `PRIMARY KEY`               |
+| `enunciado`    | `TEXT`     | Texto de la pregunta          | `NOT NULL`                  |
+| `opciones`     | `TEXT`     | Opciones posibles             |                             |
+| `respuestaCorrecta` | `VARCHAR` | Respuesta válida/correcta |                             |
+| `id_eval`      | `INT`      | Evaluación relacionada        | `FOREIGN KEY → EVALUACION`  |
+
+---
+
+## RESPUESTA
+| **Attribute**  | **Type**   | **Description**              | **Constraints**             |
+|----------------|------------|------------------------------|------------------------------|
+| `id_respuesta` | `INT`      | Identificador de la respuesta| `PRIMARY KEY`                |
+| `valor`        | `VARCHAR`  | Respuesta del usuario        | `NOT NULL`                   |
+| `esCorrecta`   | `BOOLEAN`  | Si la respuesta fue correcta |                              |
+| `id_pregunta`  | `INT`      | Pregunta contestada          | `FOREIGN KEY → PREGUNTA`     |
+| `id_usuario`   | `INT`      | Usuario que respondió        | `FOREIGN KEY → USUARIO`      |
+
+---
+
+## RESULTADO
+| **Attribute**  | **Type**   | **Description**                | **Constraints**             |
+|----------------|------------|--------------------------------|------------------------------|
+| `id_resultado` | `INT`      | Identificador del resultado    | `PRIMARY KEY`                |
+| `puntaje`      | `DECIMAL`  | Puntaje obtenido               | `NOT NULL`                   |
+| `fecha`        | `DATETIME` | Fecha del resultado            | `NOT NULL`                   |
+| `id_eval`      | `INT`      | Evaluación relacionada         | `FOREIGN KEY → EVALUACION`   |
+| `id_usuario`   | `INT`      | Usuario relacionado            | `FOREIGN KEY → USUARIO`      |
+
+---
+
+## NOTIFICACION
+| **Attribute**  | **Type**   | **Description**             | **Constraints**             |
+|----------------|------------|-----------------------------|------------------------------|
+| `id_notif`     | `INT`      | Identificador de la notificación | `PRIMARY KEY`           |
+| `tipo`         | `VARCHAR`  | Tipo de notificación (sistema, recordatorio, alerta) | |
+| `mensaje`      | `TEXT`     | Contenido del mensaje        | `NOT NULL`                   |
+| `fecha`        | `DATETIME` | Fecha de emisión             | `NOT NULL`                   |
+| `estado`       | `VARCHAR`  | Estado (ENVIADA, LEÍDA, PENDIENTE) |                          |
+| `canal`        | `VARCHAR`  | Medio de envío (EMAIL, PUSH, SMS) |                          |
+| `id_usuario`   | `INT`      | Usuario destinatario         | `FOREIGN KEY → USUARIO`      |
+
+
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
 
-Imagen de diagrama aqui
+<img src="Imagenes/img-database-diagram.png" alt="Database Diagram" width="600"/>
 
 # Capítulo 5
 
-## 5.1 Software Configuration Management
+## 5.1. Software Configuration Management
 
 En la sigueiente seccion se presenta la configuracion de nuestro software, que se dividira en las 4 secciones, el desarrollo de ambiente, las pautas que se tomaron para el codigo, estilos y la configuracion que se llevo a cabo en el GitHub.
 
-### 5.1.1 Software Development Environment Configuration
+### 5.1.1. Software Development Environment Configuration
 
+En esta seccion hablaremos sobre las herramientas utilizadas en el desarrollo de nuestro software, las cuales son:
 
+**Figma**
+Plataforma de diseño colaborativo en la nube, perfecta para idear y pulir la interfaz de usuario (UI). Con Figma creamos los mock-ups, wireframes y el prototipo final, permitiendo que todo el equipo comentara y sugiriera ajustes en tiempo real.
 
-### 5.1.2. Source Code Management.
+**UXPressia**
+Herramienta especializada en mapas de experiencia: definimos user personas, trazamos customer journey maps y diseñamos impact maps. Gracias a UXPressia entendimos mejor las motivaciones y puntos de dolor de nuestros usuarios.
+
+**Visual Studio Code**
+Editor de código ligero, extensible y multiplataforma. Lo usamos para editar el fichero README.md y para cualquier ajuste rápido de texto o fragmentos de código, aprovechando su integración con Git y sus extensiones de Markdown.
+
+**Git**
+Sistema de control de versiones distribuido que registra cada cambio en el código. Con Git llevamos un histórico preciso de nuestro README.md y de todas las iteraciones del proyecto, facilitando la colaboración entre desarrolladores.
+
+**GitHub**
+Plataforma online construida sobre Git, que alojó nuestro repositorio central. En GitHub organizamos issues, revisiones de código (pull requests) y la propia documentación en Markdown, lo que agilizó la coordinación del equipo.
+
+**Visual Paradigm Online**
+Herramienta de modelado visual en la web. Con ella dibujamos diagramas de contexto, contenedores y componentes para entender la arquitectura de la aplicación antes de empezar a programar.
+
+**MySQL**
+Sistema de gestión de bases de datos relacional. Diseñamos y creamos la base de datos del proyecto—junto con su diagrama entidad-relación—para estructurar y garantizar la integridad de los datos.
+
+**StarUML**
+Software de modelado UML de escritorio. Lo empleamos para generar el diagrama de clases y los casos de uso, estableciendo con claridad las entidades, atributos y relaciones de nuestro dominio.
+
+**WhatsApp**
+Aplicación de mensajería instantánea para la comunicación ágil del equipo. Sirvió para resolver dudas al vuelo, compartir enlaces y coordinar reuniones express.
+
+**Markdown**
+Lenguaje de marcado ligero utilizado en toda la documentación técnica. Creamos el README.md y otros documentos de proyecto en Markdown para garantizar legibilidad y portabilidad en GitHub.
+
+### 5.1.2 Source Code Management
+
+### 5.1.3. Source Code Style Guide & Conventions
+
+Para este punto explicaremos las pautas y convenciones que se tomaron en cuenta para la creacion del codigo.
+
+### 5.1.4. Software Deployment Configuration
+
+## 5.2. Landing Page, Services & Applications Implementation
+
+### 5.2.1. Sprint 1
+
+#### 5.2.1.1. Sprint Planning 1
+
+| Sprint #                           | Sprint 1                                                                                                                                                                                      |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Date**                           | 2025-09-13                                                                                                                                                                                    |
+| Time                               | 3:00 PM                                                                                                                                                                                       |
+| Location                           | Virtual - Meet                                                                                                                                                                                |
+| Prepared By                        | Stephano Mayrzon Landauri Preciado                                                                                                                                                                             |
+| Attendees (to planning meeting)    | Stephano Mayrzon Landauri Preciado, Daniel Stalin Palomino Murga, Aarón Santiago Baquerizo Cirilo, Kael Lagos Rivera, Carlos Alberto Gonzales Custodio                                                               |
+| Sprint n - 1 Review Summary        | Este es el primer Sprint, por lo que este campo no aplica.                                                                                                                                    |
+| Sprint n - 1 Retrospective Summary | Este es el primer Sprint, por lo que este campo no aplica.                                                                                                                                    |
+| Sprint 1 Goal                      | La principal prioridad para este sprint fue la creacion de la landing page de una forma exitosa y desplegarla. Esto se logro gracias al trabajo conjunto de todos los integrantes del equipo. |
+| Sprint 1 Velocity                  | Nuestro equipo puede aceptar hasta 5 Story Points.                                                                                                                                            |
+| Sum of Story Points                | La suma de Story Points atendidos es de (Colocar la suma de storie points dependiendo de los user stories seleccionados en este sprint).                                                                                                                                                    |
+
+#### 5.2.1.2. Aspect Leaders and Collaborators
+
+En esta seccion especificamos los roles de cada uno de los integrantes del equipo, en este caso se utilizo el rol de L (Leader) y C (Collaborator) para cada integrante.
+
+| Team Member (Last Name, First Name) | GitHub Username | Aspect Name 1 (L/C) |
+| ----------------------------------- | --------------- | ------------------- |
+| Stephano Mayrzon Landauri Preciado            | Mayrzon02        | L                   |
+| Daniel Stalin Palomino Murga    | DanielPM23     | C                   |
+| Aarón Santiago Baquerizo Cirilo                 | Nombre de usuario Git       | C                   |
+| Kael Lagos Rivera Valentino  | Kaellagos       | C                   |
+| Carlos Alberto Gonzales Custodio        | Nombre de usuario Git        | C                   |
+
+#### 5.2.1.3. Sprint Backlog 1
+
+| **Sprint #**   |                           |                                                                                                  |                      |                  |            |
+| -------------- | ------------------------- | ------------------------------------------------------------------------------------------------ | -------------------- | ---------------- | ---------- |
+| **User Story** | **Work-Item/task**        |                                                                                                  |                      |                  |            |
+| **ID**         | **Título**                | **Descripción**                                                                                  | **Estimación (hrs)** | **Assigned to**  | **Status** |
+| ID del user stories         | Título del user stories        | Descripción del user stories | 1                    | Nombre del integrante | Done       |
+| ID del user stories            | Título del user stories | Descripción del user stories                          | 1.5                  | Nombre del integrante     | Done       |
+| ID del user stories            | Título del user stories | Descripción del user stories       | 2                    | Nombre del integrante     | Done       |
+
+#### 5.2.1.4. Development Evidence for Sprint Review
+
+En esta sección se presentan las evidencias del desarrollo de la Landing Page de OpenMind durante el primer sprint de desarrollo.
+
+A continuación se muestra una recopilación de los commits realizados en el repositorio de GitHub que demuestran el progreso en la implementación de la interfaz inicial:
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|------------------------|----------------------|-----------|------------------------------------|-------------------------------------------------------|---------------------|
+| Nombre del repositorio | feature/main | ID del commit | feat:added index. | fecha del commit |
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+En este punto se presenta la ejecucion de la landing page para esta entrega.
+
+Colocar capturas de pantalla de la landing page aqui
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+En este sprint se realizo el despliege de la landing page del project OpenMind, marcando el primer paso de la publicacion progresiva en los siguientes sprints se realizara el resto de la landing page y la aplicacion web del proyecto.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+Para el desarrollo de este primer avance se dividieron las tareas entre los integrantes, se cumplieron con las tareas asignadas y se subia el trabajo en el repositorio ni bien está terminada el punto. A continuación se presentan capturas de toda la actividad registrada.
+
+### Contributors:
+
+Captura de pantalla de contributors en Git aqui
+
+### Traffic:
+
+Captura de pantalla de Traffic en Git aqui
+
+### Commits:
+
+Captura de pantalla de Commits en Git aqui
+
+### Code frequency:
+
+Captura de pantalla de frequency en Git aqui
+
+# Conclusiones
+
+"Place To Dialogue" tiene el potencial de fomentar una comunidad de apoyo entre sus usuarios,
+ya que proporciona un espacio seguro donde las personas pueden sentirse escuchadas y
+comprendidas. Al ofrecer sesiones y actividades personalizadas, la plataforma promueve el
+desarrollo de conexiones emocionales y un sentido de pertenencia, lo que puede ser crucial
+para aquellos que se sienten aislados o desconectados de redes de apoyo tradicionales.
+
+El uso de prototipos de alta fidelidad y el enfoque en el diseño centrado en el usuario nos han
+permitido asegurar que la plataforma no solo sea accesible, sino también intuitiva y funcional.
+Cada decisión en el diseño ha sido tomada pensando en la experiencia del usuario final,
+asegurando que puedan encontrar apoyo de manera cómoda y efectiva.
+
+A través de este proyecto, también hemos logrado integrar nuestros valores éticos,
+especialmente en términos de responsabilidad y respeto hacia los usuarios. La privacidad, la
+seguridad y el respeto por sus emociones son fundamentales en la plataforma, alineando así
+mi trabajo con mis principios personales.
+
+La posibilidad de que los usuarios den feedback sobre sus experiencias y el impacto de las
+sesiones permite un ciclo de mejora continua. Esta retroalimentación puede informar futuras
+actualizaciones y mejoras en la plataforma, asegurando que se mantiene alineada con las
+necesidades cambiantes de sus usuarios.
+
+Al estar diseñado con un enfoque escalable, "Place To Dialogue" tiene la capacidad de crecer
+y adaptarse a un número creciente de usuarios. Esto, combinado con un modelo de negocio
+sostenible, puede garantizar la continuidad de la plataforma y su capacidad para ofrecer apoyo
+a largo plazo.
+
+La personalización de actividades y sesiones no solo responde a problemas existentes, sino
+que también puede contribuir a la prevención de crisis emocionales. Al fomentar la
+autoconciencia y proporcionar herramientas adecuadas, "Place To Dialogue" puede ayudar a
+los usuarios a gestionar sus emociones de manera proactiva, reduciendo la necesidad de
+intervenciones más severas en el futuro.
+
+Como recomendaciones de nuestro trabajo, recomendamos que:
+
+- Mantendremos una comunicación constante y clara entre nosotros, de manera que cualquier
+duda o malentendido se pueda resolver rápidamente. Así evitamos tener que revisar o rehacer
+el trabajo varias veces.
+
+- Es importante que establezcamos revisiones periódicas de los avances, así podemos corregir
+errores o desvíos a tiempo y evitar problemas de última hora con la entrega del proyecto.
+
+- Además de organizar la distribución de tareas, es crucial definir claramente los roles de cada
+miembro del equipo. Esto no incluye solo quién se encarga de qué, sino también qué
+habilidades y recursos están disponibles para cada función. Esto fomenta un sentido de
+responsabilidad y compromiso con el trabajo de cada uno.
+
+- Establecer un ambiente donde la retroalimentación sea bien recibida y promovida puede
+mejorar la calidad del trabajo. Anima a los miembros del equipo a dar y recibir críticas
+constructivas, lo que puede resultar en un producto final más sólido
+
+# Bibliografia
+
+- Actualízatec. (2023, 8 mayo). COMPARATIVA A FONDO Google Play vs App Store. Actualízatec: Mobile &
+App Marketing. https://actualizatec.com/blog/google-play-vs-apple-store-comparativa/
+
+- Cueva, L., Cortez, M. A. C., & Daniela, A. (2021). Repercusión del aislamiento social por COVID-19 en la salud
+mental en la población de Perú: síntomas en el discurso del ciberespacio. Discurso & Sociedad, (1),
+215-243. https://www.american.edu/centers/latin-american-latino-studies/upload/repercusi%C3%B3ndel-aislamiento-social-por-covid-19-en-la-salud-mental-en-la-poblaci%C3%B3n-de-per%C3%BAs%C3%ADntomas-en-el-discurso-del-ciberespacio.pdf
+  
+- Delawalla, C. N., & Lorenzo-Luaces, L. (2024). “Better” Help? Ethical Considerations for Therapists Using
+Telehealth Matching Platforms. https://osf.io/preprints/psyarxiv/5sbvp
+
+- Delawalla, C. N., & Lorenzo-Luaces, L. (2024). “Better” Help? Ethical Considerations for Therapists Using
+Telehealth Matching Platforms. https://osf.io/preprints/psyarxiv/5sbvp
+
+- Dinesh, D. N., Rao, M. N., & Sinha, C. (2024). Language adaptations of mental health interventions: User
+interaction comparisons with an AI-enabled conversational agent (Wysa) in English and Spanish. Digital
+Health, 10, 20552076241255616. https://pubmed.ncbi.nlm.nih.gov/38798884/
+
+- Estándares y guías para la digitalización. (s. f.). https://guias.servicios.gob.pe/creacion-serviciosdigitales/investigacion/proteccion
+
+- Infantas Serpa, M. F., & Vega Hudson, M. F. (2024). Desarrollo del prototipo de la aplicación positivo para
+adultos entre 18 a 35 años del NSE byc de Lima Metropolitana.
+https://repositorio.ulima.edu.pe/handle/20.500.12724/20683?locale-attribute=en
+
+- Ocho de cada 10 personas no reciben atención en salud mental pese a requerirlo. (s. f.). Defensoria del Pueblo
+Perú. https://www.defensoria.gob.pe/ocho-de-cada-10-personas-no-reciben-atencion-en-saludmental-pese-a-requerirlo/
+
+- Seguido, P. (2024, 11 junio). El estrés universitario: Un desafío global para la salud mental y el rendimiento
+académico. Punto Seguido - UPC. https://puntoseguido.upc.edu.pe/el-estres-universitario-un-desafioglobal-para-la-salud-mental-y-el-rendimiento-academico/
+
+- Uno de cada tres peruanos sufre un trastorno mental. (2024, 9 mayo). Blog USIL.
+https://blogs.usil.edu.pe/novedades/uno-de-cada-tres-peruanos-sufre-un-trastorno-mental
+
+# Anexos
