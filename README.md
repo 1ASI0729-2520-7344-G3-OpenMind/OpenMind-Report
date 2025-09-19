@@ -728,7 +728,7 @@ Conclusión de las entrevistas aqui.
 
 ### 2.3.1. User Personas
 
-Se presentan los perfiles de los usuarios que buscan apoyo psicológico y de los profesionales de la salud mental que interactuarán con nuestra plataforma mediante el chatbot. Estos perfiles son fundamentales para comprender sus necesidades, motivaciones y desafíos específicos, permitiéndonos diseñar una solución accesible, segura y efectiva que mejore la experiencia de los usuarios y facilite el acompañamiento digital en su bienestar emocional.
+Se presentan los perfiles de los usuarios que buscan apoyo psicológico en contextos urbanos y aquellos que viven en zonas rurales o de bajos recursos. Estos perfiles son fundamentales para comprender sus necesidades, motivaciones y desafíos específicos, permitiéndonos diseñar una solución accesible, segura y efectiva que se adapte tanto a entornos con buena conectividad como a aquellos con recursos más limitados, mejorando así la experiencia de los usuarios y facilitando su bienestar emocional.
 
 Segmento 1: Personas que buscan apoyo psicológico
 
