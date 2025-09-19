@@ -842,7 +842,7 @@ En esta sección se presenta el User Task Matrix para la plataforma OpenMind, co
 
 Este gráfico ilustra como los usuarios interactúan con nuestra solución a lo largo del tiempo, resaltando tanto las experiencias clave como las oportunidades de mejora. Este análisis detallado permite asegurar que la solución esté perfectamente alineada con los flujos de trabajo de los usuarios y responda de manera efectiva a sus necesidades, mejorando así su experiencia general.
 
-Imagen del journey mapping aqui
+<img width="2043" height="851" alt="CJM for retail (auto_other goods)" src="https://github.com/user-attachments/assets/1a90678c-87a3-4313-9b72-5866d56b6fb5" />
 
 ### 2.3.4. Empathy Mapping
 
