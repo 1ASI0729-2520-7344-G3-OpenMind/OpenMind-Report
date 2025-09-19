@@ -1209,7 +1209,7 @@ En este sector del trabajo presentar el diagrama de contexto que muestra de una 
 
 ### 4.7.1. Class Diagrams
 
-Imagen de diagrama de clases aqui
+<img src="Imagenes/img-diagram-class.png" alt="Diagram class" width="600"/>
 
 ### 4.7.2. Class Dictionary
 
