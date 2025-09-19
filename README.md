@@ -1342,13 +1342,12 @@ En este sector del trabajo presentar el diagrama de contexto que muestra de una 
 | `id_usuario`   | `INT`      | Usuario destinatario         | `FOREIGN KEY → USUARIO`      |
 
 
-Lo de arriba es un modelo que se debe repetir para cada clase identificada
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
 
-Imagen de diagrama aqui
+<img src="Imagenes/img-database-diagram.png" alt="Database Diagram" width="600"/>
 
 # Capítulo 5
 
