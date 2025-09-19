@@ -1147,13 +1147,14 @@ Para su mejor visualización se adjunta el enlace del figma:
 - Ventana de Inicio con Sesion Iniciada
 <img src="Imagenes/imagen_logged.jpeg" width="60%">
 - Ventana Sobre Nosotros
-<img src="Imagenes/sobre_nosotros" width="60%">
+<img src="Imagenes/sobre_nosotros.jpeg" width="60%">
 - Ventana de Beneficios
 <img src="Imagenes/beneficios.jpeg" width="60%">
 - Ventana de Membresia
 <img src="Imagenes/membresias.jpeg" width="60%">
 - Ventana de Testimonios
 <img src="Imagenes/testimonios.jpeg" width="60%">
+
 ### 4.3.2. Landing Page Mock-up
 
 Imagen del mock up perteneciente al landing page aqui
