@@ -730,13 +730,14 @@ Conclusión de las entrevistas aqui.
 
 Se presentan los perfiles de los usuarios que buscan apoyo psicológico y de los profesionales de la salud mental que interactuarán con nuestra plataforma mediante el chatbot. Estos perfiles son fundamentales para comprender sus necesidades, motivaciones y desafíos específicos, permitiéndonos diseñar una solución accesible, segura y efectiva que mejore la experiencia de los usuarios y facilite el acompañamiento digital en su bienestar emocional.
 
-Segmento 1: Persona que busca apoyo psicológico
+Segmento 1: Personas que buscan apoyo psicológico
 
 <img width="1050" height="1570" alt="Valeria Torres" src="https://github.com/user-attachments/assets/92a77585-c600-4032-8283-58651201220a" />
 
-Segmento 2: Profesional de la salud mental
+Segmento 2: Personas que viven en zonas rurales
 
-<img width="1050" height="1570" alt="Ricardo Salinas" src="https://github.com/user-attachments/assets/12119dd7-8ef4-49b9-8108-56f3354c968c" />
+<img width="1050" height="1420" alt="Ricardo Salinas (1)" src="https://github.com/user-attachments/assets/319ea6ee-80d8-4860-835d-889e5a01d77c" />
+
 
 ### 2.3.2. User Task Matrix
 
