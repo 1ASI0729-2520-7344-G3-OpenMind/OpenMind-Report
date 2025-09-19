@@ -1130,11 +1130,30 @@ Esta parte de la aplicación se enfoca en guiar a los usuarios de manera efectiv
 - Nombre de la sección: Descripción aqui
 
 ## 4.3. Landing Page UI Design
+Esta sección se enfoca en el diseño de la interfaz de usuario (UI) de la Landing Page, que es esencial para captar la atención de los usuarios y comunicar de manera efectiva la propuesta de valor del sistema. A continuación, se presentan los wireframes y los mock-ups, dos etapas clave en el proceso de diseño que permiten visualizar y refinar la estructura y apariencia de la página.
 
 ### 4.3.1. Landing Page Wireframe
+Con respecto a la arquitectura de la Landing Page, para versiones web hemos decidido adoptar un diseño estándar, como lo sería tener en la parte superior la barra de opciones como “Inicio”, “Sobre Nosotros”, “Beneficios”, "Membresiar", " Iniciar sesión", "Testimonios"  y "Contacanos". Mientras que la posición de las estructuras de texto e imágenes es bastante amplia separadas lo suficiente una de la otra en su mayoría, aprovechando al máximo la cantidad de espacio que ofrece la visualización desde un monitor, lo que nos permite tener un gran espacio disponible que podemos rellenar con información pero sin llegar a exagerar y hacer ver como si estuviera sobrecargado.
 
-Imagen del wireframe perteneciente al landing page aqui
+Para su mejor visualización se adjunta el enlace del figma:
+[https://www.figma.com/design/p65gaKLoCnMuTCvewWL3hR/Landing-Page---OpenMind?node-id=0-1&t=2ux1CM6Pg6h5z2oR-1](https://www.figma.com/design/p65gaKLoCnMuTCvewWL3hR/Landing-Page---OpenMind?node-id=0-1&t=2ux1CM6Pg6h5z2oR-1)
 
+- Ventana de Inicio
+<img src="Imagenes/inicio.jpeg" width="60%">
+- Ventana de Inicio de Sesion
+<img src="Imagenes/inicio_sesion.jpeg" width="60%">
+- Ventana de Registro
+<img src="Imagenes/registro.jpeg" width="60%">
+- Ventana de Inicio con Sesion Iniciada
+<img src="Imagenes/imagen_logged.jpeg" width="60%">
+- Ventana Sobre Nosotros
+<img src="Imagenes/sobre_nosotros" width="60%">
+- Ventana de Beneficios
+<img src="Imagenes/beneficios.jpeg" width="60%">
+- Ventana de Membresia
+<img src="Imagenes/membresias.jpeg" width="60%">
+- Ventana de Testimonios
+<img src="Imagenes/testimonios.jpeg" width="60%">
 ### 4.3.2. Landing Page Mock-up
 
 Imagen del mock up perteneciente al landing page aqui
