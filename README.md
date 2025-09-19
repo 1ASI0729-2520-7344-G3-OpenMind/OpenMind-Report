@@ -1139,25 +1139,70 @@ Para su mejor visualización se adjunta el enlace del figma:
 [https://www.figma.com/design/p65gaKLoCnMuTCvewWL3hR/Landing-Page---OpenMind?node-id=0-1&t=2ux1CM6Pg6h5z2oR-1](https://www.figma.com/design/p65gaKLoCnMuTCvewWL3hR/Landing-Page---OpenMind?node-id=0-1&t=2ux1CM6Pg6h5z2oR-1)
 
 - Ventana de Inicio
+  
 <img src="Imagenes/inicio.jpeg" width="60%">
+
 - Ventana de Inicio de Sesion
+  
 <img src="Imagenes/inicio_sesion.jpeg" width="60%">
+
 - Ventana de Registro
+  
 <img src="Imagenes/registro.jpeg" width="60%">
+
 - Ventana de Inicio con Sesion Iniciada
+  
 <img src="Imagenes/imagen_logged.jpeg" width="60%">
+
 - Ventana Sobre Nosotros
+  
 <img src="Imagenes/sobre_nosotros.jpeg" width="60%">
+
 - Ventana de Beneficios
+  
 <img src="Imagenes/beneficios.jpeg" width="60%">
+
 - Ventana de Membresia
+  
 <img src="Imagenes/membresias.jpeg" width="60%">
+
 - Ventana de Testimonios
+  
 <img src="Imagenes/testimonios.jpeg" width="60%">
 
 ### 4.3.2. Landing Page Mock-up
 
-Imagen del mock up perteneciente al landing page aqui
+- Ventana de Inicio
+  
+<img src="Imagenes/landing-mockup1.jpeg" width="60%">
+
+- Ventana de Inicio de Sesion
+  
+<img src="Imagenes/landing-mockup2.jpeg" width="60%">
+
+- Ventana de Registro
+  
+<img src="Imagenes/landing-mockup3.jpeg" width="60%">
+
+- Ventana de Inicio con Sesion Iniciada
+  
+<img src="Imagenes/landing-mockup4.jpeg" width="60%">
+
+- Ventana Sobre Nosotros
+  
+<img src="Imagenes/landing-mockup5.jpeg" width="60%">
+
+- Ventana de Beneficios
+  
+<img src="Imagenes/landing-mockup6.jpeg" width="60%">
+
+- Ventana de Membresias
+  
+<img src="Imagenes/landing-mockup7.jpeg" width="60%">
+
+- Ventana de Testimonios
+  
+<img src="Imagenes/landing-mockup8.jpeg" width="60%">
 
 ## 4.4. Web Applications UX/UI Design
 
