@@ -774,14 +774,14 @@ En esta sección se presenta el User Task Matrix para la plataforma OpenMind, co
       <td>Alta</td>
     </tr>
     <tr>
-      <td>Recibir recursos de apoyo (ejercicios, consejos, etc.)</td>
+      <td>Recibir recursos de apoyo</td>
       <td>Casi siempre</td>
       <td>Alta</td>
       <td>Casi siempre</td>
       <td>Alta</td>
     </tr>
     <tr>
-      <td>Acceder a sesiones en audio/video</td>
+      <td>Acceder a sesiones</td>
       <td>A veces</td>
       <td>Media</td>
       <td>Casi nunca</td>
@@ -806,13 +806,6 @@ En esta sección se presenta el User Task Matrix para la plataforma OpenMind, co
       <td>Casi siempre</td>
       <td>Alta</td>
       <td>A veces</td>
-      <td>Media</td>
-    </tr>
-    <tr>
-      <td>Consultar con un profesional humano (derivación)</td>
-      <td>A veces</td>
-      <td>Alta</td>
-      <td>Casi nunca</td>
       <td>Media</td>
     </tr>
     <tr>
