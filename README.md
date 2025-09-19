@@ -878,27 +878,31 @@ Imagen del empathy mapping aqui
 
 Se describen los procesos actuales de los freelancers e inversores antes de la implementación de nuestra solución. Esto nos permite identificar ineficiencias en la comunicación, desconfianza en la gestión de proyectos y dificultades en la contratación, lo que abre oportunidades para mejorar la experiencia de colaboración y facilitar conexiones más seguras, claras y eficientes mediante nuestra tecnología.
 
-Segmento 1: Nombre del segmento cliente aqui
+Segmento 1: Jovenes adultos (18 a 35 años)
 
-Imagen del scenario mapping aqui
+<img src="Imagenes/img-as-is-mapping-seg1.png" alt="As_is_scenario_mapping1_Imagen" width="600"/>
 
-Segmento 2: Nombre del segmento cliente aqui
+Segmento 2: Personas que viven en zonas rurales
 
-Imagen del scenario mapping aqui
+<img src="Imagenes/img-as-is-mapping-seg2.png" alt="As_is_scenario_mapping1_Imagen" width="600"/>
 
 ## 2.4. Ubiquitous Language
 
 En esta sección, se definen los términos clave utilizados en el dominio de negocio de la plataforma que conecta freelancers con inversores, siguiendo el enfoque de Ubiquitous Language propuesto por Eric Evans en Domain-Driven Design. Estas definiciones tienen como objetivo garantizar una comunicación clara, coherente y compartida entre los miembros del equipo de desarrollo, stakeholders y usuarios, alineando el lenguaje técnico con las necesidades reales del negocio y facilitando la comprensión mutua durante el proyecto.
 
-1. **Termino clave:** Descripción aqui
-2. **Termino clave:** Descripción aqui
-3. **Termino clave:** Descripción aqui
-4. **Termino clave:** Descripción aqui
-5. **Termino clave:** Descripción aqui
-6. **Termino clave:** Descripción aqui
-7. **Termino clave:** Descripción aqui
-8. **Termino clave:** Descripción aqui
-9. **Termino clave:** Descripción aqui
+| **Término**                     | **Definición en el proyecto**                                                                                       |
+|---------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| **Usuario**                     | Persona que descarga y utiliza la aplicación en busca de apoyo emocional o psicológico.                             |
+| **Segmento objetivo**           | Grupo específico de usuarios (jóvenes adultos con estrés académico/laboral, personas rurales de bajos recursos).    |
+| **Chatbot / Psicólogo Virtual** | Asistente digital basado en IA que interactúa con el usuario, detecta estados emocionales y sugiere actividades.    |
+| **Sesión**                      | Interacción entre el usuario y la app (ya sea con el chatbot o con recursos de autoayuda).                          |
+| **Detección emocional**         | Proceso mediante el cual la IA analiza lenguaje escrito/voz para identificar el estado anímico del usuario.         |
+| **Actividad de apoyo**          | Ejercicio sugerido (respiración, relajación, journaling, etc.) para mejorar el bienestar del usuario.               |
+| **Seguimiento continuo**        | Registro del estado emocional del usuario a lo largo del tiempo para identificar patrones.                          |
+| **Confidencialidad**            | Garantía de que toda la información personal y emocional del usuario se mantiene segura y privada.                  |
+| **Suscripción**                 | Modelo de pago mensual o anual que da acceso a las funcionalidades premium de la aplicación.                        |
+| **Crisis emocional**            | Estado crítico del usuario que requiere atención inmediata y prioritaria.                                           |
+| **Derivación profesional**      | Proceso en el cual la app recomienda contactar con un psicólogo humano o línea de ayuda, cuando el caso lo amerite. |
 
 # Capitulo 3
 
