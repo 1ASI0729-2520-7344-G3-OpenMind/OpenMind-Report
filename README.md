@@ -678,9 +678,9 @@ Este gráfico ilustra como los usuarios interactúan con nuestra solución a lo 
 
 Mediante este gráfico de Empathy Mapping, se reflejan las percepciones, pensamientos y sentimientos de los usuarios al interactuar con nuestra plataforma. Este análisis nos permite comprender de manera más profunda sus experiencias, expectativas y desafíos, lo cual es fundamental para diseñar una solución más alineada con sus necesidades y que ofrezca una experiencia de usuario mejorada.
 
-Segmento 1: Nombre del segmento cliente aqui
+Segmento 1: Segmento Jovenes adultos (18 a 35 años)
 
-Imagen del empathy mapping aqui
+<img src="Imagenes/Empathy map.png" alt="As_is_scenario_mapping1_Imagen" width="600"/>
 
 Segmento 2: Nombre del segmento cliente aqui
 
