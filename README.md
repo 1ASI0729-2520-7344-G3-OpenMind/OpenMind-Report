@@ -478,8 +478,9 @@ El análisis competitivo permite identificar a los principales actores en el ám
 - **Nombre:** María José Soto Lecca
 - **Edad:** 22
 - **Distrito:** San Borja
-- **Duración:**  
-- **Resumen:**  
+- **Duración:** 00:00 - 3:00
+- **Resumen:**
+  
 María José Soto Lecca, de 22 años, valoró altamente la confidencialidad en el apoyo psicológico y afirmó que usaría con mucha probabilidad una aplicación móvil para este fin, prefiriendo la comunicación por videollamadas por ser más interactiva; mencionó que estaría dispuesta a utilizarla a diario, que la accesibilidad y la posibilidad de elegir entre profesionales de distintos países son factores clave, que las recomendaciones cercanas la motivarían a buscar apoyo, y que para ella es fundamental la flexibilidad de horarios, el anonimato y que los servicios estén respaldados por profesionales, aunque aceptaría egresados recién titulados; finalmente, identificó como principal barrera que muchas aplicaciones solo ofrecen chat escrito, lo cual no considera suficiente.
 
 <img width="1034" height="579" alt="image" src="https://github.com/user-attachments/assets/0dd7cdb0-cfe6-41ff-855b-83f2e9df6484" />
@@ -489,8 +490,9 @@ María José Soto Lecca, de 22 años, valoró altamente la confidencialidad en e
 - **Nombre:** Gianfranco Jared Durand Vega
 - **Edad:** 19
 - **Distrito:** San Borja
-- **Duración:**  
-- **Resumen:**  
+- **Duración:** 00:00 - 03:51
+- **Resumen:**
+
 Geanfranco Jared Durand Vega, de 22 años, resaltó la gran importancia de la confidencialidad en el apoyo psicológico y expresó que usaría con alta probabilidad una aplicación móvil en lugar de sesiones presenciales, ya que su timidez le hace preferir un chat o texto donde puede expresarse mejor; señaló que la frecuencia de uso sería bastante alta y que la accesibilidad de la plataforma es un factor clave, pues busca ayuda inmediata en momentos de “tristeza máxima”; indicó que lo motiva principalmente la necesidad de enfrentar problemas personales propios de la juventud, como la depresión, y que el anonimato en la comunicación le resulta esencial; además, consideró muy importante que la aplicación esté respaldada por profesionales con título, ya que no confiaría en consejos de personas no certificadas, y como principal barrera señaló la lentitud de respuesta en plataformas en línea, ya que necesita una atención rápida y constante. 
 
 <img width="1034" height="579" alt="image" src="https://github.com/user-attachments/assets/7a297afa-9d52-4dd6-a94a-bd82362afc92" />
@@ -500,33 +502,39 @@ Geanfranco Jared Durand Vega, de 22 años, resaltó la gran importancia de la co
 - **Nombre:** Valeria Benítez Gutiérrez
 - **Edad:** 19
 - **Distrito:** Tlaxcala (Mexico) 
-- **Duración:**  
+- **Duración:** 00:00 - 04:10 
 - **Resumen:**  
 
 Valeria Benítez valoró bastante la confidencialidad en la búsqueda de apoyo psicológico, indicando que es fundamental para generar confianza, y aunque considera muy probable usar una aplicación móvil, sigue prefiriendo la atención presencial; en cuanto a la forma de comunicación, opta por el texto cuando se siente mal y por la videollamada si está en condiciones de hablar; actualmente no utiliza apps de salud o bienestar, pero considera importante que sean accesibles desde distintos dispositivos y con precios razonables; sus principales motivaciones para buscar apoyo son problemas personales, y destacó la relevancia de la flexibilidad de horarios para compatibilizar con sus actividades; sobre el anonimato, lo ve útil cuando las sesiones son con distintos terapeutas, pero prefiere identificarse si es con uno fijo; además, considera muy importante que las aplicaciones estén respaldadas por profesionales licenciados, ya que le brindan seguridad, y aunque nunca ha buscado apoyo en línea, estaría interesada en hacerlo.
+
+<img width="1034" height="579" alt="Captura de pantalla 2025-09-20 a la(s) 2 18 18 p  m" src="https://github.com/user-attachments/assets/a0a5a18a-5fa0-4c0e-981c-fd53c929a007" />
+
 ---
 
 
 ## Entrevista 1:
 
-- **Nombre:** Valeria Benítez Gutiérrez
-- **Edad:** 19
-- **Distrito:** San Borja
-- **Duración:**  
-- **Resumen:**  
+- **Nombre:** Fressia Crysthina Vasquez 
+- **Edad:** 20
+- **Distrito:** Moyobamba 
+- **Duración:** 00:00 - 04:17
+- **Resumen:**
+  
+Fressia Vázquez explicó que acceder a servicios de salud mental en su localidad es muy difícil porque solo cuentan con una posta médica básica y no existen centros especializados; considera que una aplicación móvil sería una gran alternativa para superar barreras geográficas y económicas, ahorrando tiempo y dinero, aunque reconoció que la conectividad a internet en su zona es limitada; señaló que se sentiría con más confianza al recibir apoyo virtual porque evitaría la vergüenza de hablar cara a cara, y valoró altamente la posibilidad de recibir atención gratuita, pues le permitiría evitar los elevados costos de trasladarse a la ciudad; destacó como muy importante la privacidad de los datos y mencionó que la app debería priorizar la seguridad, además de contar con opciones para funcionar sin necesidad de internet estable; finalmente, resaltó que tener acceso a apoyo emocional en cualquier momento y lugar tendría un impacto positivo, ya que le permitiría manejar mejor el estrés y obtener orientación inmediata en situaciones de aflicción.
 
-Valeria Benítez valoró bastante la confidencialidad en la búsqueda de apoyo psicológico, indicando que es fundamental para generar confianza, y aunque considera muy probable usar una aplicación móvil, sigue prefiriendo la atención presencial; en cuanto a la forma de comunicación, opta por el texto cuando se siente mal y por la videollamada si está en condiciones de hablar; actualmente no utiliza apps de salud o bienestar, pero considera importante que sean accesibles desde distintos dispositivos y con precios razonables; sus principales motivaciones para buscar apoyo son problemas personales, y destacó la relevancia de la flexibilidad de horarios para compatibilizar con sus actividades; sobre el anonimato, lo ve útil cuando las sesiones son con distintos terapeutas, pero prefiere identificarse si es con uno fijo; además, considera muy importante que las aplicaciones estén respaldadas por profesionales licenciados, ya que le brindan seguridad, y aunque nunca ha buscado apoyo en línea, estaría interesada en hacerlo.
+<img width="1034" height="579" alt="image" src="https://github.com/user-attachments/assets/4817d066-a7da-4e5c-af09-acf06c3a7260" />
 
 ## Entrevista 2:
 
 - **Nombre:** Marcia Juaquina Ramírez Vivanco
 - **Edad:** 20
 - **Distrito:** Andahuaylas
-- **Duración:**  
+- **Duración:** 00:00 - 08:43 
 - **Resumen:**  
-<img width="1505" height="835" alt="image" src="https://github.com/user-attachments/assets/c4187164-8484-4f5a-87df-63027a85c6ae" />
 
 Marcia Juaquina Ramírez Vivanco indicó que acceder a un servicio de salud mental en su localidad resulta difícil (7/10) principalmente por la falta de especialistas, y consideró que una aplicación móvil podría ayudar a superar limitaciones económicas y geográficas, aunque los costos suelen ser elevados para la población; mencionó que dispone de conexión a internet y dispositivos, lo que le permitiría usar estas herramientas, y que preferiría la atención virtual porque le daría más confianza para expresarse sin sentirse juzgada; valoró la posibilidad de recibir ayuda gratuita con cierta desconfianza, a menos que esté respaldada por profesionales, y resaltó la importancia de la privacidad de datos; sugirió que la app debería ser fácil de usar, incluir orientación y guías prácticas, mostrar la información de los profesionales, guardar historiales de sesiones y conclusiones, y ofrecer atención rápida para reclamos; finalmente, recalcó que mejorar la accesibilidad tecnológica y económica en zonas vulnerables, incluso con charlas o cabinas públicas, sería clave, y que poder acceder a ayuda en cualquier momento tendría un impacto positivo en su vida al brindarle apoyo inmediato desde su hogar.
+
+<img width="1034" height="579" alt="image" src="https://github.com/user-attachments/assets/c4187164-8484-4f5a-87df-63027a85c6ae" />
 
 ## Entrevista 3:
 
