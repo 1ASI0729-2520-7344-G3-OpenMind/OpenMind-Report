@@ -1325,13 +1325,26 @@ En esta seccion especificamos los roles de cada uno de los integrantes del equip
 
 #### 5.2.1.3. Sprint Backlog 1
 
-| **Sprint #**   |                           |                                                                                                  |                      |                  |            |
-| -------------- | ------------------------- | ------------------------------------------------------------------------------------------------ | -------------------- | ---------------- | ---------- |
-| **User Story** | **Work-Item/task**        |                                                                                                  |                      |                  |            |
-| **ID**         | **Título**                | **Descripción**                                                                                  | **Estimación (hrs)** | **Assigned to**  | **Status** |
-| ID del user stories         | Título del user stories        | Descripción del user stories | 1                    | Nombre del integrante | Done       |
-| ID del user stories            | Título del user stories | Descripción del user stories                          | 1.5                  | Nombre del integrante     | Done       |
-| ID del user stories            | Título del user stories | Descripción del user stories       | 2                    | Nombre del integrante     | Done       |
+## Sprint Backlog – OpenMind (Sprint 1)
+
+| Sprint # | User Story | Work-Item/task |   |   |   |   |
+|----------|------------|----------------|---|---|---|---|
+|          | ID         | Título         | Descripción | Estimación (hrs) | Assigned to | Status |
+| Sprint 1 | US-01      | Sección About Us | Como joven entre 18 a 35 años, quisiera conocer más sobre la plataforma OpenMind para entender su funcionamiento. | 1 | Stephano | Done |
+| Sprint 1 | US-02      | Sección Beneficios | Como persona en zonas rurales, quisiera ver los beneficios de usar esta aplicación para evaluar si es conveniente. | 1.5 | Daniel | Done |
+| Sprint 1 | US-03      | Comparación de Membresías | Como joven, quiero ver un plan de membresías con alternativas de servicio según mis preferencias. | 2 | Aron | Done |
+| Sprint 1 | US-04      | Sección de Contacto | Como persona rural, quiero contactar a OpenMind desde la landing page para resolver dudas. | 1 | Carlos | Done |
+| Sprint 1 | US-05      | Sección de Testimonios | Como joven, quiero leer testimonios de otros usuarios sobre la aplicación. | 1.5 | Kael | Done |
+| Sprint 1 | US-06      | Preguntas Frecuentes (FAQ) | Como persona rural, quiero resolver dudas accediendo a la sección FAQ. | 1 | Stephano | Done |
+| Sprint 1 | US-07      | Registro de usuario | Como joven, quisiera registrarme en la aplicación para recibir servicios. | 2 | Daniel | Done |
+| Sprint 1 | US-08      | Uso del chatbot | Como persona rural, quisiera usar un chatbot con IA para identificar servicios o recibir apoyo automático. | 2 | Aron | Done |
+| Sprint 1 | US-09      | Visualizar conversaciones pasadas | Como joven, quiero que mis conversaciones con el chatbot se guarden para consultarlas luego. | 1.5 | Carlos | Done |
+| Sprint 1 | US-10      | Recomendaciones de ayuda profesional | Como persona rural, quiero que el chatbot me recomiende ayuda psicológica profesional. | 2 | Kael | Done |
+| Sprint 1 | US-11      | Sistema de Mensajería | Como joven, quiero comunicarme directamente con un profesional que atienda mi caso. | 2 | Stephano | Done |
+| Sprint 1 | US-12      | Sistema de Reputación | Como persona rural, quiero ver reseñas y valoraciones de profesionales. | 1.5 | Daniel | Done |
+| Sprint 1 | US-13      | Privacidad de datos personales | Como joven, quiero que mis datos tengan seguridad y privacidad. | 1 | Aron | Done |
+| Sprint 1 | US-14      | Modificar información del perfil | Como persona rural, quiero modificar los datos de mi perfil y actualizarlos. | 1.5 | Carlos | Done |
+
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
