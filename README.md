@@ -441,37 +441,31 @@ El análisis competitivo permite identificar a los principales actores en el ám
 
 #### Jóvenes entre 18 a 35 años
 
-1. Nombre completo
-2. Edad
-3. Distrito de residencia
-4. Profesión
-5. Pregunta aqui
-6. Pregunta aqui
-7. Pregunta aqui
-8. Pregunta aqui
-9. Pregunta aqui
-10. Pregunta aqui
-11. Pregunta aqui
-12. Pregunta aqui
+- ¿Cuánto valoras la confidencialidad en la búsqueda de apoyo psicológico?  
+- ¿Qué tan probable es que utilices una aplicación móvil para comunicarte con un terapeuta en lugar de acudir a sesiones presenciales?  
+- ¿Qué tipo de comunicación prefieres para hablar sobre tus problemas emocionales: texto, audio, ¿o video? ¿Por qué?  
+- ¿Con qué frecuencia utilizas aplicaciones móviles para temas de salud o bienestar?  
+- ¿Cómo influye la accesibilidad de la plataforma en tu decisión de buscar ayuda emocional?  
+- ¿Qué te motiva a buscar apoyo emocional o psicológico?  
+- ¿Qué tan importante es para ti que una aplicación de apoyo emocional ofrezca flexibilidad en los horarios de las sesiones?  
+- ¿Te sentirías más cómodo/a al hablar con un terapeuta si la comunicación es anónima?  
+- ¿Qué tan relevante es para ti que una aplicación de salud mental esté respaldada por profesionales licenciados?  
+- ¿Qué barreras o desafíos has encontrado al buscar apoyo psicológico en línea? 
 
 #### Personas que viven en zonas rurales
 
-1. Nombre completo
-2. Edad
-3. Distrito de residencia
-4. Profesión
-5. Pregunta aqui
-6. Pregunta aqui
-7. Pregunta aqui
-8. Pregunta aqui
-9. Pregunta aqui
-10. Pregunta aqui
-11. Pregunta aqui
-12. Pregunta aqui
+- ¿Qué tan difícil es para ti acceder a servicios de salud mental en tu localidad?  
+- ¿Cómo crees que una aplicación móvil podría ayudarte a superar las limitaciones geográficas o económicas para acceder a un terapeuta?  
+- ¿Qué tan accesible es para ti contar con un dispositivo móvil y una conexión a internet estable?  
+- ¿Cómo te sentirías al recibir apoyo emocional a través de una aplicación en lugar de hacerlo en persona?  
+- ¿Cuánto valoras la posibilidad de recibir ayuda emocional sin costo a través de una aplicación?  
+- ¿Qué tipo de apoyo adicional, como orientación sobre el uso de la aplicación, te gustaría recibir para aprovechar mejor esta herramienta?  
+- ¿Qué tan importantes es para ti la privacidad de tus datos al usar una aplicación de salud mental?  
+- ¿Qué características o funcionalidades crees que debería tener una aplicación para ser útil en tu contexto?  
+- ¿Cómo podríamos mejorar la accesibilidad de la aplicación para personas en situaciones económicas desfavorables?  
+- ¿Qué impacto crees que tendría en tu vida el poder acceder a apoyo emocional o psicológico en cualquier momento y lugar?  
 
 ### 2.2.2. Registro de entrevistas
-
-
 
 ## Entrevista 1:
 
@@ -550,177 +544,15 @@ Marcia Juaquina Ramírez Vivanco indicó que acceder a un servicio de salud ment
 
 #### Jóvenes adultos (18-35 años) que buscan apoyo psicológico
 
-<h5>Análisis de la Entrevista - Nombre del entrevistado</h5>
-  <table border="1" cellpadding="6" cellspacing="0">
-    <tr><td><strong>Fuentes de Información</strong></td><td>Contenido aqui</td></tr>
-    <tr><td><strong>Canales de Comunicación</strong></td><td>Contenido aqui</td></tr>
-    <tr><td><strong>Participación</strong></td><td> Contenido aqui</td></tr>
-    <tr><td><strong>Problemas</strong></td><td>Contenido aqui</td></tr>
-    <tr><td><strong>Interés en Plataforma Digital</strong></td><td>Contenido aqui</td></tr>
-    <tr><td><strong>Funcionalidades Relevantes</strong></td><td>Contenido aqui</td></tr>
-    <tr><td><strong>Privacidad y Seguridad</strong></td><td>Contenido aqui</td></tr>
-    
-  </table>
-<br>
-    <h5>Análisis de la Entrevista - Nombre del entrevistado</h5>
-<table border="1" cellpadding="6" cellspacing="0">
-  <tr>
-    <td><strong>Fuentes de Información</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-  <tr>
-    <td><strong>Canales de Comunicación</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-  <tr>
-    <td><strong>Participación</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-  <tr>
-    <td><strong>Problemas</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-  <tr>
-    <td><strong>Interés en Plataforma Digital</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-  <tr>
-    <td><strong>Funcionalidades Relevantes</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-  <tr>
-    <td><strong>Privacidad y Seguridad</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-</table>
-<br>
+Las entrevistas de María José Soto Lecca, Geanfranco Jared Durand Vega y Valeria Benítez reflejan un alto interés en soluciones digitales para apoyo psicológico, aunque con diferencias en preferencias. Todos valoran mucho la confidencialidad, la flexibilidad de horarios y que la atención esté respaldada por profesionales licenciados, aunque algunos aceptarían egresados recién titulados. En cuanto a la comunicación, María José prefiere videollamadas, Geanfranco opta por texto y Valeria alterna entre texto y video, mostrando diversidad de necesidades en el mismo rango etario. La motivación principal para buscar ayuda proviene de problemas emocionales propios de la juventud y de recomendaciones de cercanos, mientras que las barreras identificadas se relacionan con apps limitadas a chats, lentitud de respuesta y el costo de servicios. En general, este segmento muestra apertura hacia la virtualidad, pero valora la personalización, la inmediatez y la confianza en los profesionales.
 
-  <h5>Análisis de la Entrevista - Nombre del entrevistado</h5>
-  <table border="1" cellpadding="6" cellspacing="0">
-    <tr><td><strong>Fuentes de Información</strong></td><td>Contenido aqui</td></tr>
-    <tr><td><strong>Canales de Comunicación</strong></td><td>Contenido aqui</td></tr>
-    <tr><td><strong>Participación</strong></td><td>Contenido aqui</td></tr>
-    <tr><td><strong>Problemas</strong></td><td>Contenido aqui</td></tr>
-    <tr><td><strong>Interés en Plataforma Digital</strong></td><td>Contenido aqui</td></tr>
-    <tr><td><strong>Funcionalidades Relevantes</strong></td><td>Contenido aqui</td></tr>
-    <tr><td><strong>Privacidad y Seguridad</strong></td><td>Contenido aqui</td></tr>
-  </table>
-<br>
-
-Conclusión de las entrevistas aqui
+<img width="1034" height="579" alt="image" src="https://github.com/user-attachments/assets/d10f3f48-8f55-4047-9a5d-9354c7c63cd3" />
 
 ### Personas en áreas rurales o de bajos recursos con acceso limitado a servicios de salud mental
 
-<h5>Análisis de la Entrevista - Nombre del entrevistado</h5>
-<table border="1" cellpadding="6" cellspacing="0">
-  <tr>
-    <td><strong>Medios de Comunicación</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-  <tr>
-    <td><strong>Herramientas Actuales</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-  <tr>
-    <td><strong>Dificultades para la Participación</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-  <tr>
-    <td><strong>Problemas con los Canales de pago</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-  <tr>
-    <td><strong>Información a Comunicar</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-  <tr>
-    <td><strong>Interés en una Plataforma Digital</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-  <tr>
-    <td><strong>Funcionalidades Deseadas</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-  <tr>
-    <td><strong>Disposición a usar la App</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-</table>
-<br>
-<h5>Análisis de la Entrevista - Nombre del entrevistado</h5>
-<table border="1" cellpadding="6" cellspacing="0">
-  <tr>
-    <td><strong>Medios de Comunicación</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-  <tr>
-    <td><strong>Herramientas Actuales</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-  <tr>
-    <td><strong>Dificultades para la Participación</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-  <tr>
-    <td><strong>Problemas con los Canales Actuales</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-  <tr>
-    <td><strong>Información a Comunicar</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-  <tr>
-    <td><strong>Interés en Plataforma Digital</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-  <tr>
-    <td><strong>Funcionalidades Deseadas</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-  <tr>
-    <td><strong>Disposición a usar la App</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-</table>
+Las entrevistas de Marcia Juaquina Ramírez Vivanco y Fressia Vázquez revelan que las principales dificultades radican en la falta de centros especializados, la poca accesibilidad económica y la limitada conectividad a internet en sus localidades. Ambas consideran que una aplicación móvil sería una herramienta clave para superar barreras geográficas y económicas, valorando mucho que sea de uso sencillo, gratuita o de bajo costo, y que garantice privacidad y seguridad de datos. Además, proponen funcionalidades como guías prácticas, historial de sesiones, información clara de los profesionales y versiones que funcionen incluso sin internet. Ven el apoyo virtual como una forma de expresarse con más confianza y de recibir orientación inmediata sin necesidad de desplazarse, lo que tendría un impacto positivo en su bienestar emocional.
 
-<br>
-<h5>Análisis de la Entrevista - Nombre del entrevistado</h5>
-<table border="1" cellpadding="6" cellspacing="0">
-  <tr>
-    <td><strong>Medios de Comunicación</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-  <tr>
-    <td><strong>Herramientas Actuales</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-  <tr>
-    <td><strong>Dificultades para la Participación</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-  <tr>
-    <td><strong>Problemas con los Canales Actuales</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-  <tr>
-    <td><strong>Información a Comunicar</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-  <tr>
-    <td><strong>Interés en Plataforma Digital</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-  <tr>
-    <td><strong>Funcionalidades Deseadas</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-  <tr>
-    <td><strong>Disposición a usar la App</strong></td>
-    <td>Contenido aqui</td>
-  </tr>
-</table>
-
-Conclusión de las entrevistas aqui.
+<img width="1034" height="579" alt="image" src="https://github.com/user-attachments/assets/9c5cf2ec-1ef8-4a26-b6f9-c08d2d7a87b8" />
 
 ## 2.3. Needfinding
 
