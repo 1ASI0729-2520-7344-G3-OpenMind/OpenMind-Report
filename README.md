@@ -1362,6 +1362,12 @@ En este punto se presenta la ejecucion de la landing page para esta entrega.
 
 Colocar capturas de pantalla de la landing page aqui
 
+![Evidencia](Imagenes/Cap_5.png) 
+![Evidencia](Imagenes/Cap_4.png) 
+![Evidencia](Imagenes/Cap_3.png) 
+![Evidencia](Imagenes/Cap_2.png) 
+![Evidencia](Imagenes/Cap_1.png) 
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 En este sprint se realizo el despliege de la landing page del project OpenMind, marcando el primer paso de la publicacion progresiva en los siguientes sprints se realizara el resto de la landing page y la aplicacion web del proyecto.
