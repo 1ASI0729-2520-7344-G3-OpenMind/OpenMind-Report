@@ -1373,6 +1373,13 @@ Colocar capturas de pantalla de la landing page aqui
 En este sprint se realizo el despliege de la landing page del project OpenMind, marcando el primer paso de la publicacion progresiva en los siguientes sprints se realizara el resto de la landing page y la aplicacion web del proyecto.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+Se creo el repositorio para hacer el reporte del trabjo utilizando GitHub 
+
+![Evidencia](Imagenes/Cap_6.png)
+
+Luego atraves de los commits, el equipo fue subiendo las partes del trabajo
+
+![Evidencia](Imagenes/Cap_7.png) 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
