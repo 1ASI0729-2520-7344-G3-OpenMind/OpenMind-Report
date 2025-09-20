@@ -1387,19 +1387,19 @@ Para el desarrollo de este primer avance se dividieron las tareas entre los inte
 
 ### Contributors:
 
-Captura de pantalla de contributors en Git aqui
+![Evidencia](Imagenes/Contributors.png)
 
 ### Traffic:
 
-Captura de pantalla de Traffic en Git aqui
+![Evidencia](Imagenes/Traffic.png)
 
 ### Commits:
 
-Captura de pantalla de Commits en Git aqui
+![Evidencia](Imagenes/Commits.png)
 
 ### Code frequency:
 
-Captura de pantalla de frequency en Git aqui
+![Evidencia](Imagenes/Code_frequency.png)
 
 # Conclusiones
 
