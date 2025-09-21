@@ -480,6 +480,8 @@ María José Soto Lecca, de 22 años, valoró altamente la confidencialidad en e
 
 <img width="1034" height="579" alt="image" src="https://github.com/user-attachments/assets/0dd7cdb0-cfe6-41ff-855b-83f2e9df6484" />
 
+[Link a la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311828_upc_edu_pe/EQt2KQZmtU1KkTgXxoiL8n8B-D9N8mCDGJUitQX6_YC4iA?e=Qmn6lr)
+
 ## Entrevista 2:
 
 - **Nombre:** Gianfranco Jared Durand Vega
@@ -492,6 +494,8 @@ Geanfranco Jared Durand Vega, de 22 años, resaltó la gran importancia de la co
 
 <img width="1034" height="579" alt="image" src="https://github.com/user-attachments/assets/7a297afa-9d52-4dd6-a94a-bd82362afc92" />
 
+[Link a la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311828_upc_edu_pe/EXjEW3jtLgJEqUSDWpwtO3IB-WAHOnZvdaf3cgUC4zD-ZA?e=bUmHiV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 ## Entrevista 3:
 
 - **Nombre:** Valeria Benítez Gutiérrez
@@ -503,6 +507,8 @@ Geanfranco Jared Durand Vega, de 22 años, resaltó la gran importancia de la co
 Valeria Benítez valoró bastante la confidencialidad en la búsqueda de apoyo psicológico, indicando que es fundamental para generar confianza, y aunque considera muy probable usar una aplicación móvil, sigue prefiriendo la atención presencial; en cuanto a la forma de comunicación, opta por el texto cuando se siente mal y por la videollamada si está en condiciones de hablar; actualmente no utiliza apps de salud o bienestar, pero considera importante que sean accesibles desde distintos dispositivos y con precios razonables; sus principales motivaciones para buscar apoyo son problemas personales, y destacó la relevancia de la flexibilidad de horarios para compatibilizar con sus actividades; sobre el anonimato, lo ve útil cuando las sesiones son con distintos terapeutas, pero prefiere identificarse si es con uno fijo; además, considera muy importante que las aplicaciones estén respaldadas por profesionales licenciados, ya que le brindan seguridad, y aunque nunca ha buscado apoyo en línea, estaría interesada en hacerlo.
 
 <img width="1034" height="579" alt="Captura de pantalla 2025-09-20 a la(s) 2 18 18 p  m" src="https://github.com/user-attachments/assets/a0a5a18a-5fa0-4c0e-981c-fd53c929a007" />
+
+[Link a la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311828_upc_edu_pe/ERhFljFzrehIlpCaNuxQoyMBk9dYkM2oz7BNtsMKkGFrsw?e=hayZVU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ---
 
@@ -519,6 +525,8 @@ Fressia Vázquez explicó que acceder a servicios de salud mental en su localida
 
 <img width="1034" height="579" alt="image" src="https://github.com/user-attachments/assets/4817d066-a7da-4e5c-af09-acf06c3a7260" />
 
+[Link a la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311828_upc_edu_pe/EdjyfQOfi5BNvizBgmcfEg0BqgyYNpe15J4DDy5w9CHJMg?e=EL6Pu8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 ## Entrevista 2:
 
 - **Nombre:** Marcia Juaquina Ramírez Vivanco
@@ -531,13 +539,7 @@ Marcia Juaquina Ramírez Vivanco indicó que acceder a un servicio de salud ment
 
 <img width="1034" height="579" alt="image" src="https://github.com/user-attachments/assets/c4187164-8484-4f5a-87df-63027a85c6ae" />
 
-## Entrevista 3:
-
-- **Nombre:** 
-- **Edad:** 
-- **Distrito:** 
-- **Duración:**  
-- **Resumen:**   
+[Link a la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311828_upc_edu_pe/EfFPU3j5j3pGqY7dWJ-RlDABVNNauhdEHDLiMO7Td80PCQ?e=wWJhOd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
 
 ---
 
