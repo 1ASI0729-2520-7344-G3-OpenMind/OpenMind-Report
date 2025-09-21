@@ -1036,13 +1036,40 @@ Para su mejor visualización se adjunta el enlace del figma:
 
 ## 4.4. Web Applications UX/UI Design
 
+En el diseño de la interfaz de usuario de nuestra aplicación web "OpenMind", nos enfocamos en ofrecer una experiencia intuitiva, eficiente y visualmente atractiva. Asimismo, seguimos las guías de diseño para optimizar el rendimiento y garantizar que cada parte de la aplicación se adapte de manera fluida a los clientes y trabajadores.
+
 ### 4.4.1. Web Applications Wireframes
 
-Los wireframes de la aplicación web de OpenMind representan la estructura y organización de las pantallas clave orientadas a la comunicación entre (Continuar descripción).
+Enlace para acceder al diseño final: [https://www.figma.com/design/p65gaKLoCnMuTCvewWL3hR/Landing-Page---OpenMind?node-id=0-1&t=E1fuv8nGHDIFtDcB-1](https://www.figma.com/design/p65gaKLoCnMuTCvewWL3hR/Landing-Page---OpenMind?node-id=0-1&t=E1fuv8nGHDIFtDcB-1)
 
-Enlace para acceder al diseño final: 
+- Vista de Inicio de Sesion
 
-Pegar imagenes de todos los wireframes desarrollados aqui
+<img src="imagenes/wireframe1.jpg" width="60%">
+
+- Vista de Registro
+
+<img src="imagenes/wireframe2.jpg" width="60%">
+
+- Vista de Inicio
+
+<img src="imagenes/wirefram3.jpg" width="60%">
+
+- Vista Chat con Bot
+
+<img src="imagenes/wireframe4.jpg" width="60%">
+<img src="imagenes/wireframe5.jpg" width="60%">
+
+- Vista del Historial de Chats
+
+<img src="imagenes/wireframe6.jpg" width="60%">
+
+- Vista de Recomendaciones
+
+<img src="imagenes/wireframe7.jpg" width="60%">
+
+- Vista de Editar Perfil
+
+<img src="imagenes/wireframe18.jpg" width="60%">
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
@@ -1051,28 +1078,6 @@ En esta sección se presentan los Wireflows para cada objetivo del usuario. Para
 Describir los mock ups pertenecientes a un mismo apartado, incluir imagenes
 
 ### 4.4.3. Web Applications Mock-ups
-
-En esta sección se presentan y explican los mock-ups de la aplicación web OpenMind, orientada a (Continuar descripción aqui).
-
-Enlace para acceder al Diseño: 
-
-Imagen del Mock up 1 aqui
-
-Imagen del Mock up 2 aqui
-
-Imagen del Mock up 3 aqui
-
-Imagen del Mock up 4 aqui
-
-Imagen del Mock up 5 aqui
-
-Imagen del Mock up 6 aqui
-
-Imagen del Mock up 7 aqui
-
-Imagen del Mock up 8 aqui
-
-Insertar imagenes de la cantidad de mock ups hechos
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
