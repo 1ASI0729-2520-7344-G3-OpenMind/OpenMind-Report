@@ -1044,32 +1044,32 @@ Enlace para acceder al diseño final: [https://www.figma.com/design/p65gaKLoCnMu
 
 - Vista de Inicio de Sesion
 
-<img src="imagenes/wireframe1.jpg" width="60%">
+<img src="Imagenes/wireframe1.jpg" width=60%>
 
 - Vista de Registro
 
-<img src="imagenes/wireframe2.jpg" width="60%">
+<img src="Imagenes/wireframe2.jpg" width="60%">
 
 - Vista de Inicio
 
-<img src="imagenes/wirefram3.jpg" width="60%">
+<img src="Imagenes/wirefram3.jpg" width="60%">
 
 - Vista Chat con Bot
 
-<img src="imagenes/wireframe4.jpg" width="60%">
-<img src="imagenes/wireframe5.jpg" width="60%">
+<img src="Imagenes/wireframe4.jpg" width="60%">
+<img src="Imagenes/wireframe5.jpg" width="60%">
 
 - Vista del Historial de Chats
 
-<img src="imagenes/wireframe6.jpg" width="60%">
+<img src="Imagenes/wireframe6.jpg" width="60%">
 
 - Vista de Recomendaciones
 
-<img src="imagenes/wireframe7.jpg" width="60%">
+<img src="Imagenes/wireframe7.jpg" width="60%">
 
 - Vista de Editar Perfil
 
-<img src="imagenes/wireframe18.jpg" width="60%">
+<img src="Imagenes/wireframe18.jpg" width="60%">
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
@@ -1082,34 +1082,32 @@ Enlace para acceder al Diseño:[https://www.figma.com/design/p65gaKLoCnMuTCvewWL
 
 - Vista de Inicio de Sesion
 
-<img src="imagenes/mockup1.jpg" width="60%">
+<img src="Imagenes/mockup1.jpg" width="60%">
 
 - Vista de Registro
 
-<img src="imagenes/mockup2.jpg" width="60%">
+<img src="Imagenes/mockup2.jpg" width="60%">
 
 - Vista de Inicio
 
-<img src="imagenes/mockup3.jpg" width="60%">
+<img src="Imagenes/mockup3.jpg" width="60%">
 
 - Vista del Chat con el Bot
 
-<img src="imagenes/mockup4.jpg" width="60%">
-<img src="imagenes/mockup5.jpg" width="60%">
+<img src="Imagenes/mockup4.jpg" width="60%">
+<img src="Imagenes/mockup5.jpg" width="60%">
 
 - Vista del Historial de Chats
 
-<img src="imagenes/mockup6.jpg" width="60%">
+<img src="Imagenes/mockup6.jpg" width="60%">
 
 - Vista de Recomendaciones
 
-<img src="imagenes/mockup7.jpg" width="60%">
+<img src="Imagenes/mockup7.jpg" width="60%">
 
 - Vista de Editar Perfil
 
-<img src="imagenes/mockup8.jpg" width="60%">
-Insertar imagenes de la cantidad de mock ups hechos
-
+<img src="Imagenes/mockup8.jpg" width="60%">
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
