@@ -1130,10 +1130,12 @@ Enlace para acceder al Diseño:[https://www.figma.com/design/p65gaKLoCnMuTCvewWL
 
 - Vista del Historial de Chats
 
+<img src="Imagenes/mockup10.jpg" width="60%">
 <img src="Imagenes/mockup6.jpg" width="60%">
 
 - Vista de Recomendaciones
 
+<img src="Imagenes/mockup11.jpg" width="60%">
 <img src="Imagenes/mockup7.jpg" width="60%">
 
 - Vista de Editar Perfil
