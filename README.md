@@ -44,6 +44,7 @@ Desarrollo de aplicaciones Open Source <br>
 </div>
 
 # Project Report Collaboration Insights
+![Evidencia_grupal](Imagenes/Evidencia_grupal.jpg)
 
 # Student Outcome
 
@@ -956,8 +957,10 @@ Para optimizar la experiencia de los usuarios en la plataforma, se han implement
 
 Esta parte de la aplicación se enfoca en guiar a los usuarios de manera efectiva mientras navegan por la plataforma y utilizan las funcionalidades. Como sistema de navegación, para el landing page, nos encargamos de realizar una página vertical con poco texto donde el usuario pueda navegar sin saltarse a otra página y confundirse por la inmensidad de información. Nuestro landing page cuenta con secciones como:
 
-- Nombre de la sección: Descripción aqui
-- Nombre de la sección: Descripción aqui
+- Sección de inicio: Pantalla inicial en donde el usuario puede llevar a cabo acciones como registrarse en la página, ver las reseñas que dejaron otros usuarios con respecto a la app y ver el tipo de beneficios que ofrecemos en general.
+- Perfil de usuario: Pantalla en la cual el usuario puede registrar y visualizar su información como lo puede ser su nombre completo, su edad y uno que otro dato personal adicional según quisiera añadir.
+- Pestaña del chatbot: Sección en la cual el usuario puede entablar una conversación con el chatbot que le responderá sus dudas respecto al tipo de problema emocional que siente y si es capaz de recomendar a un profesional según lo desee el usuario, además se puede acceder a un historial de conversaciones pasadas que quedan registradas en la aplicación.
+- Pestaña de recomendación: Pantalla dedicada al contacto con un profesional que pueda atender de mejor forma las inquietudes del usuario en caso lo desee.
 
 ## 4.3. Landing Page UI Design
 Esta sección se enfoca en el diseño de la interfaz de usuario (UI) de la Landing Page, que es esencial para captar la atención de los usuarios y comunicar de manera efectiva la propuesta de valor del sistema. A continuación, se presentan los wireframes y los mock-ups, dos etapas clave en el proceso de diseño que permiten visualizar y refinar la estructura y apariencia de la página.
