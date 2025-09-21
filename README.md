@@ -1321,7 +1321,109 @@ Adoptamos la convención de commits convencional para mantener un historial de c
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
-Para este punto explicaremos las pautas y convenciones que se tomaron en cuenta para la creacion del codigo.
+Para el desarrollo de **OpenMind** se definieron pautas y convenciones de estilo que aseguran **consistencia, legibilidad y mantenibilidad** del código en un entorno colaborativo.
+
+---
+
+**Kebab-case**
+
+Se utiliza **kebab-case** en nombres de archivos, rutas web y clases CSS, ya que facilita la lectura y es un estándar ampliamente aceptado en proyectos frontend.
+
+**Ejemplo:**
+- Nombre normal: `UserProfileComponent`
+- En kebab-case: `user-profile-component`
+
+**Uso en OpenMind:**
+- Nombres de archivos: `login-page.component.html`
+- Clases CSS: `.nav-bar`, `.error-message`
+- URLs: `/user-profile/settings`
+- Nombres de componentes Angular: `<user-profile-card>`
+
+---
+
+**HTML**
+
+En el desarrollo frontend con **Angular**, se aplicaron las siguientes buenas prácticas:
+- Uso de etiquetas **semánticas** (`<header>`, `<section>`, `<article>`, `<footer>`, etc.)
+- Atributos y etiquetas en **minúscula**
+- Clases en **kebab-case**
+- Indentación consistente de 2 espacios
+
+**Ejemplo:**
+```html
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <title>OpenMind</title>
+  </head>
+  <body>
+    <header class="main-header">
+      <h1>Bienvenido a OpenMind</h1>
+    </header>
+    <section class="user-profile">
+      <p>Hola, estudiante</p>
+    </section>
+  </body>
+</html>
+```
+
+**CSS**
+
+- Uso de **kebab-case** para las clases.
+- Uso de selectores específicos pero no demasiado largos.
+- Uso de variables CSS (`--main-color`).
+
+**Ejemplo:**
+```css
+:root {
+  --primary-color: #3498db;
+}
+
+.main-header {
+  background-color: var(--primary-color);
+  padding: 1rem;
+  text-align: center;
+}
+
+.user-profile {
+  margin: 2rem 0;
+  font-size: 1.2rem;
+}
+```
+
+**TypeScript**
+
+- Uso de **camelCase** para variables y funciones.
+- Uso de **PascalCase** para clases e interfaces.
+- Constantes en **UPPER_SNAKE_CASE**.
+- Declaración estricta de tipos para mejorar legibilidad y prevenir errores.
+- Uso de `let` y `const` (evitar `var`).
+- Funciones flecha cuando sea posible.
+
+**Ejemplo:**
+```typescript
+const API_URL: string = "https://api.example.com/users";
+
+interface User {
+  id: number;
+  name: string;
+  email: string;
+}
+
+function fetchUserData(userId: number): Promise<User> {
+  return fetch(`${API_URL}/${userId}`)
+    .then((response) => response.json())
+    .then((data: User) => {
+      console.log("Datos del usuario:", data);
+      return data;
+    })
+    .catch((error) => {
+      console.error("Error:", error);
+      throw error;
+    });
+}
+```
 
 ### 5.1.4. Software Deployment Configuration
 
