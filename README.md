@@ -1533,8 +1533,6 @@ A continuación se muestra una recopilación de los commits realizados en el rep
 
 En este punto se presenta la ejecucion de la landing page para esta entrega.
 
-Colocar capturas de pantalla de la landing page aqui
-
 ![Evidencia](Imagenes/Cap_5.png) 
 ![Evidencia](Imagenes/Cap_4.png) 
 ![Evidencia](Imagenes/Cap_3.png) 
