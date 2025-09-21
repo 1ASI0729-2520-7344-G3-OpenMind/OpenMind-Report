@@ -1078,6 +1078,38 @@ En esta sección se presentan los Wireflows para cada objetivo del usuario. Para
 Describir los mock ups pertenecientes a un mismo apartado, incluir imagenes
 
 ### 4.4.3. Web Applications Mock-ups
+Enlace para acceder al Diseño:[https://www.figma.com/design/p65gaKLoCnMuTCvewWL3hR/Landing-Page---OpenMind?node-id=0-1&t=E1fuv8nGHDIFtDcB-1](https://www.figma.com/design/p65gaKLoCnMuTCvewWL3hR/Landing-Page---OpenMind?node-id=0-1&t=E1fuv8nGHDIFtDcB-1)
+
+- Vista de Inicio de Sesion
+
+<img src="imagenes/mockup1.jpg" width="60%">
+
+- Vista de Registro
+
+<img src="imagenes/mockup2.jpg" width="60%">
+
+- Vista de Inicio
+
+<img src="imagenes/mockup3.jpg" width="60%">
+
+- Vista del Chat con el Bot
+
+<img src="imagenes/mockup4.jpg" width="60%">
+<img src="imagenes/mockup5.jpg" width="60%">
+
+- Vista del Historial de Chats
+
+<img src="imagenes/mockup6.jpg" width="60%">
+
+- Vista de Recomendaciones
+
+<img src="imagenes/mockup7.jpg" width="60%">
+
+- Vista de Editar Perfil
+
+<img src="imagenes/mockup8.jpg" width="60%">
+Insertar imagenes de la cantidad de mock ups hechos
+
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
