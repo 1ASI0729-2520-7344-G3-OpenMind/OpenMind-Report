@@ -1078,7 +1078,33 @@ Enlace para acceder al diseño final: [https://www.figma.com/design/p65gaKLoCnMu
 
 En esta sección se presentan los Wireflows para cada objetivo del usuario. Para ello se consideró los User Persona correspondientes. Cada diagrama muestra el flujo de interacción.
 
-Describir los mock ups pertenecientes a un mismo apartado, incluir imagenes
+#### Inicio de sesión / Registro
+El usuario desea iniciar sesion o registrarse en la plataforma para poder acceder a las funcionalidades de OpenMind. El usuario vera el formulario para Iniciar Sesion, cuando ingresa sus datos correctos es redirigido a la pantalla principal. Si no tiene cuenta, puede seleccionar la opcion de Registrarse, esto lo redigira a un formulario donde ingresara su nombre, correo y contraseña. El sistema validara los datos, si son correctos es redirigido a la pantalla principal y estara listo para utilizar la aplicacion.
+
+<img src="Imagenes/wireflow1.jpg" width="60%">
+
+---
+
+
+#### Chat con OpenMind Bot y guardado de conversación
+
+El usuario desea poder interactuar con el bot para poder recibir apoyo, ademas desea guardar la conversacion para poder revisarla nuevamente en otro momento. Desde la pantalla principal, selecciona la opcion Chatear con OpenMind accediendo a la pantalla del chat. Alli podra enviar mensajes y recibir respuestas en tiempo real. Si desea guardar la conversacion, pulsa el boton "Guardar", ingresando el Nombre para la conversacion y confirma el guardado. El sistema almacenara automaticamente el chat para ser mostrado posteriormente en el Historial.
+
+<img src="Imagenes/wireflow2.jpg" width="60%">
+
+---
+
+#### Historial de conversaciones
+El usuario quiere volver a revisar conversaciones previas para recordar las reconemdaciones del bot. Desde la pantalla principal, selecciona "Historial de Conversaciones", donde vera una pantalla con una lista de sus conversaciones guardadas, cada una con su respectivo titulo. Al seleccionar alguna conversacion podra ver el detalle de la misma
+
+<img src="Imagenes/wireflow3.jpg" width="60%">
+
+---
+
+#### Recomendaciones profesionales
+El usuario desea poder recibir orientacion experta sin la necesidad de poder chatear en vivo con el especialista. Desde la pantalla principal, selecciona "Recomendaciones Profesionales", visualizara una lista de todas sus conversaciones, cada una de estas conversaciones tendra una lista de recomendaciones
+
+<img src="Imagenes/wireflow4.jpg" width="60%">
 
 ### 4.4.3. Web Applications Mock-ups
 Enlace para acceder al Diseño:[https://www.figma.com/design/p65gaKLoCnMuTCvewWL3hR/Landing-Page---OpenMind?node-id=0-1&t=E1fuv8nGHDIFtDcB-1](https://www.figma.com/design/p65gaKLoCnMuTCvewWL3hR/Landing-Page---OpenMind?node-id=0-1&t=E1fuv8nGHDIFtDcB-1)
