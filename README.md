@@ -1142,7 +1142,7 @@ Enlace para acceder al Diseño:[https://www.figma.com/design/p65gaKLoCnMuTCvewWL
 
 En esta sección se presentan los diagramas de flujo de usuario para las aplicaciones web de OpenMind, los cuales ilustran el recorrido que sigue un usuario dentro de la plataforma.
 
-Imagen aqui
+<img src="Imagenes/userflow.jpg" width="60%">
 
 ## 4.5. Web Applications Prototyping
 
