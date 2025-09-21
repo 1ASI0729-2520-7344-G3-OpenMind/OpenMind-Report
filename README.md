@@ -1286,6 +1286,39 @@ Lenguaje de marcado ligero utilizado en toda la documentación técnica. Creamos
 
 ### 5.1.2 Source Code Management
 
+En esta seccion explicaremos como se lleva a cabo la gestion del codigo fuente, en este caso usando Git y GitHub para el control de versiones y la gestion del codigo fuente, permitiendo que todos los integrantes del equipo puedan subir sus avances y trabajar de manera colaborativa. A continuacion los repositorios utilizados para este sprint:
+
+Repositorio: https://github.com/Mayrzon02/1ASI0729-2520-7344-G3-OpenMind
+
+Reporte del proyecto: https://github.com/Mayrzon02/1ASI0729-2520-7344-G3-OpenMind/blob/main/README.md
+
+landing page:
+
+**Gitflow**
+
+Adoptamos el flujo de trabajo Gitflow para gestionar nuestro desarrollo. Creamos ramas específicas para nuevas funcionalidades (feature branches), correcciones de errores (hotfix branches) y versiones estables (release branches). Esto nos permitió trabajar en paralelo sin conflictos, facilitando la integración continua y la entrega frecuente de valor.
+
+| **Rama**   | **Función**                                                                                                                                      |
+|------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| master     | Contiene el código en producción. Cada versión estable y lista para liberar se guarda aquí.                                                      |
+| develop    | Rama principal de desarrollo. Aquí se integran nuevas funcionalidades antes de liberar.                                                          |
+| feature    | Se usa para desarrollar nuevas funcionalidades. Se crea a partir de `develop` y al terminar se fusiona de nuevo.                                 |
+| release    | Rama de preparación para lanzar una versión. Se crea desde `develop` y permite hacer pruebas, ajustes y documentación antes de pasar a `master`. |
+| hotfix     | Se usa para corregir errores críticos en producción. Se crea desde `master` y luego se fusiona en `master` y `develop`.                          |
+
+**Conventional commits**
+Adoptamos la convención de commits convencional para mantener un historial de cambios claro y estructurado. Cada mensaje de commit sigue un formato específico que incluye un tipo, un alcance opcional y una descripción breve. Esto facilita la comprensión del propósito de cada cambio y mejora la colaboración entre los miembros del equipo.
+
+| **Tipo**   | **Descripción**                                                                | **Ejemplo**                                            |
+|------------|--------------------------------------------------------------------------------|--------------------------------------------------------|
+| feat       | Añade una nueva funcionalidad al sistema.                                      | `feat(auth): añadir login con Google`                  |
+| fix        | Corrige un error.                                                              | `fix(api): corregir error al obtener usuarios`         |
+| docs       | Cambios en la documentación (README, comentarios, etc.).                       | `docs(readme): actualizar sección de instalación`      |
+| style      | Cambios que no afectan la lógica del código (espacios, formato, comas).        | `style(ui): reordenar imports y quitar espacios`       |
+| refactor   | Cambios en el código que no corrigen bugs ni agregan funciones.                | `refactor(utils): simplificar función de validación`   |
+| test       | Añade pruebas o corrige existentes.                                            | `test(routes): agregar pruebas para rutas protegidas`  |
+| chore      | Tareas del mantenimiento del proyecto (build, dependencias, configs, etc.)     | `chore: actualizar dependencias con npm`               |
+
 ### 5.1.3. Source Code Style Guide & Conventions
 
 Para este punto explicaremos las pautas y convenciones que se tomaron en cuenta para la creacion del codigo.
