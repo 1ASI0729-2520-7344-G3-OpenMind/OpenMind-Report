@@ -918,15 +918,15 @@ A la vista de nuestros segmentos objetivos, el color cumple un rol muy important
 
 ### 4.2.2. Labeling Systems
 
-Para el uso de etiquetas de nuestro Landing Page, se ha elegido un lenguaje sencillo que permite a los usuarios familiarizarse con facilidad con las opciones proporcionadas. Esto logrará que los usuarios puedan navegar de manera intuitiva, implementando lo siguiente:
+Para el uso de etiquetas en la plataforma de apoyo psicológico digital, se ha elegido un lenguaje sencillo, cercano y comprensible para todo tipo de usuarios, priorizando la claridad sobre tecnicismos. Esto permitirá que los usuarios interactúen de manera intuitiva con el chatbot y los distintos módulos, logrando una experiencia accesible e inclusiva.
 
-- Jerarquía visual: Contenido aqui
+- Jerarquía visual: Aplicada en módulos clave como “Chat de Apoyo”, “Recursos de Bienestar”, “Sesiones en Línea” y “Configuración”, destacando con mayor visibilidad aquellas funciones críticas como el inicio de conversación o el acceso a emergencias. Esto asegura que los usuarios puedan encontrar rápidamente lo que necesitan en momentos de alta carga emocional.
 
-- Organización secuencial: Contenido aqui
+- Organización secuencial: Presente en el flujo de interacción con el chatbot: desde “Iniciar conversación” → “Compartir emociones” → “Recibir recursos” → “Acceder a profesional (opcional)”. Este orden lógico guía al usuario paso a paso, evitando confusión y reduciendo la fricción durante la búsqueda de apoyo psicológico.
 
-- Organización matricial: Contenido aqui
+- Organización matricial: Implementada en secciones como el panel de Recursos de Bienestar, donde las etiquetas organizan los contenidos en categorías claras: “Meditación”, “Ejercicios de respiración”, “Guías emocionales”, “Autoevaluaciones”. Esto facilita la comparación entre tipos de ayuda y permite que los usuarios encuentren lo más adecuado según su necesidad y contexto.
 
-Estos esquemas de etiquetado se han diseñado utilizando un lenguaje sencillo y accesible para todos los usuarios, empleando términos familiares como (Continuar explicación).
+Estos esquemas de etiquetado se han diseñado utilizando un lenguaje sencillo y accesible para todos los usuarios, empleando términos familiares como “Iniciar conversación”, “Mi espacio”, “Recursos de apoyo”, “Sesiones en línea” y “Configuración”, en lugar de vocabulario técnico o especializado.
 
 ### 4.2.3. SEO Tags and Meta Tags
 
