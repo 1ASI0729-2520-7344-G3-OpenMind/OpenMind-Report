@@ -682,9 +682,9 @@ Segmento 1: Segmento Jovenes adultos (18 a 35 años)
 
 <img src="Imagenes/Empathy map.png" alt="As_is_scenario_mapping1_Imagen" width="600"/>
 
-Segmento 2: Nombre del segmento cliente aqui
+Segmento 2: Personas que viven en zonas rurales
 
-Imagen del empathy mapping aqui
+<img src="Imagenes/Empathy map2.png" alt="As_is_scenario_mapping1_Imagen" width="600"/>
 
 ### 2.3.5. As-is Scenario Mapping
 
