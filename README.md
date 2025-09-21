@@ -983,59 +983,52 @@ Para su mejor visualización se adjunta el enlace del figma:
   
 <img src="Imagenes/registro.jpeg" width="60%">
 
-- Ventana de Inicio con Sesion Iniciada
-  
-<img src="Imagenes/imagen_logged.jpeg" width="60%">
 
 - Ventana Sobre Nosotros
   
-<img src="Imagenes/sobre_nosotros.jpeg" width="60%">
+<img src="Imagenes/lading-wireframe10.jpg" width="60%">
 
 - Ventana de Beneficios
-  
-<img src="Imagenes/beneficios.jpeg" width="60%">
+
+<img src="Imagenes/lading-wireframe11.jpg" width="60%">
 
 - Ventana de Membresia
-  
-<img src="Imagenes/membresias.jpeg" width="60%">
+
+<img src="Imagenes/lading-wireframe12.jpg" width="60%">
 
 - Ventana de Testimonios
-  
-<img src="Imagenes/testimonios.jpeg" width="60%">
+
+<img src="Imagenes/lading-wireframe13.jpg" width="60%">
 
 ### 4.3.2. Landing Page Mock-up
 
 - Ventana de Inicio
   
-<img src="Imagenes/landing-mockup1.jpeg" width="60%">
+<img src="Imagenes/lading-mockup10.jpg" width="60%">
 
 - Ventana de Inicio de Sesion
-  
-<img src="Imagenes/landing-mockup2.jpeg" width="60%">
+
+<img src="Imagenes/lading-mockup11.jpg" width="60%">
 
 - Ventana de Registro
-  
-<img src="Imagenes/landing-mockup3.jpeg" width="60%">
 
-- Ventana de Inicio con Sesion Iniciada
-  
-<img src="Imagenes/landing-mockup4.jpeg" width="60%">
+<img src="Imagenes/lading-mockup12.jpg" width="60%">
 
 - Ventana Sobre Nosotros
-  
-<img src="Imagenes/landing-mockup5.jpeg" width="60%">
+
+<img src="Imagenes/lading-mockup13.jpg" width="60%">
 
 - Ventana de Beneficios
-  
-<img src="Imagenes/landing-mockup6.jpeg" width="60%">
+
+<img src="Imagenes/lading-mockup14.jpg" width="60%">
 
 - Ventana de Membresias
-  
-<img src="Imagenes/landing-mockup7.jpeg" width="60%">
+
+<img src="Imagenes/lading-mockup15.jpg" width="60%">
 
 - Ventana de Testimonios
-  
-<img src="Imagenes/landing-mockup8.jpeg" width="60%">
+
+<img src="Imagenes/lading-mockup16.jpg" width="60%">
 
 ## 4.4. Web Applications UX/UI Design
 
