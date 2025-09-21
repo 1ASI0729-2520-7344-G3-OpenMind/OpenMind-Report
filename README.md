@@ -1064,10 +1064,12 @@ Enlace para acceder al diseño final: [https://www.figma.com/design/p65gaKLoCnMu
 
 - Vista del Historial de Chats
 
+<img src="Imagenes/wireframe10.jpg" width="60%">
 <img src="Imagenes/wireframe6.jpg" width="60%">
 
 - Vista de Recomendaciones
 
+<img src="Imagenes/wireframe11.jpg" width="60%">
 <img src="Imagenes/wireframe7.jpg" width="60%">
 
 - Vista de Editar Perfil
