@@ -37,8 +37,8 @@ Desarrollo de aplicaciones Open Source <br>
  
 | Versión | Fecha       | Autor(es)                                                                                                  | Descripción de la modificación                                                                                                                                                       |
 |---------|-------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| TB1     | 10/08/2025  |Aarón Santiago Baquerizo Cirilo, Daniel Stalin Palomino Murga, Kael Lagos Rivera Valentino, Stephano Mayrzon Landauri Preciado, Carlos Alberto Gonzales Custodio | Se agregaron los capítulos pertenecientes a la TB1, desde el capítulo 1 hasta el capítulo 5 junto a un avance de las conclusiones y la bibliografía                                                                                    |
-| TP     |  | |                                                                                     |
+| TB1     | 10/08/2025  |Aarón Santiago Baquerizo Cirilo, Daniel Stalin Palomino Murga, Kael Lagos Rivera Valentino, Stephano Mayrzon Landauri Preciado, Carlos Alberto Gonzales Custodio | Se agregaron los capítulos pertenecientes a la TB1, desde el capítulo 1 hasta el capítulo 5 junto a un avance de las conclusiones y la bibliografía.                                                                                   |
+| TP     | 4/10/2025  |Aarón Santiago Baquerizo Cirilo, Daniel Stalin Palomino Murga, Kael Lagos Rivera Valentino, Stephano Mayrzon Landauri Preciado, Carlos Alberto Gonzales Custodio | Se agregaron los puntos pertenecientes al Sprint 2 y tambien se desarrollo una primera versión del Fronted Web Applications.                                                                                     |
 | TB2     |   |  |  |
 | TF     |  |  | 
 </div>
@@ -145,6 +145,15 @@ Desarrollo de aplicaciones Open Source <br>
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  - [5.2.2. Sprint 2](#522-sprint-2)
+    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+    - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+    - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+    - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 - [Conclusiones](#conclusiones)
 - [Bibliografia](#bibliografía)
 - [Anexos](#anexos)
@@ -1549,10 +1558,9 @@ En esta seccion especificamos los roles de cada uno de los integrantes del equip
 En esta sección se presentan las evidencias del desarrollo de la Landing Page de OpenMind durante el primer sprint de desarrollo.
 
 A continuación se muestra una recopilación de los commits realizados en el repositorio de GitHub que demuestran el progreso en la implementación de la interfaz inicial:
-
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
 |------------------------|----------------------|-----------|------------------------------------|-------------------------------------------------------|---------------------|
-| Nombre del repositorio | feature/main | ID del commit | feat:added index. | fecha del commit |
+| Mayrzon02/1ASI0729-2520-7344-G3-OpenMind | feature/main |  | feat:added index. | | |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
@@ -1596,6 +1604,72 @@ Para el desarrollo de este primer avance se dividieron las tareas entre los inte
 ### Code frequency:
 
 ![Evidencia](Imagenes/Code_frequency.png)
+
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2
+
+| Sprint #                           | Sprint 2                                                                                                                                                                                      |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Date**                           | 2025-10-5                                                                                                                                                                                    |
+| Time                               | 3:00 PM                                                                                                                                                                                       |
+| Location                           | Virtual - Meet                                                                                                                                                                                |
+| Prepared By                        | Stephano Mayrzon Landauri Preciado                                                                                                                                                                             |
+| Attendees (to planning meeting)    | Stephano Mayrzon Landauri Preciado, Daniel Stalin Palomino Murga, Aarón Santiago Baquerizo Cirilo, Kael Lagos Rivera, Carlos Alberto Gonzales Custodio                                                               |
+| Sprint n - 2 Review Summary        | Durante este sprint se propuso el objetivo de crear una primera versión del Frontend Web Applications que sea funcional y desplegarlo en un servidor de la nube.                                                                                                                                    |
+| Sprint n - 2 Retrospective Summary | Al final de este Sprint, se logró corregir los puntos anteriores del proyecto que fueron marcados en observación y se consiguió desplegar una primera versión del Fronted Web Applications en un servidor de la nube.                                                                                                                                    |
+| Sprint 2 Goal                      | Nuestra prioridad para este segundo sprint es desarrollar y desplegar el Frontend Web Applications con las funcionalidades más llamativas para todos los usuarios. |
+| Sprint 2 Velocity                  | Nuestro equipo puede aceptar hasta 5 Story Points.                                                                                                                                            |
+| Sum of Story Points                | La suma de Story Points atendidos es de (Colocar la suma de storie points dependiendo de los user stories seleccionados en este sprint).                                                                                                                                                    |
+
+#### 5.2.2.2. Aspect Leaders and Collaborators
+
+En esta sección especificamos los roles de cada uno de los integrantes del equipo, en este caso se utilizó el rol de L (Leader) y C (Collaborator) para cada integrante.
+
+| Team Member (Last Name, First Name) | GitHub Username | Aspect Name 1 (L/C) |
+| ----------------------------------- | --------------- | ------------------- |
+| Stephano Mayrzon Landauri Preciado            | Mayrzon02        | L                   |
+| Daniel Stalin Palomino Murga    | DanielPM23     | C                   |
+| Aarón Santiago Baquerizo Cirilo                 | Nombre de usuario Git       | C                   |
+| Kael Lagos Rivera Valentino  | Kaellagos       | C                   |
+| Carlos Alberto Gonzales Custodio        | Nombre de usuario Git        | C                   |
+
+#### 5.2.2.3. Sprint Backlog 2
+
+(Pegar el mismo cuadro del Sprint Backlog 1 aqui, cambiando los user stories que se relacionen con este segundo sprint)
+
+#### 5.2.2.4. Development Evidence for Sprint Review
+
+En esta sección se presentan las evidencias de desarrollo del Fronted Web Applications de OpenMind durante el segundo sprint.
+
+A continuación se muestra una recopilación de los commits realizados en el repositorio de GitHub que demuestran el progreso de su implementación:
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|------------------------|----------------------|-----------|------------------------------------|-------------------------------------------------------|---------------------|
+| Mayrzon02/1ASI0729-2520-7344-G3-OpenMind | feature/main |  | feat:added index. | | |
+
+(Ampliar un poco más esta zona de ser necesario)
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+En este punto se presenta la ejecución del Fronted Web Applications de la aplicación para esta entrega.
+
+(Pegar imágenes de evidencia aqui)
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+En este segundo sprint se realizó una primera versión del Fronted Web Applications de la aplicación OpenMind; por el momento no se ha llegado a implementar algún tipo de servicio en el proyecto.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Se continuo usando el repositorio para hacer el reporte del trabajo utilizando nuevamente GitHub.
+
+(Pegar imágenes de evidencia aqui)
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+Para el desarrollo de este segundo avance se dividieron las tareas entre los integrantes, se cumplieron con las tareas asignadas y se subio el trabajo en el repositorio ni bien se encontraba listo. A continuación se presentan capturas de toda la actividad registrada.
+
+(Pegar imágenes de evidencia aqui)
 
 # Conclusiones
 
@@ -1641,11 +1715,11 @@ el trabajo varias veces.
 errores o desvíos a tiempo y evitar problemas de última hora con la entrega del proyecto.
 
 - Además de organizar la distribución de tareas, es crucial definir claramente los roles de cada
-miembro del equipo. Esto no incluye solo quién se encarga de qué, sino también qué
+miembro del equipo. Esto no incluye solo a quién se encarga de qué, sino también qué
 habilidades y recursos están disponibles para cada función. Esto fomenta un sentido de
 responsabilidad y compromiso con el trabajo de cada uno.
 
-- Establecer un ambiente donde la retroalimentación sea bien recibida y promovida puede
+- Establecer un ambiente donde la retroalimentación sea bien recibida y promovida, ya que puede
 mejorar la calidad del trabajo. Anima a los miembros del equipo a dar y recibir críticas
 constructivas, lo que puede resultar en un producto final más sólido
 
