@@ -1697,7 +1697,7 @@ Para el desarrollo de este segundo avance se dividieron las tareas entre los int
 
 # Conclusiones
 
-"Place To Dialogue" tiene el potencial de fomentar una comunidad de apoyo entre sus usuarios,
+"OpenMind" tiene el potencial de fomentar una comunidad de apoyo entre sus usuarios,
 ya que proporciona un espacio seguro donde las personas pueden sentirse escuchadas y
 comprendidas. Al ofrecer sesiones y actividades personalizadas, la plataforma promueve el
 desarrollo de conexiones emocionales y un sentido de pertenencia, lo que puede ser crucial
