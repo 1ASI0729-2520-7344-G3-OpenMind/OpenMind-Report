@@ -1681,13 +1681,14 @@ En este punto se presenta la ejecución del Fronted Web Applications de la aplic
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-En este segundo sprint se realizó una primera versión del Fronted Web Applications de la aplicación OpenMind; por el momento no se ha llegado a implementar algún tipo de servicio en el proyecto.
+En este segundo sprint se realizó una primera versión del Fronted Web Applications de la aplicación OpenMind, ademas se realizo el despliegue del mismo; por el momento no se ha llegado a implementar algún tipo de servicio en el proyecto.
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 Se continuo usando el repositorio para hacer el reporte del trabajo utilizando nuevamente GitHub.
 
-(Pegar imágenes de evidencia aqui)
+![Evidencia](Imagenes/repositorio.jpg)
+![Evidencia](Imagenes/commits.jpg)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
