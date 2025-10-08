@@ -1694,7 +1694,18 @@ Se continuo usando el repositorio para hacer el reporte del trabajo utilizando n
 
 Para el desarrollo de este segundo avance se dividieron las tareas entre los integrantes, se cumplieron con las tareas asignadas y se subio el trabajo en el repositorio ni bien se encontraba listo. A continuación se presentan capturas de toda la actividad registrada.
 
-(Pegar imágenes de evidencia aqui)
+### Contribuitors
+
+![Evidencia](Imagenes/commits-2.jpg)
+![Evidencia](Imagenes/contribuitors.jpg)
+
+### Traffic:
+
+![Evidencia](Imagenes/clones.jpg)
+
+### Commits
+
+![Evidencia](Imagenes/commits3.jpg)
 
 # Conclusiones
 
