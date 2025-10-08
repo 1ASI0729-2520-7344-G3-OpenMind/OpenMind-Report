@@ -1671,7 +1671,13 @@ A continuación se muestra una recopilación de los commits realizados en el rep
 
 En este punto se presenta la ejecución del Fronted Web Applications de la aplicación para esta entrega.
 
-(Pegar imágenes de evidencia aqui)
+![Evidencia](Imagenes/login-screen.jpg)
+![Evidencia](Imagenes/register-screem.jpg)
+![Evidencia](Imagenes/home-screen.jpg)
+![Evidencia](Imagenes/chatbot-screen.jpg)
+![Evidencia](Imagenes/history-screen.jpg)
+![Evidencia](Imagenes/reomendations-screen.jpg)
+![Evidencia](Imagenes/profile-screen.jpg)
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
