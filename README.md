@@ -39,7 +39,7 @@ Desarrollo de aplicaciones Open Source <br>
 |---------|-------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | TB1     | 10/08/2025  |Aarón Santiago Baquerizo Cirilo, Daniel Stalin Palomino Murga, Kael Lagos Rivera Valentino, Stephano Mayrzon Landauri Preciado, Carlos Alberto Gonzales Custodio | Se agregaron los capítulos pertenecientes a la TB1, desde el capítulo 1 hasta el capítulo 5 junto a un avance de las conclusiones y la bibliografía.                                                                                   |
 | TP     | 4/10/2025  |Aarón Santiago Baquerizo Cirilo, Daniel Stalin Palomino Murga, Kael Lagos Rivera Valentino, Stephano Mayrzon Landauri Preciado, Carlos Alberto Gonzales Custodio | Se agregaron los puntos pertenecientes al Sprint 2 y tambien se desarrollo una primera versión del Fronted Web Applications.                                                                                     |
-| TB2     |   |  |  |
+| TB2     | 6/11/2025  |Aarón Santiago Baquerizo Cirilo, Daniel Stalin Palomino Murga, Kael Lagos Rivera Valentino, Stephano Mayrzon Landauri Preciado, Carlos Alberto Gonzales Custodio  |Se agregaron los puntos pertenecientes al Sprint 3, se aplicaron correcciones a los puntos anteriores señalados por el profesor y tambien se desarrollo una primera versión del web services.|
 | TF     |  |  | 
 </div>
 
@@ -154,6 +154,20 @@ Desarrollo de aplicaciones Open Source <br>
     - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
     - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
     - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+  - [5.2.3. Sprint 3](#523-sprint-3)
+    - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+    - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+    - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+    - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+    - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+    - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+    - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+    - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+  - [5.3. Validation Interviews](#53-validation-interviews)
+  - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
+  - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
+  - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+- [5.4. Video About-the-Product](#54-video-about-the-product) 
 - [Conclusiones](#conclusiones)
 - [Bibliografia](#bibliografía)
 - [Anexos](#anexos)
@@ -1706,6 +1720,134 @@ Para el desarrollo de este segundo avance se dividieron las tareas entre los int
 ### Commits
 
 ![Evidencia](Imagenes/commits3.jpg)
+
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+
+| Sprint #                           | Sprint 3                                                                                                                                                                                      |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Date**                           | 2025-11-6                                                                                                                                                                                    |
+| Time                               | 5:00 PM                                                                                                                                                                                       |
+| Location                           | Virtual - Meet                                                                                                                                                                                |
+| Prepared By                        | Stephano Mayrzon Landauri Preciado                                                                                                                                                                             |
+| Attendees (to planning meeting)    | Stephano Mayrzon Landauri Preciado, Daniel Stalin Palomino Murga, Aarón Santiago Baquerizo Cirilo, Kael Lagos Rivera, Carlos Alberto Gonzales Custodio                                                               |
+| Sprint n - 3 Review Summary        | Durante este sprint nos propusimos arreglar y correguir la mayoria de apartados anteriores en los cuales se detecto una oportunidad de mejora y tambien desarrollar una primera versión del web services con el Backend incluido.                                                                                                                                    |
+| Sprint n - 3 Retrospective Summary | Al final de este Sprint, se logró corregir los puntos anteriores del proyecto que fueron marcados en observación y se consiguió desplegar una primera versión del web services asi como una nueva versión del Web Applications.                                                                                                                                    |
+| Sprint 3 Goal                      | Nuestra prioridad para este tercer sprint es desarrollar la primera versión del web services y mejorar los apartados tanto estéticos como de estructura de nuestra primera versión del Fronted Web Applications. |
+| Sprint 3 Velocity                  | Nuestro equipo puede aceptar hasta 5 Story Points.                                                                                                                                            |
+| Sum of Story Points                | La suma de Story Points atendidos es de 42.                                                                                                                                                    |
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+En esta sección especificamos los roles de cada uno de los integrantes del equipo, en este caso se utilizó el rol de L (Leader) y C (Collaborator) para cada integrante.
+
+| Team Member (Last Name, First Name) | GitHub Username | Aspect Name 1 (L/C) |
+| ----------------------------------- | --------------- | ------------------- |
+| Stephano Mayrzon Landauri Preciado            | Mayrzon02        | L                   |
+| Daniel Stalin Palomino Murga    | DanielPM23     | C                   |
+| Aarón Santiago Baquerizo Cirilo                 | Nombre de usuario Git       | C                   |
+| Kael Lagos Rivera Valentino  | Kaellagos       | C                   |
+| Carlos Alberto Gonzales Custodio        | Nombre de usuario Git        | C                   |
+
+#### 5.2.3.3. Sprint Backlog 3
+
+## Sprint Backlog – OpenMind (Sprint 3)
+
+| Sprint # | User Story | Work-Item/task |   |   |   |   |
+|----------|------------|----------------|---|---|---|---|
+|          | ID         | Título         | Descripción | Estimación (hrs) | Assigned to | Status |
+| Sprint 3 | US-01      | Sección About Us | Como joven entre 18 a 35 años, quisiera conocer más sobre la plataforma OpenMind para entender su funcionamiento. | 1 | Stephano | Done |
+| Sprint 3 | US-02      | Sección Beneficios | Como persona en zonas rurales, quisiera ver los beneficios de usar esta aplicación para evaluar si es conveniente. | 1.5 | Daniel | Done |
+| Sprint 3 | US-03      | Comparación de Membresías | Como joven, quiero ver un plan de membresías con alternativas de servicio según mis preferencias. | 2 | Aron | Done |
+| Sprint 3 | US-04      | Sección de Contacto | Como persona rural, quiero contactar a OpenMind desde la landing page para resolver dudas. | 1 | Carlos | Done |
+| Sprint 3 | US-05      | Sección de Testimonios | Como joven, quiero leer testimonios de otros usuarios sobre la aplicación. | 1.5 | Kael | Done |
+| Sprint 3 | US-06      | Preguntas Frecuentes (FAQ) | Como persona rural, quiero resolver dudas accediendo a la sección FAQ. | 1 | Stephano | Done |
+| Sprint 3 | US-07      | Registro de usuario | Como joven, quisiera registrarme en la aplicación para recibir servicios. | 2 | Daniel | Done |
+| Sprint 3 | US-08      | Uso del chatbot | Como persona rural, quisiera usar un chatbot con IA para identificar servicios o recibir apoyo automático. | 2 | Aron | Done |
+| Sprint 3 | US-09      | Visualizar conversaciones pasadas | Como joven, quiero que mis conversaciones con el chatbot se guarden para consultarlas luego. | 1.5 | Carlos | Done |
+| Sprint 3 | US-10      | Recomendaciones de ayuda profesional | Como persona rural, quiero que el chatbot me recomiende ayuda psicológica profesional. | 2 | Kael | Done |
+| Sprint 3 | US-11      | Sistema de Mensajería | Como joven, quiero comunicarme directamente con un profesional que atienda mi caso. | 2 | Stephano | Done |
+| Sprint 3 | US-12      | Sistema de Reputación | Como persona rural, quiero ver reseñas y valoraciones de profesionales. | 1.5 | Daniel | Done |
+| Sprint 3 | US-13      | Privacidad de datos personales | Como joven, quiero que mis datos tengan seguridad y privacidad. | 1 | Aron | Done |
+| Sprint 3 | US-14      | Modificar información del perfil | Como persona rural, quiero modificar los datos de mi perfil y actualizarlos. | 1.5 | Carlos | Done |
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+En esta sección se presentan las evidencias de desarrollo del Web Services de OpenMind durante el tercer sprint.
+
+A continuación se muestra una recopilación de los commits realizados en el repositorio de GitHub que demuestran el progreso de su implementación:
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|------------------------|----------------------|-----------|------------------------------------|-------------------------------------------------------|---------------------|
+| Mayrzon02/1ASI0729-2520-7344-G3-OpenMind | feature/main |  | feat:added index. | | |
+
+(Ampliar un poco más esta zona de ser necesario)
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+Aqui se demuestra la ejecucion de la API y creacion de la base de datos:
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Para esta nueva entrega se desarrollo el backend, el cual servirá como base datos la cual se encargará de registrar la información de los usuarios que usen la app en tablas. El link al repositorio:
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+## 5.3. Validation Interviews
+
+En está sección se detalla la experiencia de los usuarios al momento de usar la aplicación mediante el registro de entrevistas.
+
+### 5.3.1. Diseño de Entrevistas
+
+Se llevaron a cabo entrevistas que buscan saber las opiniones sobre como funciona la aplicación y si la Interfaz les fue sencilla de entender.
+
+Para el diseño de entrevistas se consideraron los siguientes aspectos:
+
+Objetivo de la entrevista
+Validar la usabilidad, claridad y funcionalidad de la aplicación OpenMind en distintos perfiles de usuario, evaluando si los flujos de interacción fueron fáciles de entender, y si la interfaz resultó intuitiva y útil para los usuarios ya sea para los jóvenes entre 18 a 35 años o las personas que viven en zonas rurales.
+
+Elementos de validación
+Aplicación: Se guió a los usuarios a través de las pantallas principales de la aplicación, evaluando especialmente la navegación, la comprensión de los botones e íconos, y la facilidad para realizar acciones básicas como usar el chatbot, enviar mensajes o explorar las funcionalidades de los perfiles.
+
+User Flows a validar
+Para usuarios generales (jóvenes entre 18 a 35 años):
+
+Visualización de la interfaz: Comprobación de si les resulta adecuado la presentación de la página con su pantalla inicial tomando en cuenta cosas como la estructura o la paleta de colores utilizada.
+Interacción con el chatbot: Evaluación de la experiencia al usar el chatbot incorporado.
+Navegación en la app: Nivel de dificultad para encontrar y entender las secciones principales (inicio, perfil, notificaciones, etc.).
+
+Para usuarios que viven en zonas rurales:
+
+Visualización de recomendaciones profesionales: Verificación de la facilidad para visualizar el apartado de recomendaciones profesionales.
+
+Gestión de conversaciones pasadas: Evaluación de si les resultó util visualizar las conversiones pasadas que llegaron a tener con el chatbot con tal de consultar algunos puntos que se hayan dicho en esa conversación.
+
+Formato de registro de la entrevista
+Datos del entrevistado:
+
+- Nombre y apellidos
+- Edad
+- Distrito de residencia
+- Rol (jóvenes entre 18 a 35 años o persona que vive en zonas rurales)
+- Dispositivo utilizado (smartphone, tablet, laptop)
+
+Preguntas aplicadas
+
+- ¿Qué te pareció la aplicación en general?
+- ¿Te resultó fácil entender cómo usarla?
+- ¿Pudiste encontrar rápido lo que buscabas, como fue tu experiencia al utilizar el chatbot?
+- ¿Te parecieron claros los botones e íconos?
+- ¿Cambiarías algo del diseño o de la paleta de colores de la app?
+- ¿Recomendarías esta app a alguien de tu entorno? ¿Por qué sí o por qué no?
+- ¿Hubo algo que no entendiste o que te confundió mientras usabas la app?
+- ¿Sentiste que la aplicación es útil para brindar ayuda psicológica tanto para los jóvenes como para las personas que viven en zonas rurales las cuales no suelen tener la facilidad para acceder a este tipo de servicios? ¿Por qué?
+
+### 5.3.2. Registro de Entrevistas
+
+### 5.3.3. Evaluaciones según heurísticas
+
+## 5.4. Video About-the-Product
 
 # Conclusiones
 
