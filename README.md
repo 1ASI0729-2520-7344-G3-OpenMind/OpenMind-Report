@@ -1679,7 +1679,9 @@ A continuación se muestra una recopilación de los commits realizados en el rep
 |------------------------|----------------------|-----------|------------------------------------|-------------------------------------------------------|---------------------|
 | Mayrzon02/1ASI0729-2520-7344-G3-OpenMind | feature/main |  | feat:added index. | | |
 
-(Ampliar un poco más esta zona de ser necesario)
+### Link para el repositorio del Fronted:
+
+https://github.com/1ASI0729-2520-7344-G3-OpenMind/OpenMind-Frontend.git
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
@@ -1844,6 +1846,18 @@ Preguntas aplicadas
 - ¿Sentiste que la aplicación es útil para brindar ayuda psicológica tanto para los jóvenes como para las personas que viven en zonas rurales las cuales no suelen tener la facilidad para acceder a este tipo de servicios? ¿Por qué?
 
 ### 5.3.2. Registro de Entrevistas
+
+## Entrevista 1: 
+
+Nombre: Zuriel Andrea Lagos Rivera
+
+Captura:
+
+![Evidencia_Entrevista](Imagenes/Entrevista_Zuriel.png)
+
+Descripción: En esta entrevista se le pregunto a Zuriel Lagos que opinaba de nuestra propuesta de proyecto OpenMind, además de compartir su opinión sobre el resultado actual que tenemos. Nos brindó de un punto de vista único en el cuál enfatizaba los puntos fuertes que tiene la aplicación, así como las cosas que podrian mejorarse de tener la oportunidad. Sus respuestas nos ayudan a darle más forma al proyecto tomando en cuenta las sugerencias que nos dio, además de las opiniones del profesor encargado.
+
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210104_upc_edu_pe/IQCQi6IvZk7QR6c6erc_91B1AWAI0Dn8Dwcv3keKiR9_1G4?e=08DOjt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ### 5.3.3. Evaluaciones según heurísticas
 
