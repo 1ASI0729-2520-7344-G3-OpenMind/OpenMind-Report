@@ -1861,6 +1861,86 @@ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210
 
 ### 5.3.3. Evaluaciones según heurísticas
 
+En este apartado se analizan los resultados de las distintas opiniones de los usuarios que probaron la aplicación, pues se busca encontrar posibles puntos de mejora para desarrollos posteriores siguiendo las 10 heurísticas de usabilidad de Jakob Nielsen.
+
+1. Visibilidad del estado del sistema
+   Fortaleza: No se reportaron grandes problemas de retroalimentación o confusión sobre el funcionamiento de la aplicación.
+
+Evidencia: El usuario pudo navegar sin dificultad y destacó la buena organización de la información.
+
+Sugerencia: Asegurarse de que elementos como cargas, acciones completadas o cambios de estado estén siempre acompañados de retroalimentación visual (loaders, banners, etc.).
+
+2. Relación entre el sistema y el mundo real
+   Fortaleza: Los botones y el contenido fueron considerados claros y bien organizados.
+
+Evidencia: “Los botones eran muy claros”, “el contenido estaba bien organizado”.
+
+Sugerencia: Mantener la comunicación en lenguaje simple y directo, especialmente en formularios o botones de acción.
+
+3. Control y libertad del usuario
+   Fortaleza: No se mencionaron errores ni obstáculos para volver atrás o corregir acciones.
+
+Sugerencia: Asegurar siempre opciones como "cancelar", "editar", y "deshacer" con cualquier función relacionada al chatbot.
+
+4. Consistencia y estándares
+   Fortaleza: El usuario no reportó inconsistencias. La interfaz fue bien recibida en cuanto a claridad y diseño visual.
+
+Evidencia: “Colores indicados”, “la interfaz no es molesta visualmente”.
+
+Sugerencia: Seguir utilizando íconos y patrones visuales comunes, sobre todo en una app que conecta profesionales (mantener estándares UX aumenta la confianza).
+
+5. Prevención de errores
+   Fortaleza: No se reportaron errores ni acciones confusas.
+
+Sugerencia: En secciones como recomendaciones, agregar una descripción que permita comprender ese apartado con respecto a los cuidados que debería tener la persona en caso tenga un problema común como el estrés o la ansiedad. En caso sea algo único como depresión o algún otro problema personal, consultar con el chatbot para obtener una recomendación profesional de un experto.
+
+6. Reconocer antes que recordar
+   Fortaleza: La organización por secciones ayudó al usuario a encontrar la información sin tener que recordar pasos.
+
+Evidencia: “Contenido bien organizado en distintas secciones”.
+
+Sugerencia: Mantener elementos clave visibles siempre (barra de navegación fija, accesos directos, menús claros).
+
+7. Flexibilidad y eficiencia de uso
+   Oportunidad de mejora detectada:
+
+“Carencia de una especie de guía que enseñe a los nuevos usuarios cómo funciona la aplicación”.
+
+Impacto: Usuarios nuevos pueden perderse o no aprovechar completamente las funcionalidades de la plataforma.
+
+Sugerencia a futuro:
+
+Añadir una guía interactiva o recorrido (onboarding) al primer ingreso.
+
+Incluir un botón de “¿Cómo funciona?” accesible desde el menú principal.
+
+O bien una sección tipo FAQ o video corto de 1 minuto que explique las funciones clave.
+
+8. Estética y diseño minimalista
+   Fortaleza: Colores bien elegidos, diseño no sobrecargado, navegación clara.
+
+Evidencia: “Los colores eran los indicados”, “la interfaz no es engorrosa al punto de confundir o molestar al usuario”.
+
+Sugerencia: Continuar priorizando simplicidad visual con foco en contenido útil.
+
+9. Ayudar a reconocer, diagnosticar y recuperar errores
+   Fortaleza: No se mencionaron problemas técnicos o errores.
+
+Sugerencia: Asegurar mensajes claros para casos como fallas en el chatbot ya sea por un comentario no muy claro por parte del usuario, que sea un mensaje tipo: "No comprendo tu mensaje, ¿lo puedes volver a redactar de forma más clara?".
+
+10. Ayuda y documentación
+    Oportunidad de mejora importante:
+
+Se destaca como único punto negativo la ausencia de una documentación para nuevos usuarios que resuma las capacidades y funciones de la aplicación.
+
+Sugerencia a futuro:
+
+- Agregar un tour guiado al ingresar por primera vez.
+
+- Botón de ayuda flotante o sección accesible desde el menú.
+
+- Videos explicativos breves o documentación tipo “primeros pasos”.
+
 ## 5.4. Video About-the-Product
 
 # Conclusiones
