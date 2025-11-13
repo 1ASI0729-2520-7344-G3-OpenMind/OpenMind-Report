@@ -1859,6 +1859,42 @@ Descripción: En esta entrevista se le pregunto a Zuriel Lagos que opinaba de nu
 
 Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210104_upc_edu_pe/IQCQi6IvZk7QR6c6erc_91B1AWAI0Dn8Dwcv3keKiR9_1G4?e=08DOjt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
+## Entrevista 2:
+
+Nombre: 
+
+Captura:
+
+
+
+Descripción: 
+
+Link de la entrevista: 
+
+## Entrevista 3:
+
+Nombre: 
+
+Captura:
+
+
+
+Descripción: 
+
+Link de la entrevista: 
+
+## Entrevista 4:
+
+Nombre: 
+
+Captura:
+
+
+
+Descripción: 
+
+Link de la entrevista:
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 En este apartado se analizan los resultados de las distintas opiniones de los usuarios que probaron la aplicación, pues se busca encontrar posibles puntos de mejora para desarrollos posteriores siguiendo las 10 heurísticas de usabilidad de Jakob Nielsen.
