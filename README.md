@@ -1749,7 +1749,7 @@ En esta sección especificamos los roles de cada uno de los integrantes del equi
 | Daniel Stalin Palomino Murga    | DanielPM23     | C                   |
 | Aarón Santiago Baquerizo Cirilo                 | Nombre de usuario Git       | C                   |
 | Kael Lagos Rivera Valentino  | Kaellagos       | C                   |
-| Carlos Alberto Gonzales Custodio        | Nombre de usuario Git        | C                   |
+| Carlos Alberto Gonzales Custodio        | CarlosGC-LP        | C                   |
 
 #### 5.2.3.3. Sprint Backlog 3
 
