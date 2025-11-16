@@ -1778,9 +1778,20 @@ En esta sección especificamos los roles de cada uno de los integrantes del equi
 En esta sección se presentan las evidencias de desarrollo del Web Services de OpenMind durante el tercer sprint.
 
 A continuación se muestra una recopilación de los commits realizados en el repositorio de GitHub que demuestran el progreso de su implementación:
+
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
-|------------------------|----------------------|-----------|------------------------------------|-------------------------------------------------------|---------------------|
-| Mayrzon02/1ASI0729-2520-7344-G3-OpenMind | feature/main |  | feat:added index. | | |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Mayrzon02/1ASI0729-2520-7344-G3-OpenMind | - | 68437f1 | Replace image link with local image and add description | - | Nov 16, 2025 |
+| Mayrzon02/1ASI0729-2520-7344-G3-OpenMind | - | c377481 | Add files via upload | - | Nov 16, 2025 |
+| Mayrzon02/1ASI0729-2520-7344-G3-OpenMind | - | 3840a59 | Revise interview details in README.md | - | Nov 16, 2025 |
+| Mayrzon02/1ASI0729-2520-7344-G3-OpenMind | - | 59a1625 | Add backend repository link to README | - | Nov 16, 2025 |
+| Mayrzon02/1ASI0729-2520-7344-G3-OpenMind | - | 4249bdf | docs: add GitHub username for Carlos Gonzales in team roles section | - | Nov 13, 2025 |
+| Mayrzon02/1ASI0729-2520-7344-G3-OpenMind | - | 50c7523 | Se añadieron espacios para colocar nuevas entrevistas en el punto 5.3.2 | - | Nov 12, 2025 |
+| Mayrzon02/1ASI0729-2520-7344-G3-OpenMind | - | 6a7e416 | Se agregó contenido al punto 5.3.3 | - | Nov 12, 2025 |
+| Mayrzon02/1ASI0729-2520-7344-G3-OpenMind | - | d5f6a46 | Se añadio contenido referente a nueva entrevista del punto 5.3.2 | - | Nov 11, 2025 |
+| Mayrzon02/1ASI0729-2520-7344-G3-OpenMind | - | 4e72761 | Update class diagram image in README | - | Nov 11, 2025 |
+| Mayrzon02/1ASI0729-2520-7344-G3-OpenMind | - | 4e32e6e | Add files via upload | - | Nov 11, 2025 |
+| Mayrzon02/1ASI0729-2520-7344-G3-OpenMind | - | f74417f | Se añadieron los nuevos puntos pertenecientes a la nueva entrega... | - | Nov 9, 2025 |
 
 ### Link para el repositorio del Backend:
 
