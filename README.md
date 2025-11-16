@@ -1782,7 +1782,9 @@ A continuación se muestra una recopilación de los commits realizados en el rep
 |------------------------|----------------------|-----------|------------------------------------|-------------------------------------------------------|---------------------|
 | Mayrzon02/1ASI0729-2520-7344-G3-OpenMind | feature/main |  | feat:added index. | | |
 
-(Ampliar un poco más esta zona de ser necesario)
+### Link para el repositorio del Backend:
+
+https://github.com/1ASI0729-2520-7344-G3-OpenMind/OpenMind-backend.git
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
