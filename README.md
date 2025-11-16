@@ -1867,7 +1867,7 @@ Nombre: Roxana Josefa Gonzalez Custodio
 
 Captura:
 
-<img width="1915" height="743" alt="image" src="https://github.com/user-attachments/assets/59a82a80-6602-4a8d-b89a-4f80bcd30520" />
+![Evidencia_Entrevista](Imagenes/entrevista_roxana.png)
 
 
 Descripción: En esta entrevista se le pregunto a Roxana Gonzalez que opinaba de nuestra propuesta de proyecto OpenMind. Segun su experiencia con la aplicación le parecio muy util y eficaz sobre todo valora nuestro chat bot integrado, tambien nos brinda algunas sugerencias para mejorar, esta entrevista nos ayudará a poder mejorar nuestra propuesta
