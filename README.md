@@ -1817,6 +1817,14 @@ Para esta nueva entrega se desarrollo el backend, el cual servirá como base dat
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+![Evidencia deploy](Imagenes/backend_deploy.png)
+
+![Evidencia deploy](Imagenes/backend_deploy2.png)
+
+![Evidencia deploy](Imagenes/backend_deplo3.png)
+
+![Evidencia deploy](Imagenes/backend_deploy4.png)
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
 ## 5.3. Validation Interviews
