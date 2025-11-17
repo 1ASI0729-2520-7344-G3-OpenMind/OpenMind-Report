@@ -1829,6 +1829,8 @@ Link: https://openmind-backend-07s9.onrender.com/swagger-ui/index.html
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
+![Evidencia insights](Imagenes/insights.png)
+
 ## 5.3. Validation Interviews
 
 En está sección se detalla la experiencia de los usuarios al momento de usar la aplicación mediante el registro de entrevistas.
