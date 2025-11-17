@@ -1821,7 +1821,7 @@ Para esta nueva entrega se desarrollo el backend, el cual servirá como base dat
 
 ![Evidencia deploy](Imagenes/backend_deploy2.png)
 
-![Evidencia deploy](Imagenes/backend_deplo3.png)
+![Evidencia deploy](Imagenes/backend_deploy3.png)
 
 ![Evidencia deploy](Imagenes/backend_deploy4.png)
 
