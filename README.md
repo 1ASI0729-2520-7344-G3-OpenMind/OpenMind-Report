@@ -2011,6 +2011,8 @@ Sugerencia a futuro:
 
 ## 5.4. Video About-the-Product
 
+Enlace del video:https://youtu.be/KyuA3MiKD4k
+
 # Conclusiones
 
 "OpenMind" tiene el potencial de fomentar una comunidad de apoyo entre sus usuarios,
