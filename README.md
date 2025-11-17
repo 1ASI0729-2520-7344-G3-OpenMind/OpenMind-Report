@@ -1825,6 +1825,8 @@ Para esta nueva entrega se desarrollo el backend, el cual servirá como base dat
 
 ![Evidencia deploy](Imagenes/backend_deploy4.png)
 
+Link: https://openmind-backend-07s9.onrender.com/swagger-ui/index.html
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
 ## 5.3. Validation Interviews
@@ -1903,29 +1905,6 @@ Descripción: En esta entrevista se le pregunto a Roxana Gonzalez que opinaba de
 
 Link de la entrevista: https://drive.google.com/file/d/1uo_c8HBDPyyy_eFqUDQRclt159YbTtsJ/view?usp=sharing
 
-## Entrevista 3:
-
-Nombre: 
-
-Captura:
-
-
-
-Descripción: 
-
-Link de la entrevista: 
-
-## Entrevista 4:
-
-Nombre: 
-
-Captura:
-
-
-
-Descripción: 
-
-Link de la entrevista:
 
 ### 5.3.3. Evaluaciones según heurísticas
 
