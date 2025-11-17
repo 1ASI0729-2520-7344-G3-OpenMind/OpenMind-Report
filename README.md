@@ -1801,9 +1801,19 @@ https://github.com/1ASI0729-2520-7344-G3-OpenMind/OpenMind_backend.git
 
 Aqui se demuestra la ejecucion de la API y creacion de la base de datos:
 
+![Evidencia Execution](Imagenes/backend_notification.png)
+
+![Evidencia Execution](Imagenes/backend_chatbot.png)
+
+![Evidencia Execution](Imagenes/backend_conversation.png)
+
+![Evidencia Execution](Imagenes/backend_mysql.png)
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 Para esta nueva entrega se desarrollo el backend, el cual servirá como base datos la cual se encargará de registrar la información de los usuarios que usen la app en tablas. El link al repositorio:
+
+![Evidencia Execution](Imagenes/backend_services.png)
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
