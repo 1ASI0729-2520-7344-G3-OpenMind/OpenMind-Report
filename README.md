@@ -163,6 +163,15 @@ Desarrollo de aplicaciones Open Source <br>
     - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
     - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
     - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+  - [5.2.4. Sprint 4](#524-sprint-4)
+    - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+    - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
+    - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+    - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+    - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+    - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+    - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+    - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
   - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
   - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
@@ -841,6 +850,8 @@ Formal/Casual, Respetuoso/Irreverente, Entusiasta/Sereno).
 
 - Nombre: OpenMind
 - Logotipo: Moderno, detalles minimalistas que reflejen la idea principal del proyecto
+
+![OpenMind_Logo](Imagenes/OpenMind_Logo.jpg)
 
 Colores principales:
 
@@ -2082,7 +2093,7 @@ Sugerencia a futuro:
 
 ## 5.4. Video About-the-Product
 
-Enlace del video:https://youtu.be/KyuA3MiKD4k
+Enlace del video: https://youtu.be/KyuA3MiKD4k
 
 # Conclusiones
 
@@ -2171,3 +2182,23 @@ académico. Punto Seguido - UPC. https://puntoseguido.upc.edu.pe/el-estres-unive
 https://blogs.usil.edu.pe/novedades/uno-de-cada-tres-peruanos-sufre-un-trastorno-mental
 
 # Anexos
+
+<h4> Anexo A </h4>
+
+- La mitad de los adolescentes no piden ayuda ante un problema de salud mental: https://ciudadesamigas.org/salud-mental-barometro/
+
+<h4> Anexo B </h4>
+
+- Crisis de salud mental en zonas rurales: https://mhanational.org/es/resources/rural-mental-health-crisis/
+
+<h4> Anexo C </h4>
+
+- Gráfico (Evolución de la salud mental juvenil)
+
+![Evidencia_Gráfico](Imagenes/img_indice.png)
+
+<h4> Anexo D </h4>
+
+- Gráfico (Indicadores de riesgo)
+
+![Evidencia_Indicadores](Imagenes/img_indicadores.png)
