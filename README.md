@@ -29,7 +29,7 @@ Desarrollo de aplicaciones Open Source <br>
 
 </div>
 
-<p align="center"><strong>Setiembre 2025</strong></p>
+<p align="center"><strong>Noviembre 2025</strong></p>
 
 # Registro de Versiones del Informe
 
@@ -40,7 +40,7 @@ Desarrollo de aplicaciones Open Source <br>
 | TB1     | 10/08/2025  |Aarón Santiago Baquerizo Cirilo, Daniel Stalin Palomino Murga, Kael Lagos Rivera Valentino, Stephano Mayrzon Landauri Preciado, Carlos Alberto Gonzales Custodio | Se agregaron los capítulos pertenecientes a la TB1, desde el capítulo 1 hasta el capítulo 5 junto a un avance de las conclusiones y la bibliografía.                                                                                   |
 | TP     | 4/10/2025  |Aarón Santiago Baquerizo Cirilo, Daniel Stalin Palomino Murga, Kael Lagos Rivera Valentino, Stephano Mayrzon Landauri Preciado, Carlos Alberto Gonzales Custodio | Se agregaron los puntos pertenecientes al Sprint 2 y tambien se desarrollo una primera versión del Fronted Web Applications.                                                                                     |
 | TB2     | 6/11/2025  |Aarón Santiago Baquerizo Cirilo, Daniel Stalin Palomino Murga, Kael Lagos Rivera Valentino, Stephano Mayrzon Landauri Preciado, Carlos Alberto Gonzales Custodio  |Se agregaron los puntos pertenecientes al Sprint 3, se aplicaron correcciones a los puntos anteriores señalados por el profesor y tambien se desarrollo una primera versión del web services.|
-| TF     |  |  | 
+| TF     | 25/11/2025 | Aarón Santiago Baquerizo Cirilo, Daniel Stalin Palomino Murga, Kael Lagos Rivera Valentino, Stephano Mayrzon Landauri Preciado, Carlos Alberto Gonzales Custodio || 
 </div>
 
 # Project Report Collaboration Insights
@@ -208,10 +208,10 @@ ubicación o condición socioeconómica, pueda recibir la ayuda emocional que ne
 
 | Foto                                                                                                                             | Alumno                             | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |----------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img width="1179" height="1075" alt="image" src="https://github.com/user-attachments/assets/a0892dfd-a9ae-452d-be38-6a6a72b2a48d" /> | Stephano Mayrzon Landauri Preciado | Actual mente estoy cursando el sexto ciclo de la carrera ing de software, siempre me gusta ayudar, soy una persona que me gusta trabajar en equipo y siempre sacar lo mejor de mis compañeros.                                                                                                                                                                                                                                                                                                                                                |
+| <img src="Imagenes/img_Stephano.jpg" alt="Perfil" width="600"/> | Stephano Mayrzon Landauri Preciado | Actual mente estoy cursando el sexto ciclo de la carrera ing de software, siempre me gusta ayudar, soy una persona que me gusta trabajar en equipo y siempre sacar lo mejor de mis compañeros.                                                                                                                                                                                                                                                                                                                                                |
 | <img src="Imagenes/img-daniel-palomino.png" alt="Perfil" width="600"/>                                                           | Daniel Stalin Palomino Murga       | Soy estudiante de Ingeniería de Software en la UPC, actualmente cursando el 5to ciclo de mi carrera y tengo 21 años. Me considero una persona amable, tranquila y perseverante, cualidades que me ayudan tanto en el ámbito académico como en el trabajo en equipo. Me gusta desarrollar proyectos de manera organizada, prestando atención a los detalles para lograr resultados de calidad. En el trabajo colaborativo, me esfuerzo por aportar ideas y respetar las ideas de mis compañeros, apoyarlos y alcanzar los objetivos en conjunto |
 | ![Kael_Foto](Imagenes/Kael_Foto.jpg)                                                                                             | Kael Lagos Rivera Valentino        | Me llamo Kael Lagos, estudio en la UPC de Monterrico. Tengo muchas ganas de aprender, me considero una persona responsable que busca aprender de sus errores cada vez que puede y tambien me considero alguien que se centra en los detalles. Me comprometo a ayudar a mis compañeros para la elaboración de nuestro trabajo que nos pueda asegurar una buena nota al final.                                                                                                                                                                  |
-| <img src="Imagenes/img_aaron.jpg" width="600px">                                                                                   | Aaron Santiago Baquerizo Cirilo    | Mi nombre es Aaron, estudio Ingeniria de Software en la UPC de Monterrico. Me considero alguien responsable que bisca aprender mas sobre cosas nuevas, decidido a apoyar a cada miembro del equipo para lograr el mejor resultado. Asimismo, espero que mis habilidades puedan ser de utilidad para completar el trabajo de la forma mas efectiva.                                                                                                                                                                                            |
+| <img src="Imagenes/img_aaron.jpg" width="600px">                                                                                   | Aaron Santiago Baquerizo Cirilo    | Mi nombre es Aaron, estudio Ingeniria de Software en la UPC de Monterrico. Me considero alguien responsable que busca aprender más sobre cosas nuevas, decidido a apoyar a cada miembro del equipo para lograr el mejor resultado. Asimismo, espero que mis habilidades puedan ser de utilidad para completar el trabajo de la forma mas efectiva.                                                                                                                                                                                            |
 | <img src="Imagenes/img-Carlos-Gonzalez.jpg" width="600px"> | Carlos Alberto Gonzalez Custodio     | Soy estudiante de Ingeniería de Software, me encuentro actualmente cursando el 6to ciclo. Me encanta enriquecer mis conocimientos con nuevos desafíos y tengo un gran interés por el desarrollo web.                                                                                                                                                                                                                                                                                                                 |
 ## 1.2. Solution Profile
 
@@ -1830,6 +1830,96 @@ Link: https://openmind-backend-07s9.onrender.com/swagger-ui/index.html
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
 ![Evidencia insights](Imagenes/insights.png)
+
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4
+
+| Sprint #                           | Sprint 4                                                                                                                                                                                      |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Date**                           | 2025-11-6                                                                                                                                                                                    |
+| Time                               | 5:00 PM                                                                                                                                                                                       |
+| Location                           | Virtual - Meet                                                                                                                                                                                |
+| Prepared By                        | Stephano Mayrzon Landauri Preciado                                                                                                                                                                             |
+| Attendees (to planning meeting)    | Stephano Mayrzon Landauri Preciado, Daniel Stalin Palomino Murga, Aarón Santiago Baquerizo Cirilo, Kael Lagos Rivera, Carlos Alberto Gonzales Custodio                                                               |
+| Sprint n - 4 Review Summary        | Durante este sprint nos propusimos arreglar y correguir la mayoria de apartados anteriores en los cuales se detecto una oportunidad de mejora así como desplegar una mejor versión tanto del informe como del proyecto tomando en cuenta la retroalimentación dada por el profesor.                                                                                                                                    |
+| Sprint n - 4 Retrospective Summary | Al final de este Sprint, se logró corregir los puntos anteriores del proyecto que fueron marcados en observación por el profesor y se desplegó una mejor versión del proyecto.                                                                                                                                    |
+| Sprint 4 Goal                      | Nuestra prioridad para este cuarto sprint es perfeccionar tanto el Fronted como Backend de la aplicación y mejorar los apartados tanto estéticos como de estructura del informe perteneciente al proyecto. |
+| Sprint 4 Velocity                  | Nuestro equipo puede aceptar hasta 5 Story Points.                                                                                                                                            |
+| Sum of Story Points                | La suma de Story Points atendidos es de 42.                                                                                                                                                    |
+#### 5.2.4.2. Aspect Leaders and Collaborators
+
+En esta sección especificamos los roles de cada uno de los integrantes del equipo, en este caso se utilizó el rol de L (Leader) y C (Collaborator) para cada integrante.
+
+| Team Member (Last Name, First Name) | GitHub Username | Aspect Name 1 (L/C) |
+| ----------------------------------- | --------------- | ------------------- |
+| Stephano Mayrzon Landauri Preciado            | Mayrzon02        | L                   |
+| Daniel Stalin Palomino Murga    | DanielPM23     | C                   |
+| Aarón Santiago Baquerizo Cirilo                 | Nombre de usuario Git       | C                   |
+| Kael Lagos Rivera Valentino  | Kaellagos       | C                   |
+| Carlos Alberto Gonzales Custodio        | CarlosGC-LP        | C                   |
+
+#### 5.2.4.3. Sprint Backlog 4
+
+## Sprint Backlog – OpenMind (Sprint 4)
+
+| Sprint # | User Story | Work-Item/task |   |   |   |   |
+|----------|------------|----------------|---|---|---|---|
+|          | ID         | Título         | Descripción | Estimación (hrs) | Assigned to | Status |
+| Sprint 4 | US-01      | Sección About Us | Como joven entre 18 a 35 años, quisiera conocer más sobre la plataforma OpenMind para entender su funcionamiento. | 1 | Stephano | Done |
+| Sprint 4 | US-02      | Sección Beneficios | Como persona en zonas rurales, quisiera ver los beneficios de usar esta aplicación para evaluar si es conveniente. | 1.5 | Daniel | Done |
+| Sprint 4 | US-03      | Comparación de Membresías | Como joven, quiero ver un plan de membresías con alternativas de servicio según mis preferencias. | 2 | Aron | Done |
+| Sprint 4 | US-04      | Sección de Contacto | Como persona rural, quiero contactar a OpenMind desde la landing page para resolver dudas. | 1 | Carlos | Done |
+| Sprint 4 | US-05      | Sección de Testimonios | Como joven, quiero leer testimonios de otros usuarios sobre la aplicación. | 1.5 | Kael | Done |
+| Sprint 4 | US-06      | Preguntas Frecuentes (FAQ) | Como persona rural, quiero resolver dudas accediendo a la sección FAQ. | 1 | Stephano | Done |
+| Sprint 4 | US-07      | Registro de usuario | Como joven, quisiera registrarme en la aplicación para recibir servicios. | 2 | Daniel | Done |
+| Sprint 4 | US-08      | Uso del chatbot | Como persona rural, quisiera usar un chatbot con IA para identificar servicios o recibir apoyo automático. | 2 | Aron | Done |
+| Sprint 4 | US-09      | Visualizar conversaciones pasadas | Como joven, quiero que mis conversaciones con el chatbot se guarden para consultarlas luego. | 1.5 | Carlos | Done |
+| Sprint 4 | US-10      | Recomendaciones de ayuda profesional | Como persona rural, quiero que el chatbot me recomiende ayuda psicológica profesional. | 2 | Kael | Done |
+| Sprint 4 | US-11      | Sistema de Mensajería | Como joven, quiero comunicarme directamente con un profesional que atienda mi caso. | 2 | Stephano | Done |
+| Sprint 4 | US-12      | Sistema de Reputación | Como persona rural, quiero ver reseñas y valoraciones de profesionales. | 1.5 | Daniel | Done |
+| Sprint 4 | US-13      | Privacidad de datos personales | Como joven, quiero que mis datos tengan seguridad y privacidad. | 1 | Aron | Done |
+| Sprint 4 | US-14      | Modificar información del perfil | Como persona rural, quiero modificar los datos de mi perfil y actualizarlos. | 1.5 | Carlos | Done |
+
+#### 5.2.4.4. Development Evidence for Sprint Review
+
+En esta sección se presentan las evidencias de desarrollo del Web Services de OpenMind durante el cuarto sprint.
+
+A continuación se muestra una recopilación de los commits realizados en el repositorio de GitHub que demuestran el progreso de su implementación:
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Mayrzon02/1ASI0729-2520-7344-G3-OpenMind | - | 68437f1 | Replace image link with local image and add description | - | Nov 16, 2025 |
+| Mayrzon02/1ASI0729-2520-7344-G3-OpenMind | - | c377481 | Add files via upload | - | Nov 16, 2025 |
+| Mayrzon02/1ASI0729-2520-7344-G3-OpenMind | - | 3840a59 | Revise interview details in README.md | - | Nov 16, 2025 |
+| Mayrzon02/1ASI0729-2520-7344-G3-OpenMind | - | 59a1625 | Add backend repository link to README | - | Nov 16, 2025 |
+| Mayrzon02/1ASI0729-2520-7344-G3-OpenMind | - | 4249bdf | docs: add GitHub username for Carlos Gonzales in team roles section | - | Nov 13, 2025 |
+| Mayrzon02/1ASI0729-2520-7344-G3-OpenMind | - | 50c7523 | Se añadieron espacios para colocar nuevas entrevistas en el punto 5.3.2 | - | Nov 12, 2025 |
+| Mayrzon02/1ASI0729-2520-7344-G3-OpenMind | - | 6a7e416 | Se agregó contenido al punto 5.3.3 | - | Nov 12, 2025 |
+| Mayrzon02/1ASI0729-2520-7344-G3-OpenMind | - | d5f6a46 | Se añadio contenido referente a nueva entrevista del punto 5.3.2 | - | Nov 11, 2025 |
+| Mayrzon02/1ASI0729-2520-7344-G3-OpenMind | - | 4e72761 | Update class diagram image in README | - | Nov 11, 2025 |
+| Mayrzon02/1ASI0729-2520-7344-G3-OpenMind | - | 4e32e6e | Add files via upload | - | Nov 11, 2025 |
+| Mayrzon02/1ASI0729-2520-7344-G3-OpenMind | - | f74417f | Se añadieron los nuevos puntos pertenecientes a la nueva entrega... | - | Nov 9, 2025 |
+
+### Link para el repositorio del Backend:
+
+https://github.com/1ASI0729-2520-7344-G3-OpenMind/OpenMind_backend.git
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Para esta entrega se presenta el despliegue del software y su funcionamiento.
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+
 
 ## 5.3. Validation Interviews
 
