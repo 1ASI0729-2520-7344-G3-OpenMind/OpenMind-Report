@@ -1918,6 +1918,9 @@ https://github.com/1ASI0729-2520-7344-G3-OpenMind/OpenMind_backend.git
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
+El equipo logró consolidar una arquitectura de software profesional, separando responsabilidades mediante capas. Se implementaron las interfaces REST necesarias para que el frontend consuma los servicios de comunicación y soporte. Asimismo, se realizaron pruebas de integración para asegurar que los controladores interactúen correctamente con la capa de persistencia y servicios externos, dejando el backend listo para la fase de consumo por parte de la aplicación cliente.
+
+### Evidencia visual:
 
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
