@@ -1076,11 +1076,11 @@ Enlace para acceder al diseño final: [https://www.figma.com/design/p65gaKLoCnMu
 
 - Vista de Inicio de Sesion
 
-<img src="Imagenes/wireframe1.jpg" width=60%>
+<img src="Imagenes/imagen-wireframe1.jpg" width=60%>
 
 - Vista de Registro
 
-<img src="Imagenes/wireframe2.jpg" width="60%">
+<img src="Imagenes/imagen-wireframe2.jpg" width="60%">
 
 - Vista de Inicio
 
@@ -1088,8 +1088,8 @@ Enlace para acceder al diseño final: [https://www.figma.com/design/p65gaKLoCnMu
 
 - Vista Chat con Bot
 
-<img src="Imagenes/wireframe4.jpg" width="60%">
-<img src="Imagenes/wireframe5.jpg" width="60%">
+<img src="Imagenes/imagen-wireframe3.jpg" width="60%">
+<img src="Imagenes/imagen-wireframe4.jpg" width="60%">
 
 - Vista del Historial de Chats
 
@@ -1112,7 +1112,7 @@ En esta sección se presentan los Wireflows para cada objetivo del usuario. Para
 #### Inicio de sesión / Registro
 El usuario desea iniciar sesion o registrarse en la plataforma para poder acceder a las funcionalidades de OpenMind. El usuario vera el formulario para Iniciar Sesion, cuando ingresa sus datos correctos es redirigido a la pantalla principal. Si no tiene cuenta, puede seleccionar la opcion de Registrarse, esto lo redigira a un formulario donde ingresara su nombre, correo y contraseña. El sistema validara los datos, si son correctos es redirigido a la pantalla principal y estara listo para utilizar la aplicacion.
 
-<img src="Imagenes/wireflow1.jpg" width="60%">
+<img src="Imagenes/wireframe1.jpg" width="60%">
 
 ---
 
@@ -1121,21 +1121,21 @@ El usuario desea iniciar sesion o registrarse en la plataforma para poder accede
 
 El usuario desea poder interactuar con el bot para poder recibir apoyo, ademas desea guardar la conversacion para poder revisarla nuevamente en otro momento. Desde la pantalla principal, selecciona la opcion Chatear con OpenMind accediendo a la pantalla del chat. Alli podra enviar mensajes y recibir respuestas en tiempo real. Si desea guardar la conversacion, pulsa el boton "Guardar", ingresando el Nombre para la conversacion y confirma el guardado. El sistema almacenara automaticamente el chat para ser mostrado posteriormente en el Historial.
 
-<img src="Imagenes/wireflow2.jpg" width="60%">
+<img src="Imagenes/wireframe2.jpg" width="60%">
 
 ---
 
 #### Historial de conversaciones
 El usuario quiere volver a revisar conversaciones previas para recordar las reconemdaciones del bot. Desde la pantalla principal, selecciona "Historial de Conversaciones", donde vera una pantalla con una lista de sus conversaciones guardadas, cada una con su respectivo titulo. Al seleccionar alguna conversacion podra ver el detalle de la misma
 
-<img src="Imagenes/wireflow3.jpg" width="60%">
+<img src="Imagenes/wireframe3.jpg" width="60%">
 
 ---
 
 #### Recomendaciones profesionales
 El usuario desea poder recibir orientacion experta sin la necesidad de poder chatear en vivo con el especialista. Desde la pantalla principal, selecciona "Recomendaciones Profesionales", visualizara una lista de todas sus conversaciones, cada una de estas conversaciones tendra una lista de recomendaciones
 
-<img src="Imagenes/wireflow4.jpg" width="60%">
+<img src="Imagenes/wireframe4.jpg" width="60%">
 
 ### 4.4.3. Web Applications Mock-ups
 Enlace para acceder al Diseño:[https://www.figma.com/design/p65gaKLoCnMuTCvewWL3hR/Landing-Page---OpenMind?node-id=0-1&t=E1fuv8nGHDIFtDcB-1](https://www.figma.com/design/p65gaKLoCnMuTCvewWL3hR/Landing-Page---OpenMind?node-id=0-1&t=E1fuv8nGHDIFtDcB-1)
@@ -1175,7 +1175,7 @@ Enlace para acceder al Diseño:[https://www.figma.com/design/p65gaKLoCnMuTCvewWL
 
 En esta sección se presentan los diagramas de flujo de usuario para las aplicaciones web de OpenMind, los cuales ilustran el recorrido que sigue un usuario dentro de la plataforma.
 
-<img src="Imagenes/userflow.jpg" width="60%">
+<img src="Imagenes/wireframe5.jpg" width="60%">
 
 ## 4.5. Web Applications Prototyping
 
