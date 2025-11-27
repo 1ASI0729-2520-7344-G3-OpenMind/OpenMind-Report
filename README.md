@@ -1997,16 +1997,34 @@ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210
 
 ## Entrevista 2:
 
-Nombre: Roxana Josefa Gonzalez Custodio
+**Nombre:** Roxana Josefa Gonzalez Custodio  
+**Link de la entrevista:** https://drive.google.com/file/d/1uo_c8HBDPyyy_eFqUDQRclt159YbTtsJ/view?usp=sharing
 
-Captura:
+### 👤 Perfil del Entrevistado
+* **Rango de edad:** Joven adulto (18 - 35 años).
+* **Nivel de alfabetización digital:** Medio (Uso de redes sociales y apps básicas).
+* **Contexto:** Residente en una zona con acceso limitado a servicios presenciales de salud mental o con necesidad de confidencialidad estricta.
 
+### 🎯 Justificación de la Selección
+Se seleccionó a este usuario porque representa fielmente a nuestro **"Usuario Beneficiario de zona rural"**. Al estar dentro del rango de edad objetivo y valorar la accesibilidad remota, su interacción con el chatbot valida si nuestra propuesta de valor está siendo efectiva. Su feedback es crucial para entender si la barrera tecnológica es lo suficientemente baja y si la sensación de "calma" y "seguridad" se transmite correctamente a través de la interfaz.
+
+### 💬 Citas Textuales y Patrones Identificados
+A continuación, se presentan las frases más relevantes que validan nuestras hipótesis de diseño y propuesta de valor:
+
+**1. Sobre la Interfaz Emocional (Validación de UX)**
+> "Se siente amigable y transmite calma, lo cual encaja bien con el propósito de brindar apoyo psicológico."
+
+**2. Sobre la Utilidad del Chatbot (Validación de Funcionalidad)**
+> "El chatbot respondió de manera clara y directa... Se siente bastante útil, especialmente cuando uno no sabe por dónde empezar."
+
+**3. Sobre el Impacto Social (Validación de Misión)**
+> "Para las zonas rurales eso es clave, ya que muchas veces no tienen acceso a servicios psicológicos. La app hace que ese tipo de ayuda sea más cercana."
+
+**4. Oportunidades de Mejora (Feedback)**
+> "Quizás probaría con algunos contrastes un poco más fuertes para que ciertas secciones destaquen mejor."
+
+### 📸 Evidencia Visual
 ![Evidencia_Entrevista](Imagenes/entrevista_roxana.png)
-
-
-Descripción: En esta entrevista se le pregunto a Roxana Gonzalez que opinaba de nuestra propuesta de proyecto OpenMind. Segun su experiencia con la aplicación le parecio muy util y eficaz sobre todo valora nuestro chat bot integrado, tambien nos brinda algunas sugerencias para mejorar, esta entrevista nos ayudará a poder mejorar nuestra propuesta
-
-Link de la entrevista: https://drive.google.com/file/d/1uo_c8HBDPyyy_eFqUDQRclt159YbTtsJ/view?usp=sharing
 
 
 ### 5.3.3. Evaluaciones según heurísticas
