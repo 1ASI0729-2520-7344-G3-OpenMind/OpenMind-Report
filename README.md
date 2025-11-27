@@ -1985,15 +1985,35 @@ Preguntas aplicadas
 
 ## Entrevista 1: 
 
-Nombre: Zuriel Andrea Lagos Rivera
+**Nombre:** Zuriel Andrea Lagos Rivera  
+**Link de la entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210104_upc_edu_pe/IQCQi6IvZk7QR6c6erc_91B1AWAI0Dn8Dwcv3keKiR9_1G4?e=08DOjt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-Captura:
+### 👤 Perfil del Entrevistado
+* **Rango de edad:** Joven adulto (18 - 35 años).
+* **Nivel de alfabetización digital:** Medio-Alto (Valora la intuición de la UI, entiende conceptos de auto-guardado y modos de visualización).
+* **Contexto:** Persona con rutina ocupada que valora la privacidad y busca herramientas de apoyo emocional sin el miedo al juicio social.
 
+### 🎯 Justificación de la Selección
+Se seleccionó a este usuario para evaluar la **curva de aprendizaje** de la aplicación y la percepción ética del uso de IA en salud mental. Su perfil representa al usuario que busca una herramienta de "primer contacto" o contención emocional rápida. Sus aportes son críticos para validar si la navegación es lo suficientemente intuitiva y para detectar brechas funcionales (como el guardado de datos) que podrían generar ansiedad en el usuario.
+
+### 💬 Citas Textuales y Patrones Identificados
+A continuación, se presentan los hallazgos clave derivados de la entrevista:
+
+**1. Sobre la Intuición y Navegación (Validación de UX)**
+> "La aplicación me pareció bastante intuitiva... es algo bastante fácil de entender con tan solo el ícono... Muchas partes tenían una pequeña descripción, así me puedo guiar mejor."
+
+**2. Sobre la Seguridad Emocional del Chatbot (Propuesta de Valor)**
+> "Te puede ayudar un poco a entenderte a ti mismo. El preguntar las cosas que tú quieras, sin juicios... es una experiencia bastante cómoda."
+
+**3. Sobre el Diseño Visual y Accesibilidad (Feedback UI)**
+> "Me gusta que sea bastante calmada, me trae paz... [pero] el color blanco... podría tener un apartado para esas personas que les gusta que las páginas no sean muy brillantes (Modo Oscuro)."
+
+**4. Puntos Críticos y Funcionalidades Faltantes (Mejoras)**
+> **Auto-guardado:** "Me causa un poco de conflicto el hecho de que por accidente se me vaya a poder perder la conversación... me gustaría que hubiera esa opción de autoguardado."
+> **Escalabilidad:** "Sería bueno que pudieran de una forma, por ejemplo, alertar en caso de que hubiera un caso muy fuerte [para derivar a un profesional real]."
+
+### 📸 Evidencia Visual
 ![Evidencia_Entrevista](Imagenes/Entrevista_Zuriel.png)
-
-Descripción: En esta entrevista se le pregunto a Zuriel Lagos que opinaba de nuestra propuesta de proyecto OpenMind, además de compartir su opinión sobre el resultado actual que tenemos. Nos brindó de un punto de vista único en el cuál enfatizaba los puntos fuertes que tiene la aplicación, así como las cosas que podrian mejorarse de tener la oportunidad. Sus respuestas nos ayudan a darle más forma al proyecto tomando en cuenta las sugerencias que nos dio, además de las opiniones del profesor encargado.
-
-Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210104_upc_edu_pe/IQCQi6IvZk7QR6c6erc_91B1AWAI0Dn8Dwcv3keKiR9_1G4?e=08DOjt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ## Entrevista 2:
 
