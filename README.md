@@ -1939,8 +1939,6 @@ El equipo logró consolidar una arquitectura de software profesional, separando 
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
-### 5.2.4.6. Services Documentation Evidence for Sprint Review
-
 A continuación, se detalla la especificación técnica de los endpoints expuestos en el backend, los cuales fueron validados mediante Swagger UI.
 
 | Controller | Endpoint | Verbo | Acción | Parámetros | Ejemplo de Request | Ejemplo de Response | Explicación |
@@ -1966,7 +1964,7 @@ Aqui URL del Swagger: https://openmind-backend-07s9.onrender.com/swagger-ui/inde
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
-
+![Contributors](Imagenes/Contributors.png)
 
 ## 5.3. Validation Interviews
 
