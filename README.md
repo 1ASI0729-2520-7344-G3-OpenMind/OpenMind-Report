@@ -1939,6 +1939,18 @@ El equipo logró consolidar una arquitectura de software profesional, separando 
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
+### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+A continuación, se detalla la especificación técnica de los endpoints expuestos en el backend, los cuales fueron validados mediante Swagger UI.
+
+| Controller | Endpoint | Verbo | Acción | Parámetros | Ejemplo de Request | Ejemplo de Response | Explicación |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **notification** | `/api/v1/notifications` | `POST` | Crear notificación | Body | `{"customerId": 105, "content": "Recordatorio", "status": "PENDING"}` | `{"id": "notif-01", "content": "Recordatorio", "status": "PENDING"}` | Genera una nueva alerta o notificación para un usuario específico. |
+| **chatbot** | `/api/v1/internal/chatbot/reply` | `POST` | Generar respuesta IA | Query: `conversationId` | `"Me siento ansioso"` (Body: String) | `{"reply": "Entiendo, respira profundo..."}` | Procesa el texto del usuario y retorna una respuesta automática generada por el bot. |
+| **conversation** | `/api/v1/conversations` | `POST` | Iniciar conversación | Body | `{"customerId": 105}` | `{"id": "conv-uuid", "active": true, "messages": []}` | Crea una nueva sesión de chat activa para el cliente indicado. |
+| **conversation** | `/api/v1/conversations/{conversationId}/messages` | `GET` | Listar mensajes | Path: `conversationId` | N/A | `[{"id": "msg-1", "content": "Hola", "sender": "USER"}]` | Recupera el historial completo de mensajes asociados a una conversación. |
+| **conversation** | `/api/v1/conversations/{conversationId}/messages` | `POST` | Enviar mensaje | Path: `conversationId` | `{"sender": "USER", "text": "Necesito ayuda"}` | `{"id": "msg-2", "content": "Necesito ayuda", "sentAt": "2025-11..."}` | Registra un nuevo mensaje enviado por el usuario dentro de la sesión de chat. |
+| **conversation** | `/api/v1/conversations/{conversationId}` | `GET` | Obtener conversación | Path: `conversationId` | N/A | `{"id": "conv-uuid", "customerId": 105, "active": true}` | Retorna los detalles y metadatos de una conversación específica. |
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
