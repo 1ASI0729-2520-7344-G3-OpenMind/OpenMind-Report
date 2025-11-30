@@ -1956,6 +1956,14 @@ A continuación, se detalla la especificación técnica de los endpoints expuest
 
 Para esta entrega se presenta el despliegue del software y su funcionamiento.
 
+![Evidencia_deploy](Imagenes/dep_back1.png)
+
+![Evidencia_deploy](Imagenes/dep_back2.png)
+
+![Evidencia_deploy](Imagenes/dep_back3.png)
+
+Aqui URL del Swagger: https://openmind-backend-07s9.onrender.com/swagger-ui/index.html
+
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
 
