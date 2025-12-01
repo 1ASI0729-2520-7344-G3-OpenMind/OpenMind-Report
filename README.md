@@ -2219,6 +2219,8 @@ responsabilidad y compromiso con el trabajo de cada uno.
 mejorar la calidad del trabajo. Anima a los miembros del equipo a dar y recibir críticas
 constructivas, lo que puede resultar en un producto final más sólido
 
+Video About the Team:https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b253_upc_edu_pe/IQBVWJT8y-b6QLUHrSBsVvr6AZkKEP03D2_XJWUojxcNEAY?e=qb5zjX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 # Bibliografia
 
 - Actualízatec. (2023, 8 mayo). COMPARATIVA A FONDO Google Play vs App Store. Actualízatec: Mobile &
