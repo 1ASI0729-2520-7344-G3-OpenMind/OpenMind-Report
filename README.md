@@ -1806,7 +1806,7 @@ A continuación se muestra una recopilación de los commits realizados en el rep
 
 ### Link para el repositorio del Backend:
 
-https://github.com/1ASI0729-2520-7344-G3-OpenMind/OpenMind_backend.git
+https://github.com/1ASI0729-2520-7344-G3-OpenMind/OpenMindbackend.git
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
@@ -1914,7 +1914,7 @@ A continuación se muestra una recopilación de los commits realizados en el rep
 
 ### Link para el repositorio del Backend:
 
-https://github.com/1ASI0729-2520-7344-G3-OpenMind/OpenMind_backend.git
+https://github.com/1ASI0729-2520-7344-G3-OpenMind/OpenMindbackend.git
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
